@@ -22,6 +22,6 @@ SHA1: a01971cdce4d98e770d9c083a5accb8cb5260112
 
 BLAKE2sp: cba746fd891f85a60e63b95ed0ef7fae465d2aeb76a1e510b087143d2c9499fc
 
-// This takes to original (U) region game and creates: Body Count (Beta) (M5) (W).gen
+// This takes to original (E) region game and creates: Body Count (Beta) (M5) (W).gen
 
 
