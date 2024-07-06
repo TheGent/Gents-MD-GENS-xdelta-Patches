@@ -85,6 +85,19 @@ BLAKE2sp: e3da4861b93f4dadc447205d7218c66ca1b79705b27b1d68e99ba1ca8b6934ee
 
 ## Aerobiz Supersonic (U)
 
+Name: Aerobiz Supersonic (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 9377F1B5
+
+CRC64: DE83E0C0D550D21A
+
+SHA256: d1d12c8696baf50b62d6a6e82f167915305ee39296c0124a148fcd4b28581561
+
+SHA1: f29b148c052f50a89e3b877ce027a0d5aaa387d1
+
+BLAKE2sp: 857a60bd0615ece1ac1dc35aca43f387ac85df534841b5e41a893ce62636690e
 
 // This takes to original (U) region game and creates: Aerobiz Supersonic (W).gen
 
