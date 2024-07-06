@@ -121,6 +121,19 @@ BLAKE2sp: 037f265f51baf2fb962c7fb02601ad5d391395871c6ff9ab985c94ddb80678d5
 
 ## Art of Fighting (U)
 
+Name: Art of Fighting (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: C9A57E07
+
+CRC64: 6A60A62C06700FB5
+
+SHA256: 5d2b45c3c79a86be07710b94915afaa2e4f7c8ade56dda6cf8b7818a58f7a848
+
+SHA1: 7603f33a98994e8145c942e1ed28e6b072332324
+
+BLAKE2sp: 720ca2f7f836a6bc7870fc406042ff169a88007b0d5cac103ff1b4d19f737b30
 
 // This takes to original (U) region game and creates: Art of Fighting (W).gen
 
