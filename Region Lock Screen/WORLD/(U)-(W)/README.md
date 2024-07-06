@@ -286,6 +286,13 @@ BLAKE2sp: bcb4fe79de3080ea685243ac4d3bbee6f51197688e370fcf91c7bfd51954b33a
 
 ## Brutal - Paws of Fury (U)
 
+Name: Brutal - Paws of Fury (U) [!].gen
+Size: 2097152 bytes (2048 KiB)
+CRC32: 98D502CD
+CRC64: 2E8770A9E9D4E245
+SHA256: f8ccc732eab9e732f89fd313f1160e45354c92a022ff97bc7bf64ddf413f85cb
+SHA1: 51b712e87e8f9cf7a93cfc78ec27d2e80b316ec3
+BLAKE2sp: a786534f5b057ce012ba2f2e3c6fe60b2bf0c5187298c1da2862900ceb18aa84
 
 // This takes to original (U) region game and creates: Brutal - Paws of Fury (W).gen
 
