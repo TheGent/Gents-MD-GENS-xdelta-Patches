@@ -267,6 +267,19 @@ BLAKE2sp: a270a7a6e1495f1790a15a0374ff15d72614c3834d5fa2488b7a0439b875fb4e
 
 ## Boogerman (U)
 
+Name: Boogerman (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 1A7A2BEC
+
+CRC64: 6CE9CF3D114643C3
+
+SHA256: 60750de4ba7f07ee4c8d2bb01ff4b0b5555736d35865bd2d33b34631328954c9
+
+SHA1: bb1d23ca4c48d37bf3170d320cc30bfbc2acdfff
+
+BLAKE2sp: bcb4fe79de3080ea685243ac4d3bbee6f51197688e370fcf91c7bfd51954b33a
 
 // This takes to original (U) region game and creates: Boogerman (W).gen
 
