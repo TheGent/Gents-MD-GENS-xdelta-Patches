@@ -103,6 +103,19 @@ BLAKE2sp: 857a60bd0615ece1ac1dc35aca43f387ac85df534841b5e41a893ce62636690e
 
 ## Animaniacs (U)
 
+Name: Animaniacs (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 86224D86
+
+CRC64: 9EA16C5455ABC796
+
+SHA256: 31fbf9d442d578c43788a024336639648d5c7dab4502636e127190c991ff3604
+
+SHA1: 7e9d70b5172b4ea9e1b3f5b6009325fa39315a7c
+
+BLAKE2sp: 037f265f51baf2fb962c7fb02601ad5d391395871c6ff9ab985c94ddb80678d5
 
 // This takes to original (U) region game and creates: Animaniacs (W).gen
 
