@@ -157,6 +157,19 @@ BLAKE2sp: f04283a0a61c2d71e01680ae8405d658d61582bc6b18a80d9af542a32da999f6
 
 ## Ayrton Senna's Super Monaco GP II (U)
 
+Name: Ayrton Senna's Super Monaco GP II (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: EAC8DED6
+
+CRC64: 681E9AE50A80D53D
+
+SHA256: c02206602e00dd8e9b6c38943b8a3be41e37d2d21c1768cf342900bce11ab4f0
+
+SHA1: 1ee87744d86c4bdd4958cc70d77538351aa206e6
+
+BLAKE2sp: 807659acf5208b3e4e56f3038777cd7532bde33209e577f6eaf56588aba50174
 
 // This takes to original (U) region game and creates:  Ayrton Senna's Super Monaco GP II (W).gen
 
