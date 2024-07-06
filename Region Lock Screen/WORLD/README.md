@@ -67,6 +67,19 @@ BLAKE2sp: c79e3aa5c8c756ed1068595d7f4275b11558d32e2f53162c69835984028d6b0a
 
 ## Aero the Acro-Bat 2 (U)
 
+Name: Aero the Acro-Bat 2 (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 39EB74EB
+
+CRC64: 2CD9CDFE4A4E9D02
+
+SHA256: 1665e5d6dd19e6b72fcd8b3e2d483322967e144a19b0d8f36216f6c7cc6caaa7
+
+SHA1: 6284a8a6c39137493b1ccc01fcd115cdfb775750
+
+BLAKE2sp: e3da4861b93f4dadc447205d7218c66ca1b79705b27b1d68e99ba1ca8b6934ee
 
 // This takes to original (U) region game and creates: Aero the Acro-Bat 2 (W).gen
 
