@@ -299,6 +299,19 @@ BLAKE2sp: a786534f5b057ce012ba2f2e3c6fe60b2bf0c5187298c1da2862900ceb18aa84
 
 ## Bubba N Stix (U)
 
+Name: Bubba N Stix (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: D45CB46F
+
+CRC64: C627495FD88792B7
+
+SHA256: ab4d97f155994d39094f6174ec048b4c9dc75d6b2b39da6c237c92c18ac7d2b2
+
+SHA1: 907c875794b8e3836e5811c1f28aa90cc2c8ffed
+
+BLAKE2sp: e7c892a252aacc2a105c28b50775bc0fb1d8b3b60c3b9f65524cf70e88c75a63
 
 // This takes to original (U) region game and creates: Bubba N Stix (W).gen
 
