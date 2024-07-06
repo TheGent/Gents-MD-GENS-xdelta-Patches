@@ -265,12 +265,6 @@ BLAKE2sp: a270a7a6e1495f1790a15a0374ff15d72614c3834d5fa2488b7a0439b875fb4e
 // This takes to original (U) region game and creates: Bill Walsh College Football '95 (W).gen
 
 
-## Body Count (Beta) (M5)
-
-
-// This takes to original (U) region game and creates: Body Count (Beta) (M5) (W).gen
-
-
 ## Boogerman (U)
 
 
