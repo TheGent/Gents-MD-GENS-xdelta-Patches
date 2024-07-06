@@ -214,6 +214,19 @@ BLAKE2sp: 9c33ec0c640984f114be0705d0d91c0fda4b4dff7a63b718569cc666c35f7aa8
 
 ## Beauty and the Beast - Belle's Quest (U)
 
+Name: Beauty and the Beast - Belle's Quest (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: BEFB6FAE
+
+CRC64: D9DEECD037EFC6D6
+
+SHA256: e11c309ea5c91e49cbea802a17bbbf2da206d7a09d9160f4482c39861d104ce6
+
+SHA1: f88a712ae085ac67f49cb0a8fa16a47e82e780cf
+
+BLAKE2sp: 7314db181ba84b06389cbdb042cec1b05ad39d6ba837371cd2897ee39163785d
 
 // This takes to original (U) region game and creates: Beauty and the Beast - Belle's Quest (W).gen
 
