@@ -248,6 +248,19 @@ BLAKE2sp: 9a6ae6b2d4422a8fab63ed8954b9e6fb039af15a24d62e571ac9ce1874f65f29
 
 ## Bill Walsh College Football '95 (U)
 
+Name: Bill Walsh College Football '95 (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: A582F45A
+
+CRC64: 4C60D502B713D2DB
+
+SHA256: 81a62d8ac659b1be6572220da7722ff73a55802407742d8e6fef3bcc873b9c20
+
+SHA1: 2ae000f45474b3cdedd08eeca7f5e195959ba689
+
+BLAKE2sp: a270a7a6e1495f1790a15a0374ff15d72614c3834d5fa2488b7a0439b875fb4e
 
 // This takes to original (U) region game and creates: Bill Walsh College Football '95 (W).gen
 
