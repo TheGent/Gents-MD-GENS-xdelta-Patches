@@ -316,9 +316,21 @@ BLAKE2sp: e7c892a252aacc2a105c28b50775bc0fb1d8b3b60c3b9f65524cf70e88c75a63
 // This takes to original (U) region game and creates: Bubba N Stix (W).gen
 
 
-
 ## Bubble and Squeak (U)
 
+Name: Bubble and Squeak (U) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: 28C4A006
+
+CRC64: 5EB6A9A51F844641
+
+SHA256: fbd7bf71eccf2f654049178440769fe709ae507c5607b809d6e1cc8a6c4d7acd
+
+SHA1: 0457b0220c86f58d8249cbd5987f63c5439d460c
+
+BLAKE2sp: e057dc7e629f26905af505bb0275714f9b1dc2a1456cf3eca520f8f87df7de21
 
 // This takes to original (U) region game and creates: Bubble and Squeak (W).gen
 
