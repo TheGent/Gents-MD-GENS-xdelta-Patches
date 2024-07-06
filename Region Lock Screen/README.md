@@ -14,6 +14,12 @@ Here you will find three main sections:
    - JAPAN-EUROPE
    - USA-EUROPE
 - World
+   - (J)-(W)
+   - (E)-(W)
+   - (JU)-(W)
+   - (U)-(W)
+   - (UE)-(W)
+     
 World (W) is Universal (Region-Free) and compatible with "All Region Consoles"
 
 
