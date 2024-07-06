@@ -12,6 +12,19 @@ The following patches are World (W) "Universal" (Region-Free) and compatible wit
 
 ## 3 Ninjas Kick Back (U)
 
+Name: 3 Ninjas Kick Back (U) [!]
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: E5A24999
+
+CRC64: 916EA867896ACEAB
+
+SHA256: 8cfdc448d06259ade9390aead7b997872f99bf88a89e4b247d8ccb4ce180f70b
+
+SHA1: d634e3f04672b8a01c3a6e13f8722d5cbbc6b900
+
+BLAKE2sp: 3885efb0d0d2d2fb7b87b752504faa435cdc7aa3df914acb327bba582f6fdc43
 
 // This takes to original (U) region game and creates: 3 Ninjas Kick Back (W).gen
 
