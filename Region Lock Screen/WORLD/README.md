@@ -7,3 +7,10 @@ Make sure your Games are the correct name and file type before patching!
 The following patches are World (W) "Universal" (Region-Free) and compatible with "All Region Consoles"
 
 Please check the ReadMe in that section for further information.
+
+- World
+   - (J)-(W)
+   - (E)-(W)
+   - (JU)-(W)
+   - (U)-(W)
+   - (UE)-(W)

@@ -7,3 +7,7 @@ Make sure your Games are the correct name and file type before patching!
 These patches are to be used on the Sega Mega Drive (PAL) Console
 
 Please check the ReadMe in that section for further information.
+
+- PAL Console
+   - JAPAN-EUROPE
+   - USA-EUROPE
