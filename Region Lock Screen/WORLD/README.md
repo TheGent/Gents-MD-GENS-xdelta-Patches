@@ -31,6 +31,19 @@ BLAKE2sp: 3885efb0d0d2d2fb7b87b752504faa435cdc7aa3df914acb327bba582f6fdc43
 
 ## A Dinosaur's Tale (U)
 
+Name: A Dinosaur's Tale (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 70155B5B
+
+CRC64: D8DC0D729B76A85A
+
+SHA256: 1d1b8dcc3f7c26b58a0929a55d0f137516f1112bb5349c67a3c06163e6b79c3b
+
+SHA1: b1f8e741399fd2c28dfb1c3340af868d222b1c14
+
+BLAKE2sp: 4d88091b1db02d98e111ee9eae48d1f22046675841a59631e442f29025db5cab
 
 // This takes to original (U) region game and creates: A Dinosaur's Tale (W).gen
 
