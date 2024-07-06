@@ -176,6 +176,19 @@ BLAKE2sp: 807659acf5208b3e4e56f3038777cd7532bde33209e577f6eaf56588aba50174
 
 ## Barney's Hide & Seek Game (U)
 
+Name: Barney's Hide & Seek Game (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 1EFA9D53
+
+CRC64: 7E0EE619B9D365D9
+
+SHA256: 7ee0f78843a3f8437e7262fd9a8f172825432be88a41e44a578801423f1a3e8b
+
+SHA1: 64ebe54459267efaa400d801fc80be2097a6c60f
+
+BLAKE2sp: 5a62ac64b653156df56cf9c4a58a61d879313b5fc64781347bb8f671d4e5aee2
 
 // This takes to original (U) region game and creates: Barney's Hide & Seek Game (W).gen
 
