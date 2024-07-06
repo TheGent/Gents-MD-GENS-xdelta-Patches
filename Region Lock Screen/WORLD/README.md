@@ -195,6 +195,19 @@ BLAKE2sp: 5a62ac64b653156df56cf9c4a58a61d879313b5fc64781347bb8f671d4e5aee2
 
 ## Bass Masters Classics (U)
 
+Name: Bass Masters Classics (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: CF1FF00A
+
+CRC64: 191F5D106A1FBBD0
+
+SHA256: 4082d65c4fa481e993fb17075cc304c244eb5fc6991e1cfc1da92ab2fead4e2b
+
+SHA1: 62ece2382d37930b84b62e600b1107723fbbc77f
+
+BLAKE2sp: 9c33ec0c640984f114be0705d0d91c0fda4b4dff7a63b718569cc666c35f7aa8
 
 // This takes to original (U) region game and creates: Bass Masters Classics (W).gen
 
