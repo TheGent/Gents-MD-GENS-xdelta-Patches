@@ -139,6 +139,19 @@ BLAKE2sp: 720ca2f7f836a6bc7870fc406042ff169a88007b0d5cac103ff1b4d19f737b30
 
 ## Asterix and the Great Rescue (U)
 
+Name: Asterix and the Great Rescue (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 7F112CD8
+
+CRC64: F21182BF5BDE4707
+
+SHA256: d65159bb03f3545736ad37ead4aaa65410d304ff3ac9265e03fd455aee7e2b6c
+
+SHA1: 6d73f37fa31dbcc6a8e9e1590f552e084346088c
+
+BLAKE2sp: f04283a0a61c2d71e01680ae8405d658d61582bc6b18a80d9af542a32da999f6
 
 // This takes to original (U) region game and creates: Asterix and the Great Rescue (W).gen
 
