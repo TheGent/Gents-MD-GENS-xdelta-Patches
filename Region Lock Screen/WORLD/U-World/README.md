@@ -233,6 +233,19 @@ BLAKE2sp: 7314db181ba84b06389cbdb042cec1b05ad39d6ba837371cd2897ee39163785d
 
 ## Beauty and the Beast - Roar of the Beast (U)
 
+Name: Beauty and the Beast - Roar of the Beast (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 13E7B519
+
+CRC64: EC90953B19361D6A
+
+SHA256: ea1cb1e2832b8a2ea306e48f4aafa76351629b5888b9e82181a2b811d303c075
+
+SHA1: e98c7b232e213a71f79563cf0617caf0b3699cbf
+
+BLAKE2sp: 9a6ae6b2d4422a8fab63ed8954b9e6fb039af15a24d62e571ac9ce1874f65f29
 
 // This takes to original (U) region game and creates: Beauty and the Beast - Roar of the Beast (W).gen
 
