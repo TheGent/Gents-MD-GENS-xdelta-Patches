@@ -24,7 +24,6 @@ BLAKE2sp: 3885efb0d0d2d2fb7b87b752504faa435cdc7aa3df914acb327bba582f6fdc43
 
 // This takes to original (U) region game and creates: 3 Ninjas Kick Back (W).gen
 
-
 ## A Dinosaur's Tale (U)
 
 Name: A Dinosaur's Tale (U) [!].gen
@@ -169,7 +168,6 @@ BLAKE2sp: 807659acf5208b3e4e56f3038777cd7532bde33209e577f6eaf56588aba50174
 
 // This takes to original (U) region game and creates:  Ayrton Senna's Super Monaco GP II (W).gen
 
-
 ## Barney's Hide & Seek Game (U)
 
 Name: Barney's Hide & Seek Game (U) [!].gen
@@ -187,7 +185,6 @@ SHA1: 64ebe54459267efaa400d801fc80be2097a6c60f
 BLAKE2sp: 5a62ac64b653156df56cf9c4a58a61d879313b5fc64781347bb8f671d4e5aee2
 
 // This takes to original (U) region game and creates: Barney's Hide & Seek Game (W).gen
-
 
 ## Bass Masters Classics (U)
 
@@ -207,7 +204,6 @@ BLAKE2sp: 9c33ec0c640984f114be0705d0d91c0fda4b4dff7a63b718569cc666c35f7aa8
 
 // This takes to original (U) region game and creates: Bass Masters Classics (W).gen
 
-
 ## Beauty and the Beast - Belle's Quest (U)
 
 Name: Beauty and the Beast - Belle's Quest (U) [!].gen
@@ -225,7 +221,6 @@ SHA1: f88a712ae085ac67f49cb0a8fa16a47e82e780cf
 BLAKE2sp: 7314db181ba84b06389cbdb042cec1b05ad39d6ba837371cd2897ee39163785d
 
 // This takes to original (U) region game and creates: Beauty and the Beast - Belle's Quest (W).gen
-
 
 ## Beauty and the Beast - Roar of the Beast (U)
 
@@ -245,7 +240,6 @@ BLAKE2sp: 9a6ae6b2d4422a8fab63ed8954b9e6fb039af15a24d62e571ac9ce1874f65f29
 
 // This takes to original (U) region game and creates: Beauty and the Beast - Roar of the Beast (W).gen
 
-
 ## Bill Walsh College Football '95 (U)
 
 Name: Bill Walsh College Football '95 (U) [!].gen
@@ -263,7 +257,6 @@ SHA1: 2ae000f45474b3cdedd08eeca7f5e195959ba689
 BLAKE2sp: a270a7a6e1495f1790a15a0374ff15d72614c3834d5fa2488b7a0439b875fb4e
 
 // This takes to original (U) region game and creates: Bill Walsh College Football '95 (W).gen
-
 
 ## Boogerman (U)
 
@@ -283,7 +276,6 @@ BLAKE2sp: bcb4fe79de3080ea685243ac4d3bbee6f51197688e370fcf91c7bfd51954b33a
 
 // This takes to original (U) region game and creates: Boogerman (W).gen
 
-
 ## Brutal - Paws of Fury (U)
 
 Name: Brutal - Paws of Fury (U) [!].gen
@@ -295,7 +287,6 @@ SHA1: 51b712e87e8f9cf7a93cfc78ec27d2e80b316ec3
 BLAKE2sp: a786534f5b057ce012ba2f2e3c6fe60b2bf0c5187298c1da2862900ceb18aa84
 
 // This takes to original (U) region game and creates: Brutal - Paws of Fury (W).gen
-
 
 ## Bubba N Stix (U)
 
@@ -315,7 +306,6 @@ BLAKE2sp: e7c892a252aacc2a105c28b50775bc0fb1d8b3b60c3b9f65524cf70e88c75a63
 
 // This takes to original (U) region game and creates: Bubba N Stix (W).gen
 
-
 ## Bubble and Squeak (U)
 
 Name: Bubble and Squeak (U) [!].gen
@@ -334,49 +324,48 @@ BLAKE2sp: e057dc7e629f26905af505bb0275714f9b1dc2a1456cf3eca520f8f87df7de21
 
 // This takes to original (U) region game and creates: Bubble and Squeak (W).gen
 
-
-
 ## Bugs Bunny in Double Trouble (U)
 
+Name: Bugs Bunny in Double Trouble (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 365305A2
+
+CRC64: B838783119A6459C
+
+SHA256: a21e4deab23e7afa1735b0d126b02f73dd9ed895ec1aba209b918417c2c1dcd7
+
+SHA1: 50b18d9f9935a46854641c9cfc5b3d3b230edd5e
+
+BLAKE2sp: 2821c194480ce19b6621c736fbde6e652c1b50d4018ffc8a50a4ab11d91a2958
 
 // This takes to original (U) region game and creates: Bugs Bunny in Double Trouble (W).gen
-
-
 
 ## Castlevania - Bloodlines (U)
 
 
 // This takes to original (U) region game and creates: Castlevania - Bloodlines (W).gen
 
-
-
 ## Chavez II (U)
 
 
 // This takes to original (U) region game and creates: Chavez II (W).gen
-
-
 
 ## Clay Fighter (U)
 
 
 // This takes to original (U) region game and creates: Clay Fighter (W).gen
 
-
-
 ## Coach K College Basketball (U)
 
 
 // This takes to original (U) region game and creates: Coach K College Basketball (W).gen
 
-
-
 ## College Football USA 96 (U)
 
 
 // This takes to original (U) region game and creates: College Football USA 96 (W).gen
-
-
 
 ## College Football USA 97 - The Road to New Orleans (U)
 
