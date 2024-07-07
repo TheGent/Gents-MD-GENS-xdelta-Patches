@@ -848,15 +848,55 @@ BLAKE2sp: 845d7b0cb89514edc7d9111f2ec5e2b1c63dd3329cba49d30a3ad55bde73e8fa
 
 ## F-15 Strike Eagle II (U)
 
+Name: F-15 Strike Eagle II (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 412C4D60
+
+CRC64: 971D845653EEC5B5
+
+SHA256: fe33a55e19b82a9f8bb95b0dbce52f511d60a4cdce04b2114d2cff05b069f952
+
+SHA1: d5f0d3d3b9cb7557d85bd54465072555f60c25a1
+
+BLAKE2sp: aa5ec583e567b29daba1d3d51e69744a8e8caac91aa99cf551c952a90afca332
 
 // This takes to original (U) region game and creates: F-15 Strike Eagle II (W).gen
 
 ## Flashback - The Quest for Identity (U)
 
+Name: Flashback - The Quest for Identity (U) [!].gen
+
+Size: 1572864 bytes (1536 KiB)
+
+CRC32: 23A9616D
+
+CRC64: 7841283E39DE4506
+
+SHA256: 06ce8c8311482d7ecee6827d600c91f5b0c4f405142e3fbfb1da031929479250
+
+SHA1: bce40031f6adab48670c8a2d73e42f3a3dcba97c
+
+BLAKE2sp: c76b421df33000acad5744f2b7e94e356679363190e2d3e421faaa5da3531e22
+
 // This takes to original (U) region game and creates: Flashback - The Quest for Identity (W).gen
 
 ## Frogger (U)
 
+Name: Frogger (U) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: EA2E48C0
+
+CRC64: 28483CDDB18B72FE
+
+SHA256: 8292a47c043cbac14c61db3b7d43f78c0bc0eea3277f7d2ea76eeac415382ddc
+
+SHA1: c0ccfec43ea859ab1e83293a38cfb302c0191719
+
+BLAKE2sp: 79f4e360fb42063370794353e30716088790744324b8f5cfa5fac3aa90ef04a3
 
 // This takes to original (U) region game and creates: Frogger (W).gen
 
