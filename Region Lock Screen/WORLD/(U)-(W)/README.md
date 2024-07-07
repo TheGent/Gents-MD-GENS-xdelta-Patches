@@ -902,21 +902,49 @@ BLAKE2sp: 79f4e360fb42063370794353e30716088790744324b8f5cfa5fac3aa90ef04a3
 
 ## Gargoyles (U)
 
+Name: Gargoyles (U) [!].gen
+Size: 3145728 bytes (3072 KiB)
+CRC32: 2D965364
+CRC64: 58B4F9B5A202ED11
+SHA256: 35a0f2dd9b35f1cd8487447ffe9c79a391eccd753ba29744bdfa76f8339b4571
+SHA1: 2b76764ca1e5a26e406e42c5f8dbd5b8df915522
+BLAKE2sp: aab05a448502d3bb4837b0eb4c7e7c457adf6538646664543ccc13971971c7e9
 
 // This takes to original (U) region game and creates: Gargoyles (W).gen
 
 ## Genesis 6-Pak (U)
 
+Name: Genesis 6-Pak (U) [!].gen
+Size: 3145728 bytes (3072 KiB)
+CRC32: 1A6F45DC
+CRC64: B2F1EAF8F94FFCDD
+SHA256: 121f7c8be8a4ba1d22d96494835a25973baaacd9ad3f54c1887c4512f994b82e
+SHA1: aa276048f010e94020f0c139dcf5829fb9ea6b21
+BLAKE2sp: 4043b0a329652be78f385e5086a91e8cc15e4244d66257225dd6a82fc58c410b
 
 // This takes to original (U) region game and creates: Genesis 6-Pak (W).gen
 
 ## Goofy's Hysterical History Tour (U)
 
+Name: Goofy's Hysterical History Tour (U) [!].gen
+Size: 1048576 bytes (1024 KiB)
+CRC32: 4E1CC833
+CRC64: BF5CFF68BA8F6BC9
+SHA256: 2ff25184c0921b636f66d5105b50ddad10725f956b50259bbae7b2cee9502d52
+SHA1: caaeebc269b3b68e2a279864c44d518976d67d8b
+BLAKE2sp: 8024dd699f62acd77b1825f60b459772f2c2fdc35746fdd7ac939862749a2132
 
 // This takes to original (U) region game and creates: Goofy's Hysterical History Tour (W).gen
 
 ## Great Circus Mystery, The - Starring Mickey & Minnie (U)
 
+Name: Great Circus Mystery, The - Starring Mickey & Minnie (U) [!].gen
+Size: 2097152 bytes (2048 KiB)
+CRC32: 14744883
+CRC64: 60CEFE142F69A320
+SHA256: f0bde1d3fbc04bacc5f523918a045d4d1024bb47470d84065be38f290d20f7d7
+SHA1: f2df9807fe2659e8f8e6ea43b2031a6abd980873
+BLAKE2sp: a954d51f6ef868457327e479dbc6af1b570238e166851002e26e4d1de5a8ce46
 
 // This takes to original (U) region game and creates: Great Circus Mystery, The - Starring Mickey & Minnie (W).gen
 
