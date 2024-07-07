@@ -686,48 +686,163 @@ BLAKE2sp: 32e55d04efd32cee304713e57d17c1e6668dfa178a7bff3a806ddfa8de6110a4
 
 ## Earthworm Jim (U)
 
+Name: Earthworm Jim (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: DF3ACF59
+
+CRC64: 2809BEEEC91FD935
+
+SHA256: 0fc7b0da6c42fe3b7e942607dae48f6344973127e6e51f2c6ca040d6c7e24044
+
+SHA1: a544211d1ebab1f096f6e72a0d724f74f9ddbce8
+
+BLAKE2sp: 996def73a61a075dabf0bbe92bcfa430d1f78d852a0d0d59a67f674958fb32ae
 
 // This takes to original (U) region game and creates: Earthworm Jim (W).gen
 
 ## Earthworm Jim 2 (U)
 
+Name: Earthworm Jim 2 (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: D57F8BA7
+
+CRC64: E7187E4A9C6299B5
+
+SHA256: 2ad42010f092b7f481bd0079a385e8bc3e856eb29d8977803208d2bda81cf755
+
+SHA1: ef7cccfc5eafa32fc6acc71dd9b71693f64eac94
+
+BLAKE2sp: 0677f6035ea4945df24e0dd0f7f092b5dc4763db402a7102356034ae53af8141
 
 // This takes to original (U) region game and creates: Earthworm Jim 2 (W).gen
 
 ## ECCO - The Tides of Time (U)
 
+Name: ECCO - The Tides of Time (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: CCB21F98
+
+CRC64: 73CC0990568490F4
+
+SHA256: f185a304522cb3dddb7459c85d429d61ac15f11760fa057d3f8857b717164df7
+
+SHA1: 82ec466a81b95942ad849c5e2f88781bef28acc8
+
+BLAKE2sp: 0adb65b8a1fccada3777d4e99c48ccccb49dcbbc7b368c3c29044da64e9f4249
 
 // This takes to original (U) region game and creates: ECCO - The Tides of Time (W).gen
 
 ## Escape From Mars Starring Taz (U)
 
+Name: Escape From Mars Starring Taz (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 62009F8C
+
+CRC64: 3E27F6E14993925E
+
+SHA256: 5509454e9032fe2158d6c84a5cad6c74f976e7416315e9bf76e99968b0903588
+
+SHA1: 7aa9c7b74541d414d81aa61d150803c3b3b1701b
+
+BLAKE2sp: 4a5d2df18c624e6c19394691f3884c2331cf1df098702d2b89a7252f97170182
 
 // This takes to original (U) region game and creates: Escape From Mars Starring Taz (W).gen
 
 ## ESPN National Hockey Night (U)
 
+Name: ESPN National Hockey Night (U) [c][!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 1D08828C
+
+CRC64: 78041E8CE131C0A8
+
+SHA256: 808e3b22c438fc117e2f520ae6ebac6c26bb3c5606bb3c071abbd5cf9b51caf0
+
+SHA1: cfd65e3ffb17e1718356ef8de7c527e2c9fd8940
+
+BLAKE2sp: e5350bb6c893780d22c1faca8ba71d891ab5b86961e570afd5e1001924009a3f
 
 // This takes to original (U) region game and creates: ESPN National Hockey Night (W).gen
 
 ## ESPN SpeedWorld (U)
 
+Name: ESPN SpeedWorld (U) [c][!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: F50BE478
+
+CRC64: F1C24BFB9AA7ABAA
+
+SHA256: 6830f559e8b5f835a95419c5bed0ceef1d76cf6efab0ddad23ab8dcdc0bc0adf
+
+SHA1: 9400a2ee865f11d68c766059318d6fe69987d89b
+
+BLAKE2sp: b6858e36f17f46578d5ce3a8faf880d4d341eb29f6af21bc40006db27f676c99
 
 // This takes to original (U) region game and creates: ESPN SpeedWorld (W).gen
 
 ## ESPN Sunday Night NFL (U)
 
+Name: ESPN Sunday Night NFL (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 61E9C309
+
+CRC64: 0650DFD75F810663
+
+SHA256: cb4dcf1bd44d9a511bce99dd42ac9509808c3ec74a59d7e6ccb5756fd26b41e1
+
+SHA1: 03f8c8805ebd4313c8a7d76b34121339bad33f89
+
+BLAKE2sp: 9137b6d647c66cc00c201660b7d10d1f76c58e10a8596907bf5f7de16b0d8b1e
 
 // This takes to original (U) region game and creates: ESPN Sunday Night NFL (W).gen
 
-
 ## Eternal Champions (U)
 
+Name: Eternal Champions (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 48F1A42E
+
+CRC64: 668C3BD8F6E44905
+
+SHA256: 6d8bdaf8c994d9f718c8f991900c58cdf1af84e030524b57f6dda263cc4ea247
+
+SHA1: 5e978217c10b679a42d7d2966a4ccb77e1715962
+
+BLAKE2sp: 51ba346b38364c882332239fb2bd6d5b3b477c09832ca9be34235b20d1209761
 
 // This takes to original (U) region game and creates: Eternal Champions (W).gen
 
-
 ## Exo-Squad (U)
 
+Name: Exo-Squad (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 10EC03F3
+
+CRC64: 7CACEE6173E8FB87
+
+SHA256: 855f0886c2f80f4c1f6752b72af78fc8756437271c7adfa295b5c5f7b41b3a1d
+
+SHA1: d958c3f2365162cb2ffa37fcea36695a1d4ab287
+
+BLAKE2sp: 845d7b0cb89514edc7d9111f2ec5e2b1c63dd3329cba49d30a3ad55bde73e8fa
 
 // This takes to original (U) region game and creates: Exo-Squad (W).gen
 
