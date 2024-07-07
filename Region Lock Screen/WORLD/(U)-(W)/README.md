@@ -560,36 +560,127 @@ BLAKE2sp: 1cfd6f261dfdc62edd9bcefa76e9faef1c19d1bd9787182207e1e7646189b532
 
 ## Dinosaurs for Hire (U)
 
+Name: Dinosaurs for Hire (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 39351146
+
+CRC64: 6956A9FDDE9B2E23
+
+SHA256: cc4c9a0ce4a3e792eb22f24f6faf1857712ad59313860026d085459bb017b056
+
+SHA1: d006efbf1d811e018271745925fe00ca6d93f24f
+
+BLAKE2sp: 5035bb0bf92a66277098d6e534b3cba76e5a27772bbf9e5c5582f71c3316ed37
 
 // This takes to original (U) region game and creates: Dinosaurs for Hire (W).gen
 
 ## Disney's Aladdin (U)
 
+Name: Disney's Aladdin (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: ED427EA9
+
+CRC64: D5B3DAAB442A22BC
+
+SHA256: a3779fc77994780e80d05bb557f800110d0398d34b951baa8c0a14910014ded3
+
+SHA1: d21c085b8429edc2c5092cd74ef3c36d01bf987f
+
+BLAKE2sp: 8fb1e634ec9c9c99908a77fb67803e6fbb5f21d1b8fa10ef84296264612daf3c
 
 // This takes to original (U) region game and creates: Disney's Aladdin (W).gen
 
 ## Doom Troopers - The Mutant Chronicles (U)
 
+Name: Doom Troopers - The Mutant Chronicles (U) [c][!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 11194414
+
+CRC64: C375DECC5D07CDCF
+
+SHA256: d2fedd7f024571a4a30d241bca2d66fcd5db60283914c792c611f688b83ad3a2
+
+SHA1: aff5e0651fecbc07d718ed3cea225717ce18a7aa
+
+BLAKE2sp: 81e5ecec2834843996591b5907da4d8fa5187a88542c65625bc678de8ba58142
 
 // This takes to original (U) region game and creates: Doom Troopers - The Mutant Chronicles (W).gen
 
 ## Double Dragon V - The Shadow Falls (U)
 
+Name: Double Dragon V - The Shadow Falls (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 27E59E35
+
+CRC64: 56BF5390F58FDDAC
+
+SHA256: cfc66d52c33c599baa324f1780081800094687e666e84c5d13a533fc4c5963f7
+
+SHA1: 53402b7c43cd20bf4cbaf40d1ba5062e3823f4bd
+
+BLAKE2sp: c50995ab4a5e362778cbbeeb792ddef4c9afc1c78af2c3761787006098a010a8
 
 // This takes to original (U) region game and creates: Double Dragon V - The Shadow Falls (W).gen
 
 ## Dr. Robotnik's Mean Bean Machine (U)
 
+Name: Dr. Robotnik's Mean Bean Machine (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: C7CA517F
+
+CRC64: D85B84269E7B69C9
+
+SHA256: 882e25427763260fa6d028c965b314fc5673560d82ec065cf154a1274e343ffe
+
+SHA1: aa6b60103fa92bc95fcc824bf1675e411627c8d3
+
+BLAKE2sp: 40b177e04cd2c79bd4df31963c6727399e673404b54f135baf3f28c62fa2132c
 
 // This takes to original (U) region game and creates: Dr. Robotnik's Mean Bean Machine (W).gen
 
 ## Dragon - The Bruce Lee Story (U)
 
+Name: Dragon - The Bruce Lee Story (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: EFE850E5
+
+CRC64: FF938BA9A33CB4D7
+
+SHA256: e20cd445344585e77a8dd0d094198bb495949a7564259da3a4b3abee62e151a9
+
+SHA1: 01b45b9865282124253264c5f2e3d3338858ff92
+
+BLAKE2sp: e2449eca5044688d4b67d21567d36280d8e6cae2c8ca1aabb6b0d869ee0f9c4e
 
 // This takes to original (U) region game and creates: Dragon - The Bruce Lee Story (W).gen
 
 ## Dune - The Battle for Arrakis (U)
 
+Name: Dune - The Battle for Arrakis (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 4DEA40BA
+
+CRC64: 727F43F7584F17FF
+
+SHA256: b1bbe73186e0902fa8b2db0f227bf306e3d6a80fe592f927d1aa9d60c0f335ba
+
+SHA1: 0f7c1c130cb39abc97f57545933e1ef6c481783d
+
+BLAKE2sp: 32e55d04efd32cee304713e57d17c1e6668dfa178a7bff3a806ddfa8de6110a4
 
 // This takes to original (U) region game and creates: Dune - The Battle for Arrakis (W).gen
 
