@@ -344,174 +344,289 @@ BLAKE2sp: 2821c194480ce19b6621c736fbde6e652c1b50d4018ffc8a50a4ab11d91a2958
 
 ## Castlevania - Bloodlines (U)
 
+Name: Castlevania - Bloodlines (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 032EBFF2
+
+CRC64: 607C95873F9FFCF7
+
+SHA256: ddae53d442cbe0b91aba36cc1e5c660f6e94511be9e6b34c72c2a651679be8d4
+
+SHA1: eb06b41b89ce8b8af23c21bc742e3223008ec15e
+
+BLAKE2sp: 28717561abdcf6f391b438a30e168487070b6bc2884e979ab7b14fd313c9750c
 
 // This takes to original (U) region game and creates: Castlevania - Bloodlines (W).gen
 
 ## Chavez II (U)
 
+Name: Chavez II (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 5BC0DBB8
+
+CRC64: 78B0C70B2F65D9B7
+
+SHA256: c849859639d9c3c9acadbb4e024e0b2b66c4fddbcb0af3d07e6a86732c9ddda3
+
+SHA1: 5df09bfd8523166d5ad514eaeaf4f4dc76a8a06d
+
+BLAKE2sp: a131bb86139cdab21e90e0fedff27c0c85d4511ced9612a602a3832eedef6d37
 
 // This takes to original (U) region game and creates: Chavez II (W).gen
 
 ## Clay Fighter (U)
 
+Name: Clay Fighter (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: B12C1BC1
+
+CRC64: 9A999C3039213C63
+
+SHA256: 832d01399fea1416340ac6137f8cda54ba7f0b9496417b0848e27c5ad6a86c15
+
+SHA1: 9cd15c84f4ee85ad8f3a512a0fed000724251758
+
+BLAKE2sp: b9b30fb406644108a98bd67f3911480426997b1fefcac51e22ef0b0dde60fc64
 
 // This takes to original (U) region game and creates: Clay Fighter (W).gen
 
 ## Coach K College Basketball (U)
 
+Name: Coach K College Basketball (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 67C309C6
+
+CRC64: 87CC5754B27535C0
+
+SHA256: 1b018402f863f18b85a9da73917adfbd9be4b61165b962c82878671a5e6794ae
+
+SHA1: 8ff5d7a7fcc47f030a3ea69f4534d9c892f58ce2
+
+BLAKE2sp: d68b997a606029bec0109b68f70145d86b4d015ea8e628bd9868f3a4b4b8b4e9
 
 // This takes to original (U) region game and creates: Coach K College Basketball (W).gen
 
 ## College Football USA 96 (U)
 
+Name: College Football USA 96 (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: B9075385
+
+CRC64: DD88C96628BEE00E
+
+SHA256: 321e1098c09724b5ce1be7c6a27a0ccf7b4b5a2f2d5fb8ad5e99c9d17d951123
+
+SHA1: 3079bdc5f2d29dcf3798f899a3098736cdc2cd88
+
+BLAKE2sp: 3bb4032cbcd10e586c24c7c6a72bb49e226b84e9ef2e2c6724ec995d1d223d9b
 
 // This takes to original (U) region game and creates: College Football USA 96 (W).gen
 
 ## College Football USA 97 - The Road to New Orleans (U)
 
+Name: College Football USA 97 - The Road to New Orleans (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 2EBB90A3
+
+CRC64: F878C316B08B143A
+
+SHA256: 4593f42cf55c86e323a50fde4975fe549eef88e2532631aac6f94624d1d1da0f
+
+SHA1: 9b93035ecdc2b6f0815281764ef647f2de039e7b
+
+BLAKE2sp: 5606f79447bd1f4a89ed5f14964510dcec3e6545c555baa1964dd130bec9a7df
 
 // This takes to original (U) region game and creates: College Football USA 97 - The Road to New Orleans (W).gen
 
-
-
 ## College Football's National Championship (U)
 
+Name: College Football's National Championship (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 172C5DBB
+
+CRC64: 021CC59B00E74F04
+
+SHA256: 4ed852bdbede121e3bcc36505954e930e28231294c4f191612f76fb678722930
+
+SHA1: a3db8661e160e07b09bca03ba0d20ba4e80a4c59
+
+BLAKE2sp: ca05294b5c6e600bfddc6c5d8dbf467bd96c8dbc8c4402eb5e0f42c1a833da34
 
 // This takes to original (U) region game and creates: College Football's National Championship (W).gen
 
-
-
 ## Columns III - Revenge of Columns (U)
 
+Name: Columns III - Revenge of Columns (U) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: DC678F6D
+
+CRC64: 888FE777E6668E36
+
+SHA256: 59cdcb1f0b59825cebaf22f947d7a5165f493246b064697db903be7185dfae67
+
+SHA1: 8e52a5d0adbff3b2a15f32e9299b4ffdf35f5541
+
+BLAKE2sp: 34386c581790d8446989a7afa5a81f07246d11662862a0110ead208df8b7a1d8
 
 // This takes to original (U) region game and creates: Columns III - Revenge of Columns (W).gen
 
-
-
 ## Comix Zone (U)
 
+Name: Columns III - Revenge of Columns (U) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: DC678F6D
+
+CRC64: 888FE777E6668E36
+
+SHA256: 59cdcb1f0b59825cebaf22f947d7a5165f493246b064697db903be7185dfae67
+
+SHA1: 8e52a5d0adbff3b2a15f32e9299b4ffdf35f5541
+
+BLAKE2sp: 34386c581790d8446989a7afa5a81f07246d11662862a0110ead208df8b7a1d8
 
 // This takes to original (U) region game and creates: Comix Zone (W).gen
 
-
-
 ## Contra - Hard Corps (U)
 
+Name: Contra - Hard Corps (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: C579F45E
+
+CRC64: 48DDA17511DC5ACA
+
+SHA256: f8feee8e3f2768bec97419c3b278a87827e248fa4d5ae35a1af46a14366c6856
+
+SHA1: 68ea84146105bda91f6056932ff4fb42aa3eb4a7
+
+BLAKE2sp: c401b39d77d3fe69434978b58e1d7ad0fc0b5326ec282f41d58396921c67c004
 
 // This takes to original (U) region game and creates: Contra - Hard Corps (W).gen
 
-
-
 ## Crusader of Centy (U)
 
+Name: Crusader of Centy (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 41858F6F
+
+CRC64: 37B719824105A16C
+
+SHA256: 70846fff7a4da8cd8b280b60e7d9c5009c73e968d8cd63a70b630a24705185f5
+
+SHA1: bf2e8d122f4670865bedbc305ef991ee5f52d647
+
+BLAKE2sp: 4d1d77103ee6aaf7bbd36e91c7f89017d7c6500d902044a7559d47be35c21fc8
 
 // This takes to original (U) region game and creates: Crusader of Centy (W).gen
 
-
-
 ## Crystal's Pony Tale (U)
 
+Name: Crystal's Pony Tale (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 6CF7A4DF
+
+CRC64: 4488F82693424AA1
+
+SHA256: b452886bc1706d417f2ecf53dffa5641a3be4304b7c9c5ec7485b06771533e80
+
+SHA1: dc99ed62da89745559f49b040d0365038140efd9
+
+BLAKE2sp: 1cfd6f261dfdc62edd9bcefa76e9faef1c19d1bd9787182207e1e7646189b532
 
 // This takes to original (U) region game and creates: Crystal's Pony Tale (W).gen
-
-
 
 ## Dinosaurs for Hire (U)
 
 
 // This takes to original (U) region game and creates: Dinosaurs for Hire (W).gen
 
-
-
 ## Disney's Aladdin (U)
 
 
 // This takes to original (U) region game and creates: Disney's Aladdin (W).gen
-
-
 
 ## Doom Troopers - The Mutant Chronicles (U)
 
 
 // This takes to original (U) region game and creates: Doom Troopers - The Mutant Chronicles (W).gen
 
-
-
 ## Double Dragon V - The Shadow Falls (U)
 
 
 // This takes to original (U) region game and creates: Double Dragon V - The Shadow Falls (W).gen
-
-
 
 ## Dr. Robotnik's Mean Bean Machine (U)
 
 
 // This takes to original (U) region game and creates: Dr. Robotnik's Mean Bean Machine (W).gen
 
-
-
 ## Dragon - The Bruce Lee Story (U)
 
 
 // This takes to original (U) region game and creates: Dragon - The Bruce Lee Story (W).gen
-
-
 
 ## Dune - The Battle for Arrakis (U)
 
 
 // This takes to original (U) region game and creates: Dune - The Battle for Arrakis (W).gen
 
-
-
 ## Earthworm Jim (U)
 
 
 // This takes to original (U) region game and creates: Earthworm Jim (W).gen
-
-
 
 ## Earthworm Jim 2 (U)
 
 
 // This takes to original (U) region game and creates: Earthworm Jim 2 (W).gen
 
-
-
 ## ECCO - The Tides of Time (U)
 
 
 // This takes to original (U) region game and creates: ECCO - The Tides of Time (W).gen
-
-
 
 ## Escape From Mars Starring Taz (U)
 
 
 // This takes to original (U) region game and creates: Escape From Mars Starring Taz (W).gen
 
-
-
 ## ESPN National Hockey Night (U)
 
 
 // This takes to original (U) region game and creates: ESPN National Hockey Night (W).gen
-
-
 
 ## ESPN SpeedWorld (U)
 
 
 // This takes to original (U) region game and creates: ESPN SpeedWorld (W).gen
 
-
-
 ## ESPN Sunday Night NFL (U)
 
 
 // This takes to original (U) region game and creates: ESPN Sunday Night NFL (W).gen
-
 
 
 ## Eternal Champions (U)
@@ -520,565 +635,399 @@ BLAKE2sp: 2821c194480ce19b6621c736fbde6e652c1b50d4018ffc8a50a4ab11d91a2958
 // This takes to original (U) region game and creates: Eternal Champions (W).gen
 
 
-
 ## Exo-Squad (U)
 
 
 // This takes to original (U) region game and creates: Exo-Squad (W).gen
-
-
 
 ## F-15 Strike Eagle II (U)
 
 
 // This takes to original (U) region game and creates: F-15 Strike Eagle II (W).gen
 
-
-
 ## Flashback - The Quest for Identity (U)
 
-
 // This takes to original (U) region game and creates: Flashback - The Quest for Identity (W).gen
-
-
 
 ## Frogger (U)
 
 
 // This takes to original (U) region game and creates: Frogger (W).gen
 
-
-
 ## Gargoyles (U)
 
 
 // This takes to original (U) region game and creates: Gargoyles (W).gen
-
-
 
 ## Genesis 6-Pak (U)
 
 
 // This takes to original (U) region game and creates: Genesis 6-Pak (W).gen
 
-
-
 ## Goofy's Hysterical History Tour (U)
 
 
 // This takes to original (U) region game and creates: Goofy's Hysterical History Tour (W).gen
-
-
 
 ## Great Circus Mystery, The - Starring Mickey & Minnie (U)
 
 
 // This takes to original (U) region game and creates: Great Circus Mystery, The - Starring Mickey & Minnie (W).gen
 
-
-
 ## Home Alone 2 - Lost in New York (U)
 
 
 // This takes to original (U) region game and creates: Home Alone 2 - Lost in New York (W).gen
-
-
 
 ## Jammit (U)
 
 
 // This takes to original (U) region game and creates: Jammit (W).gen
 
-
-
 ## Jungle Book, The (U)
 
 
 // This takes to original (U) region game and creates: Jungle Book, The (W).gen
-
-
 
 ## Jurassic Park (U)
 
 
 // This takes to original (U) region game and creates: Jurassic Park (W).gen
 
-
-
 ## Landstalker - The Treasures of King Nole (U)
 
 
 // This takes to original (U) region game and creates: Landstalker - The Treasures of King Nole (W).gen
-
-
 
 ## Lemmings 2 - The Tribes (U)
 
 
 // This takes to original (U) region game and creates: Lemmings 2 - The Tribes (W).gen
 
-
-
 ## Lethal Enforcers (U)
 
 
 // This takes to original (U) region game and creates: Lethal Enforcers (W).gen
-
-
 
 ## Lethal Enforcers II - Gun Fighters (U)
 
 
 // This takes to original (U) region game and creates: Lethal Enforcers II - Gun Fighters (W).gen
 
-
-
 ## Light Crusader (U)
 
 
 // This takes to original (U) region game and creates: Light Crusader (W).gen
-
-
 
 ## Lightening Force - Quest for the Darkstar (U)
 
 
 // This takes to original (U) region game and creates: Lightening Force - Quest for the Darkstar (W).gen
 
-
-
 ## Lost Vikings, The (U)
 
 
 // This takes to original (U) region game and creates: Lost Vikings, The (W).gen
-
-
 
 ## Magic School Bus, The (U)
 
 
 // This takes to original (U) region game and creates: Magic School Bus, The (W).gen
 
-
-
 ## Marko's Magic Football (U)
 
 
 // This takes to original (U) region game and creates: Marko's Magic Football (W).gen
-
-
 
 ## Marsupilami (U) (M5) (U)
 
 
 // This takes to original (U) region game and creates: Marsupilami (U) (M5) (W).gen
 
-
-
-
 ## Mary Shelley's Frankenstein (U)
 
 
 // This takes to original (U) region game and creates: Mary Shelley's Frankenstein (W).gen
-
-
 
 ## Mazin Saga (U)
 
 
 // This takes to original (U) region game and creates: Mazin Saga (W).gen
 
-
-
 ## McDonald's Treasure Land Adventure (U)
 
 
 // This takes to original (U) region game and creates: McDonald's Treasure Land Adventure (W).gen
-
-
 
 ## Mega Turrican (U)
 
 
 // This takes to original (U) region game and creates: Mega Turrican (W).gen
 
-
-
 ## Mick & Mack as the Global Gladiators (U)
 
 
 // This takes to original (U) region game and creates: Mick & Mack as the Global Gladiators (W).gen
-
-
 
 ## Mighty Morphin Power Rangers (U)
 
 
 // This takes to original (U) region game and creates: Mighty Morphin Power Rangers (W).gen
 
-
-
 ## Mighty Morphin Power Rangers - The Movie (U)
 
 
 // This takes to original (U) region game and creates: Mighty Morphin Power Rangers - The Movie (W).gen
-
-
 
 ## Mortal Kombat 3 (U)
 
 
 // This takes to original (U) region game and creates: Mortal Kombat 3 (W).gen
 
-
-
 ## NBA Action (U)
 
 
 // This takes to original (U) region game and creates: NBA Action (W).gen
-
-
 
 ## NBA Hang Time (U)
 
 
 // This takes to original (U) region game and creates: NBA Hang Time (W).gen
 
-
-
 ## NCAA College Football (U)
 
 
 // This takes to original (U) region game and creates: NCAA College Football (W).gen
-
-
 
 ## NFL Football '94 Starring Joe Montana (U)
 
 
 // This takes to original (U) region game and creates: NFL Football '94 Starring Joe Montana (W).gen
 
-
-
 ## NHL 98 (U)
 
 
 // This takes to original (U) region game and creates: NHL 98 (W).gen
-
-
 
 ## NHL All-Star Hockey '95 (U)
 
 
 // This takes to original (U) region game and creates: NHL All-Star Hockey '95 (W).gen
 
-
-
 ## No Escape (U)
 
 
 // This takes to original (U) region game and creates: No Escape (W).gen
-
-
 
 ## OutRun 2019 (U)
 
 
 // This takes to original (U) region game and creates: OutRun 2019 (W).gen
 
-
-
 ## Pac-Attack (U)
 
 
 // This takes to original (U) region game and creates: Pac-Attack (W).gen
-
-
 
 ## Pac-Man 2 - The New Adventures (U)
 
 
 // This takes to original (U) region game and creates: Pac-Man 2 - The New Adventures (W).gen
 
-
-
 ## Pagemaster, The (U)
 
 
 // This takes to original (U) region game and creates: Pagemaster, The (W).gen
-
-
 
 ## Pebble Beach Golf Links (U)
 
 
 // This takes to original (U) region game and creates: Pebble Beach Golf Links (W).gen
 
-
-
 ## Phantasy Star - The End of the Millenium (U)
 
 
 // This takes to original (U) region game and creates: Phantasy Star - The End of the Millenium (W).gen
-
-
 
 ## Phantom 2040 (U)
 
 
 // This takes to original (U) region game and creates: Phantom 2040 (W).gen
 
-
-
 ## Pinocchio (U)
 
 
 // This takes to original (U) region game and creates: Pinocchio (W).gen
-
-
 
 ## Pirates of Dark Water, The (U)
 
 
 // This takes to original (U) region game and creates: Pirates of Dark Water, The (W).gen
 
-
-
 ## Pirates! Gold (U)
 
 
 // This takes to original (U) region game and creates: Pirates! Gold (W).gen
-
-
 
 ## Pitfall - The Mayan Adventure (U)
 
 
 // This takes to original (U) region game and creates: Pitfall - The Mayan Adventure (W).gen
 
-
-
 ## Pocahontas (U)
 
 
 // This takes to original (U) region game and creates: Pocahontas (W).gen
-
-
 
 ## Prince of Persia (U)
 
 
 // This takes to original (U) region game and creates: Prince of Persia (W).gen
 
-
-
 ## Punisher, The (U)
 
 
 // This takes to original (U) region game and creates: Punisher, The (W).gen
-
-
 
 ## Ranger-X (U)
 
 
 // This takes to original (U) region game and creates: Ranger-X (W).gen
 
-
-
 ## Ren and Stimpy Show, The - Stimpy's Invention (U)
 
 
 // This takes to original (U) region game and creates: Ren and Stimpy Show, The - Stimpy's Invention (W).gen
-
-
 
 ## Richard Scarry's Busytown (U)
 
 
 // This takes to original (U) region game and creates: Richard Scarry's Busytown (W).gen
 
-
-
 ## Robocop Versus The Terminator (U)
 
 
 // This takes to original (U) region game and creates: Robocop Versus The Terminator (W).gen
-
-
 
 ## Rock n' Roll Racing (U)
 
 
 // This takes to original (U) region game and creates: Rock n' Roll Racing (W).gen
 
-
-
 ## Rocket Knight Adventures (U)
 
 
 // This takes to original (U) region game and creates: Rocket Knight Adventures (W).gen
-
-
 
 ## Samurai Shodown (U)
 
 
 // This takes to original (U) region game and creates: Samurai Shodown (W).gen
 
-
-
 ## Saturday Night Slam Masters (U)
 
 
 // This takes to original (U) region game and creates: Saturday Night Slam Masters (W).gen
-
-
 
 ## Shadowrun (U)
 
 
 // This takes to original (U) region game and creates: Shadowrun (W).gen
 
-
-
 ## Shanghai 2 - Dragon's Eye (U)
 
 
 // This takes to original (U) region game and creates: Shanghai 2 - Dragon's Eye (W).gen
-
-
 
 ## Shining Force (U)
 
 
 // This takes to original (U) region game and creates: Shining Force (W).gen
 
-
-
 ## Shining Force II (U)
 
 
 // This takes to original (U) region game and creates: Shining Force II (W).gen
-
-
 
 ## Shinobi III - Return of the Ninja Master (U)
 
 
 // This takes to original (U) region game and creates: Shinobi III - Return of the Ninja Master (W).gen
 
-
-
 ## Skeleton Krew (U)
 
 
 // This takes to original (U) region game and creates: Skeleton Krew (W).gen
-
-
 
 ## Sonic Spinball (U) (alt music) (U)
 
 
 // This takes to original (U) region game and creates: Sonic Spinball (U) (alt music) (W).gen
 
-
-
-
 ## Sonic Spinball (U)
 
 
 // This takes to original (U) region game and creates: Sonic Spinball (W).gen
-
-
 
 ## Sonic The Hedgehog 3 (U)
 
 
 // This takes to original (U) region game and creates: Sonic The Hedgehog 3 (W).gen
 
-
-
 ## Sparkster (U)
 
 
 // This takes to original (U) region game and creates: Sparkster (W).gen
-
-
 
 ## Speed Ball 2 - Brutal Deluxe (U)
 
 
 // This takes to original (U) region game and creates: Speed Ball 2 - Brutal Deluxe (W).gen
 
-
-
 ## Spot Goes to Hollywood (U) (REV01)
 
 
 // This takes to original (U) region game and creates: Spot Goes to Hollywood (W) (REV01).gen
-
-
-
 
 ## Star Trek - Deep Space 9 - Crossroads of Time (U)
 
 
 // This takes to original (U) region game and creates: Star Trek - Deep Space 9 - Crossroads of Time (W).gen
 
-
-
-
 ## Star Trek - The Next Generation (U) (REV00)
 
 
 // This takes to original (U) region game and creates: Star Trek - The Next Generation (W) (REV00).gen
-
-
-
 
 ## Star Trek - The Next Generation (U) (REV01)
 
 
 // This takes to original (U) region game and creates: Star Trek - The Next Generation (W) (REV01).gen
 
-
-
-
 ## Street Fighter II' - Special Champion Edition (U)
 
 
 // This takes to original (U) region game and creates: Street Fighter II' - Special Champion Edition (W).gen
-
-
 
 ## Streets of Rage 2 (U)
 
 
 // This takes to original (U) region game and creates: Streets of Rage 2 (W).gen
 
-
-
 ## Streets of Rage 3 (U)
 
 
 // This takes to original (U) region game and creates: Streets of Rage 3 (W).gen
-
-
 
 ## Sub-Terrania (U)
 
 
 // This takes to original (U) region game and creates: Sub-Terrania (W).gen
 
-
-
 ## Sunset Riders (U)
 
 
 // This takes to original (U) region game and creates: Sunset Riders (W).gen
-
-
 
 ## Super Monaco Grand Prix (U) (M2) (REV03)
 
@@ -1086,249 +1035,174 @@ BLAKE2sp: 2821c194480ce19b6621c736fbde6e652c1b50d4018ffc8a50a4ab11d91a2958
 // This takes to original (U) region game and creates: Super Monaco Grand Prix (W) (M2) (REV03)).gen
 
 
-
-
 ## Super Street Fighter II - The New Challengers (U)
 
-
 // This takes to original (U) region game and creates: Super Street Fighter II - The New Challengers (W).gen
-
-
 
 ## Superman (U)
 
 
 // This takes to original (U) region game and creates: Superman (W).gen
 
-
-
 ## Tecmo Super Baseball (U)
 
 
 // This takes to original (U) region game and creates: Tecmo Super Baseball (W).gen
-
-
 
 ## Tecmo Super Hockey (U)
 
 
 // This takes to original (U) region game and creates: Tecmo Super Hockey (W).gen
 
-
-
 ## Teenage Mutant Ninja Turtles - The Hyperstone Heist (U)
 
 
 // This takes to original (U) region game and creates: Teenage Mutant Ninja Turtles - The Hyperstone Heist (W).gen
-
-
 
 ## Teenage Mutant Ninja Turtles - Tournament Fighters (U)
 
 
 // This takes to original (U) region game and creates: Teenage Mutant Ninja Turtles - Tournament Fighters (W).gen
 
-
-
 ## Tick, The (U)
 
 
 // This takes to original (U) region game and creates: Tick, The (W).gen
-
-
 
 ## Tinhead (U)
 
 
 // This takes to original (U) region game and creates: Tinhead (W).gen
 
-
-
 ## Tiny Toon Adventures - Acme All-Stars (U)
 
 
 // This takes to original (U) region game and creates: Tiny Toon Adventures - Acme All-Stars (W).gen
-
-
 
 ## Tiny Toon Adventures - Buster's Hidden Treasure (U)
 
 
 // This takes to original (U) region game and creates: Tiny Toon Adventures - Buster's Hidden Treasure (W).gen
 
-
-
 ## TNN Bass Tournament of Champions (U) (REV01)
 
 
 // This takes to original (U) region game and creates: TNN Bass Tournament of Champions (W) (REV01).gen
-
-
-
 
 ## TNN Outdoors Bass Tournament '96 (U)
 
 
 // This takes to original (U) region game and creates: TNN Outdoors Bass Tournament '96 (W).gen
 
-
-
 ## Toejam & Earl in Panic on Funkotron (U)
 
 
 // This takes to original (U) region game and creates: Toejam & Earl in Panic on Funkotron (W).gen
-
-
 
 ## Toy Story (U)
 
 
 // This takes to original (U) region game and creates: Toy Story (W).gen
 
-
-
 ## Triple Play Gold (U)
 
 
 // This takes to original (U) region game and creates: Triple Play Gold (W).gen
-
-
 
 ## Troy Aikman NFL Football (U)
 
 
 // This takes to original (U) region game and creates: Troy Aikman NFL Football (W).gen
 
-
-
 ## Tyrants - Fight Through Time (U)
 
 
 // This takes to original (U) region game and creates: Tyrants - Fight Through Time (W).gen
-
-
 
 ## Ultimate Mortal Kombat 3 (U)
 
 
 // This takes to original (U) region game and creates: Ultimate Mortal Kombat 3 (W).gen
 
-
-
 ## Virtua Racing (U)
 
 
 // This takes to original (U) region game and creates: Virtua Racing (W).gen
-
-
 
 ## We're Back! - A Dinosaur's Tale (U)
 
 
 // This takes to original (U) region game and creates: We're Back! - A Dinosaur's Tale (W).gen
 
-
-
 ## Weaponlord (U)
 
 
 // This takes to original (U) region game and creates: Weaponlord (W).gen
-
-
 
 ## Wild Snake (U) (Prototype)
 
 
 // This takes to original (U) region game and creates: Wild Snake (W) (Prototype).gen
 
-
-
-
 ## Wimbledon Championship Tennis (U) (Prototype)
 
 
 // This takes to original (U) region game and creates: Wimbledon Championship Tennis (W) (Prototype).gen
-
-
-
 
 ## Wimbledon Championship Tennis (U)
 
 
 // This takes to original (U) region game and creates: Wimbledon Championship Tennis (W).gen
 
-
-
 ## World Championship Soccer II (U)
 
 
 // This takes to original (U) region game and creates: World Championship Soccer II (W).gen
-
-
 
 ## World Heroes (U)
 
 
 // This takes to original (U) region game and creates: World Heroes (W).gen
 
-
-
 ## World of Illusion Starring Mickey Mouse & Donald Duck (U)
 
 
 // This takes to original (U) region game and creates: World of Illusion Starring Mickey Mouse & Donald Duck (W).gen
-
-
 
 ## World Series Baseball '95 (U)
 
 
 // This takes to original (U) region game and creates: World Series Baseball '95 (W).gen
 
-
-
 ## World Series Baseball (U)
 
 
 // This takes to original (U) region game and creates: World Series Baseball (W).gen
-
-
 
 ## X-Men (U)
 
 
 // This takes to original (U) region game and creates: X-Men (W).gen
 
-
-
 ## Young Indiana Jones - Instrument of Chaos (U)
 
 
 // This takes to original (U) region game and creates: Young Indiana Jones - Instrument of Chaos (W).gen
-
-
 
 ## Zero the Kamikaze Squirrel (U)
 
 
 // This takes to original (U) region game and creates: Zero the Kamikaze Squirrel (W).gen
 
-
-
 ## Zombies Ate My Neighbors (U)
 
 
 // This takes to original (U) region game and creates: Zombies Ate My Neighbors (W).gen
 
-
-
-
 ## Zoop (U)
 
 
 // This takes to original (U) region game and creates: Zoop (W).gen
-
-
 
 
 
