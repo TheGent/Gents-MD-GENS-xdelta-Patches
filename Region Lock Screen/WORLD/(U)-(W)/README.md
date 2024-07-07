@@ -991,16 +991,55 @@ BLAKE2sp: 4be38226cbbcff6a5e8a1ea29837cbfb5dbe35b503ad816dfb013d08916689ae
 
 ## Jammit (U)
 
+Name: Jammit (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: D91B52B8
+
+CRC64: 8CF2B1FF17D1FE86
+
+SHA256: ec2ecedd27a3f82d4437602e8a6b0c4d152cb5cdeca6d7b38b1187abd0bddd11
+
+SHA1: 2f43bfd04f563a67f4a2c8b8e36c541c19913a50
+
+BLAKE2sp: 1abb0a8d801e16c14a39bbb5e32688f21fd9ea32b265899db94430545c9e1117
 
 // This takes to original (U) region game and creates: Jammit (W).gen
 
 ## Jungle Book, The (U)
 
+Name: Jungle Book, The (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 3FB6D92E
+
+CRC64: 510ECFA102946DB2
+
+SHA256: bacfb9ba38dd0df73953598bca6199a32c00959071856a490a85608d56bdac08
+
+SHA1: 306021e52501c9d51afd9c51acf384356c84ffbf
+
+BLAKE2sp: c0f7b39ec47d2e037bfa6cddeaf3332b824fa5cf0b0c777f551f85eb9476e8b4
 
 // This takes to original (U) region game and creates: Jungle Book, The (W).gen
 
 ## Jurassic Park (U)
 
+Name: Jurassic Park (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 7B31DEEF
+
+CRC64: E6C51A36484E1669
+
+SHA256: b3596cd161858bcd47e95717b0151c07050c408eab25a50139eba4ebca683554
+
+SHA1: e7a1f49d362b5c7e13d9c7942d4a83fe003cfbd2
+
+BLAKE2sp: 777e73476f652626162a3383e53a2f53a36edb30ba72e183f4b94e7af28fe7f6
 
 // This takes to original (U) region game and creates: Jurassic Park (W).gen
 
