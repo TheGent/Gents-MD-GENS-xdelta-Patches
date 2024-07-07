@@ -973,6 +973,19 @@ BLAKE2sp: a954d51f6ef868457327e479dbc6af1b570238e166851002e26e4d1de5a8ce46
 
 ## Home Alone 2 - Lost in New York (U)
 
+Name: Home Alone 2 - Lost in New York (U) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: CBF87C14
+
+CRC64: 469D67E72E513871
+
+SHA256: f911a67c3c952fb42bd5599129a33583358c3b6230a0e25ccb240f785036d3d8
+
+SHA1: 24232a572b7eabc3e0ed5f483042a7085bd77c48
+
+BLAKE2sp: 4be38226cbbcff6a5e8a1ea29837cbfb5dbe35b503ad816dfb013d08916689ae
 
 // This takes to original (U) region game and creates: Home Alone 2 - Lost in New York (W).gen
 
