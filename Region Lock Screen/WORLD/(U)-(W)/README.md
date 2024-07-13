@@ -1369,36 +1369,127 @@ BLAKE2sp: 6bb941b1482c55dae6b923fedd95a2437488718cc3cab5bd0d6893b6c2928f04
 
 ## NBA Action (U)
 
+Name: NBA Action (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 99C348BA
+
+CRC64: C25BBF93F6306E27
+
+SHA256: cb5d0d8dbf2b96a14ed4a08b6aa0479421cd40598a5ec3bc89b4a84c917b3324
+
+SHA1: e2b5290d656219636e2422fcf93424ae602c4d29
+
+BLAKE2sp: f1544f8764abcf0dee4770926514cf364583df6e33601fb0fda350687aa8fa26
 
 // This takes to original (U) region game and creates: NBA Action (W).gen
 
 ## NBA Hang Time (U)
 
+Name: NBA Hang Time (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 176B0338
+
+CRC64: 9C2CEE6E05E418B5
+
+SHA256: 7e984223dd6888be889e03131fc25ba9fcec38be244b87f049d4963ffec3d92f
+
+SHA1: bff36de7e0ca875b1fab84928f00999b48ff8f02
+
+BLAKE2sp: 768d2f57282b074162a688212cda6a851e80134f486ee2440eab6320b03694e1
 
 // This takes to original (U) region game and creates: NBA Hang Time (W).gen
 
 ## NCAA College Football (U)
 
+Name: NCAA College Football (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 081012F0
+
+CRC64: 5D558176237E581C
+
+SHA256: aca78146facd95ebf255984a25d48cde0beeee435bb9cbd429c145304321d69f
+
+SHA1: 227e3c650d01c35a80de8a3ef9b18f96c07ecd38
+
+BLAKE2sp: 1341cfe1428fc3782f90c24b0397404591f7541da6946ef6bfc11354a7d335af
 
 // This takes to original (U) region game and creates: NCAA College Football (W).gen
 
 ## NFL Football '94 Starring Joe Montana (U)
 
+Name: NFL Football '94 Starring Joe Montana (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 0D486ED5
+
+CRC64: 12AE4871A70BA690
+
+SHA256: 3f85b7d89b77597d8e600c93008b6e29e0a06dad3f688bb768467ed349c41962
+
+SHA1: ad0150d0c0cabe1ab05e3d6ac4eb7aa4b38a467c
+
+BLAKE2sp: 1fab50a2ec96d1988d5e832a58f9b729f7c182ca1aa4d279372c32ebd5c731be
 
 // This takes to original (U) region game and creates: NFL Football '94 Starring Joe Montana (W).gen
 
 ## NHL 98 (U)
 
+Name: NHL 98 (U) [c][!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 7B64CD98
+
+CRC64: 47F3B816D8515BFC
+
+SHA256: ed68ec25c676f7b935414d07657b9721a6ec3b43cecf1bc9dc1d069d0a14e974
+
+SHA1: 6771e9b660bde010cf28656cafb70f69249a3591
+
+BLAKE2sp: 506e42c3dcd4ad2bda94d92b31b0d18ea77bced841fb3db01108de9cfcae613d
 
 // This takes to original (U) region game and creates: NHL 98 (W).gen
 
 ## NHL All-Star Hockey '95 (U)
 
+Name: NHL All-Star Hockey '95 (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: E6C0218B
+
+CRC64: C23D735F4846497B
+
+SHA256: 056834d5c946568556683bd6666e4dbfaa7996dd853a9a85d66638dec06530ca
+
+SHA1: f2069295f99b5d50444668cfa9d4216d988d5f46
+
+BLAKE2sp: 3a0104cdf2fb81a110d355ba1101c5fa68e04b4805b12335c48814712bcd9557
 
 // This takes to original (U) region game and creates: NHL All-Star Hockey '95 (W).gen
 
 ## No Escape (U)
 
+Name: No Escape (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 44EE5F20
+
+CRC64: 48F259A5B8E9E010
+
+SHA256: cef4be1078b1ff51d1c9d4fcad74a8d64970303516fcc1911219893a62fd6bbd
+
+SHA1: d72302927b618165cd94ec2e072c8d8bbf85cbb9
+
+BLAKE2sp: f49a0fa90da0d5df91c2a25106100dcd18bc95d677cdb77da37ebdfeb4717f80
 
 // This takes to original (U) region game and creates: No Escape (W).gen
 
