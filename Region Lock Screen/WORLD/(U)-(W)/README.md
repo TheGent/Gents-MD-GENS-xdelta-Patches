@@ -1495,6 +1495,19 @@ BLAKE2sp: f49a0fa90da0d5df91c2a25106100dcd18bc95d677cdb77da37ebdfeb4717f80
 
 ## OutRun 2019 (U)
 
+Name: OutRun 2019 (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: E32E17E2
+
+CRC64: 673E24293490FFD2
+
+SHA256: 993908ec2bfd4ced318f8284f6450a591809195986dd49d957e077fd399440e3
+
+SHA1: d4a9f1992d69d849f7d4d770a1f4f665a5352c78
+
+BLAKE2sp: 3565ec3f590e0d254a265040fc8c613b3f1451e533853abe58a5984b3fbef560
 
 // This takes to original (U) region game and creates: OutRun 2019 (W).gen
 
