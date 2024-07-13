@@ -1171,56 +1171,199 @@ BLAKE2sp: 8b383b3e7074db6f9093d6cd159d6c850df6ce583be6f2dda597cfeceda3202d
 
 ## Magic School Bus, The (U)
 
+Name: Magic School Bus, The (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 1A5D4412
+
+CRC64: 5B7CEA39E8398FC9
+
+SHA256: c2075728f16ec93170d9a45a778ca88026534dd6d713e4633677befa21241626
+
+SHA1: d7c075d98430f2864d9120d7c9f2efb92e8d350e
+
+BLAKE2sp: 5f35fe237233d4e84a9efe3b650371f51a7919760eb2f4889992697e04c73ae5
 
 // This takes to original (U) region game and creates: Magic School Bus, The (W).gen
 
 ## Marko's Magic Football (U)
 
+Name: Marko's Magic Football (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 2B8C8CCE
+
+CRC64: 1710F01F13F71328
+
+SHA256: 6604862fc06f2c7f0f50941390c9e265e45dfaec4643eb3ae515e530898a30c6
+
+SHA1: b73d01599d8201dc3bd98fdc9cc262e14dbc52b4
+
+BLAKE2sp: 63d79d15a384921c50e67261ff22de9ba99d0d3d941594ffe45c3109af23d0ea
 
 // This takes to original (U) region game and creates: Marko's Magic Football (W).gen
 
 ## Marsupilami (U) (M5) (U)
 
+Name: Marsupilami (U) (M5) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: C76558DF
+
+CRC64: 3F51C45B488551C2
+
+SHA256: 519f0dd1088cc96ea9ad66d6d76d1bfd04f2a292e96a30d81be0381e8a2e8fbd
+
+SHA1: 3e761bdbf4ab8cb43d4a8d99e22b7de896884819
+
+BLAKE2sp: a4a093d0a03cde1f4609c0b7dee788af64cb9dd0e2af4b1903f9f5ae01657502
 
 // This takes to original (U) region game and creates: Marsupilami (U) (M5) (W).gen
 
 ## Mary Shelley's Frankenstein (U)
 
+Name: Mary Shelley's Frankenstein (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 48993DC3
+
+CRC64: F1E3B0280893F57A
+
+SHA256: 385788dc67444e7d297f67bc8093084ad4d89b4e5d864ac67b6c2ee6e9ad6743
+
+SHA1: 2dd34478495a2988fe5839ef7281499f08bf7294
+
+BLAKE2sp: a400a0444d3b1d3f27203e6f61af668fd50691bef08b9afb8f5c612687916f1d
 
 // This takes to original (U) region game and creates: Mary Shelley's Frankenstein (W).gen
 
 ## Mazin Saga (U)
 
+Name: Mazin Saga (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 1BD9FEF1
+
+CRC64: B63D610D4E149FB8
+
+SHA256: e16d6807f212a82a56b89346f0a116252adf1f897a8206316e6ae1792477e409
+
+SHA1: 5cb87bb4efc8fa8754e687b62d0fd858e624997d
+
+BLAKE2sp: bae84841f1b7c553edd330d60bfbd984bb827b1a05815b8cac783ca904f4ce2b
 
 // This takes to original (U) region game and creates: Mazin Saga (W).gen
 
 ## McDonald's Treasure Land Adventure (U)
 
+Name: McDonald's Treasure Land Adventure (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 04EF4899
+
+CRC64: E90539B0663E6423
+
+SHA256: c175899c4af07ef7cc374636a2757742127633b441a2fb1e5ebc1f59460dbc6c
+
+SHA1: bcb77c10bc8f3322599269214e0f8dde32b01a5c
+
+BLAKE2sp: 1a92cda9560c49d05236f25d3ac7366d3f1116898647462ff49edb23e5074082
 
 // This takes to original (U) region game and creates: McDonald's Treasure Land Adventure (W).gen
 
 ## Mega Turrican (U)
 
+Name: Mega Turrican (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: FE898CC9
+
+CRC64: 5988F1F1333A649F
+
+SHA256: e43ad7d23af4da9d51792fe943dee9c7893d1f3aca230e11830ff27dcc875de0
+
+SHA1: 180285dbfc1613489f1c20e9fd6c2b154dec7fe2
+
+BLAKE2sp: f3d1a4203aca6c4fcf6da7b182a9bb7d4265f7a40e5b6f663a050f1ad2cf934b
 
 // This takes to original (U) region game and creates: Mega Turrican (W).gen
 
 ## Mick & Mack as the Global Gladiators (U)
 
+Name: Mick & Mack as the Global Gladiators (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 40F17BB3
+
+CRC64: 6209A5FB22FE94E4
+
+SHA256: be46c86a05d702fbdce68811b0685b22ea4ce3acfec2e5ecc142ee1443eaa28f
+
+SHA1: 4fd2818888a3c265e148e9be76525654e76347e4
+
+BLAKE2sp: 699408b811fa0360caa1a538620c7a7acf35164b7704ccdba2053b1ac2a0dd3d
 
 // This takes to original (U) region game and creates: Mick & Mack as the Global Gladiators (W).gen
 
 ## Mighty Morphin Power Rangers (U)
 
+Name: Mighty Morphin Power Rangers - The Movie (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: AA941CBC
+
+CRC64: D35158F56C20106C
+
+SHA256: 294cb78bfc5fff2d1652d1e2568610e3ca8fe770e37ea83d1fa48e5aefde4633
+
+SHA1: 866d7ccc204e45d188594dde99c2ea836912a136
+
+BLAKE2sp: 7801ccaecc9281fca36c74f45966165ee0b4ab5579bf50e307892191143c3fa4
 
 // This takes to original (U) region game and creates: Mighty Morphin Power Rangers (W).gen
 
 ## Mighty Morphin Power Rangers - The Movie (U)
 
+Name: Mighty Morphin Power Rangers (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 715158A9
+
+CRC64: B05A41E2626BF19F
+
+SHA256: c5999af3fbc2805086f537b18ecaeed74d2a23eecf105f9e782ae1682d457840
+
+SHA1: dbe0c63c9e659255b091760889787001e85016a9
+
+BLAKE2sp: d2c9663646cea8557da4398d76c994f0fadf968d5768758365a7c44f4bc6bee8
 
 // This takes to original (U) region game and creates: Mighty Morphin Power Rangers - The Movie (W).gen
 
 ## Mortal Kombat 3 (U)
 
+Name: Mortal Kombat 3 (U) [!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: DD638AF6
+
+CRC64: BB5CBB22A306AF38
+
+SHA256: d43f5fced516838836487b58603e30b0f8d3b1f30d923e20706d7c6bffa7c18b
+
+SHA1: 55cdcba77f7fcd9994e748524d40c98089344160
+
+BLAKE2sp: 6bb941b1482c55dae6b923fedd95a2437488718cc3cab5bd0d6893b6c2928f04
 
 // This takes to original (U) region game and creates: Mortal Kombat 3 (W).gen
 
