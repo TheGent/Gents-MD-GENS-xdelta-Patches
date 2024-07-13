@@ -1045,36 +1045,127 @@ BLAKE2sp: 777e73476f652626162a3383e53a2f53a36edb30ba72e183f4b94e7af28fe7f6
 
 ## Landstalker - The Treasures of King Nole (U)
 
+Name: Landstalker - The Treasures of King Nole (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: FBBB5B97
+
+CRC64: 49E71CC833802E25
+
+SHA256: ad9f49cf2d528ee40fab74f8687ed908036873e54a7dd30c5dc32286c29fc614
+
+SHA1: 24345e29427b000b90df778965dd8834300a9dde
+
+BLAKE2sp: c2114fb047b3fa2ad07e7e2b3ab7eca0761caf7514b44189cd22d2f55eb98192
 
 // This takes to original (U) region game and creates: Landstalker - The Treasures of King Nole (W).gen
 
 ## Lemmings 2 - The Tribes (U)
 
+Name: Lemmings 2 - The Tribes (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: DE59A3A3
+
+CRC64: 1A9E12EF782E3DFB
+
+SHA256: a0b6e03d6ad4dac6124e32c5370c6b060ac31df8fe057fb1f7d400b633952ca4
+
+SHA1: 1de84f5c9b25f6af4c2c3e18bb710b9572fc0a10
+
+BLAKE2sp: eda63e0f62a0d160db86527b085503f9fe96c9e3b86eb81e3d8e1d7424f6a639
 
 // This takes to original (U) region game and creates: Lemmings 2 - The Tribes (W).gen
 
 ## Lethal Enforcers (U)
 
+Name: Lethal Enforcers (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 51D9A84A
+
+CRC64: B70A2ED7E423875A
+
+SHA256: 7ac1a9deb0d95cc2cffb0f7a47ddd831d4c3cc8f7013969a27665271bd2e9e0d
+
+SHA1: 309b41c6d4159f4f07fe9a76aca4fc4ddf45de63
+
+BLAKE2sp: 1ef4bd9ae0f48b98a122ced519e76af01f4dc7cdf09074c8fc643f2cf8d9e087
 
 // This takes to original (U) region game and creates: Lethal Enforcers (W).gen
 
 ## Lethal Enforcers II - Gun Fighters (U)
 
+Name: Lethal Enforcers II - Gun Fighters (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: E5FDD28B
+
+CRC64: D9243897AD314E6F
+
+SHA256: aab816a2f433713eb4fc5377ae265341bd2c72bef9bc7fc41026425944a70ad3
+
+SHA1: 823a59b1177665313a1114a622ee98a795141eec
+
+BLAKE2sp: 9f7010a15e1f1d8e634e2cb7d0f4205d82ffb5890ad498ba98056db123694ea4
 
 // This takes to original (U) region game and creates: Lethal Enforcers II - Gun Fighters (W).gen
 
 ## Light Crusader (U)
 
+Name: Light Crusader (W).gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: E470BCE9
+
+CRC64: 7A7610A987F59F3B
+
+SHA256: 31322a0ab2af5d221b3905ba67d2ed6341b6001cfa5e0168cf8c966d48170e37
+
+SHA1: bef9ac9852b1da1f1887e867232cdfc7379abd2d
+
+BLAKE2sp: 021d95570fbc4d69688f27491c913be0d08c24c30e2962fcb8a77800f3fb6d38
 
 // This takes to original (U) region game and creates: Light Crusader (W).gen
 
 ## Lightening Force - Quest for the Darkstar (U)
 
+Name: Lightening Force - Quest for the Darkstar (U) [c][!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: C8F8C0E0
+
+CRC64: 3028FA24D3589CC7
+
+SHA256: 238ce3580bea34ede9ae5fb59263d822ed9400baaee6b402ed3370bebd1203c1
+
+SHA1: ab5bd9ddbfc07d860f44b9c72d098aef2581d1d8
+
+BLAKE2sp: 633bda4fd33003e08918992c803aff9a7081756ce853a2294c5ddabd1d0328b9
 
 // This takes to original (U) region game and creates: Lightening Force - Quest for the Darkstar (W).gen
 
 ## Lost Vikings, The (U)
 
+Name: Lost Vikings, The (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 7BA49EDB
+
+CRC64: A1CCC326574791F5
+
+SHA256: 44cf14ee3ce8b211904ed05facbb419114e3bf99d06f6cfa15c05d15758a573f
+
+SHA1: f00464c111b57c8b23698760cbd377c3c8cfe712
+
+BLAKE2sp: 8b383b3e7074db6f9093d6cd159d6c850df6ce583be6f2dda597cfeceda3202d
 
 // This takes to original (U) region game and creates: Lost Vikings, The (W).gen
 
