@@ -1513,66 +1513,235 @@ BLAKE2sp: 3565ec3f590e0d254a265040fc8c613b3f1451e533853abe58a5984b3fbef560
 
 ## Pac-Attack (U)
 
+Name: Pac-Attack (U) [!].gen
+Size: 262144 by
+tes (256 KiB)
+
+CRC32: 5DF382F7
+
+CRC64: 6EF266C193A77A46
+
+SHA256: 64916cbe539c9c68bbbd4489df3762415cc8c3c59ba5f3bc900c2e803ff12b56
+
+SHA1: 55e9122e72eeb3439c62cc0de810ea5df74de893
+
+BLAKE2sp: 2dffd4bd66c9ee875d35ce17067608ff5a974ddc1780e32460ec4b3e2811b9b0
 
 // This takes to original (U) region game and creates: Pac-Attack (W).gen
 
 ## Pac-Man 2 - The New Adventures (U)
 
+Name: Pac-Man 2 - The New Adventures (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: FE7A7ED1
+
+CRC64: 5C7C2C0DE6524169
+
+SHA256: 353857024ade24405e532a370c9081d42c29368ed456c4e92a5c15ef4540b664
+
+SHA1: 9ed27068b00345d04d9dd1052ba0606c172e0090
+
+BLAKE2sp: 423a86f3408cd4798badc28866c5ab7816823613b53e966d9359963f6f3af1a4
 
 // This takes to original (U) region game and creates: Pac-Man 2 - The New Adventures (W).gen
 
 ## Pagemaster, The (U)
 
+Name: Pagemaster, The (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 75A96D4E
+
+CRC64: 988C8DFE2FDDD691
+
+SHA256: d5f3860523bcdbe8cf1d9311f04c8fdedee01784017390e86b03913a65645888
+
+SHA1: 46d0495638e618bb9ac7fb07f46f8f0d61a8cedc
+
+BLAKE2sp: f9d8a495aff093a7e6ebc5d2cf6e8fea32fd6fdc2a2d769ac6e329cb6a71c109
 
 // This takes to original (U) region game and creates: Pagemaster, The (W).gen
 
 ## Pebble Beach Golf Links (U)
 
+Name: Pebble Beach Golf Links (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 95823C43
+
+CRC64: C6AE8919E9B0F3EE
+
+SHA256: d9a5a1c745515265abc4d8ba6d87da6e567336f0aef56076daa5403747de3f9c
+
+SHA1: c9971710651056b8211b9bbd68eb5d1569e39e1f
+
+BLAKE2sp: 73e64fc2515f7eacc76457879ac0bbf80f4b7d169eb1426bd069c4be1a0f6703
 
 // This takes to original (U) region game and creates: Pebble Beach Golf Links (W).gen
 
 ## Phantasy Star - The End of the Millenium (U)
 
+Name: Phantasy Star - The End of the Millenium (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: FE236442
+
+CRC64: 9FAC924F4E943B3D
+
+SHA256: 511f35cc11f88316f8b8940e28ab298bd75a4da193672a80172884d6eb913b6a
+
+SHA1: bc7ff6d6a8408f38562bc610f24645cad6c42629
+
+BLAKE2sp: 339319682177c1bb932054c8d77944267b339b1054b8453d6800b36764ac19e8
 
 // This takes to original (U) region game and creates: Phantasy Star - The End of the Millenium (W).gen
 
 ## Phantom 2040 (U)
 
+Name: Phantom 2040 (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: FB36E1F3
+
+CRC64: BF229E38D9153DA8
+
+SHA256: 26b0ee7dcaea01babcb98c87b9d928987a46ebf86ada765a7f816c5b6485e048
+
+SHA1: 260b9f8fbd681bb1fc445538726836f0d423b4cc
+
+BLAKE2sp: 99a5f3ba4032a73cb28c633a4f65ad89c0fbb9d0b0a8bbefa1e447143fdaa25b
 
 // This takes to original (U) region game and creates: Phantom 2040 (W).gen
 
 ## Pinocchio (U)
 
+Name: Pinocchio (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: CD4128D8
+
+CRC64: 307BDF452903BE2A
+
+SHA256: b2300c473bdd5b9df0cd9d5c7016cae5e15084396156bf34dd2294a3e0fca344
+
+SHA1: ad6098fe3642489d0281b1f168319a753e8bd02a
+
+BLAKE2sp: 49befa5632d7245db2c2d1fa9806d9219784ca43153425d2bbee4754f6245cb5
 
 // This takes to original (U) region game and creates: Pinocchio (W).gen
 
 ## Pirates of Dark Water, The (U)
 
+Name: Pirates of Dark Water, The (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 0C45B9F7
+
+CRC64: 46EC0D917EB06EB3
+
+SHA256: ae21c40a270bed1e8626c5f7335a95d9f427c177ee611f7ab1f509577c93c942
+
+SHA1: a95eabc00ed9f4867f394c1e5e03afad0381843b
+
+BLAKE2sp: a16e61ced35a01418268bbfa3c8447f1e56ad6aea800cfa0e1c0ca983cde53c6
 
 // This takes to original (U) region game and creates: Pirates of Dark Water, The (W).gen
 
 ## Pirates! Gold (U)
 
+Name: Pirates! Gold (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: ED50E75C
+
+CRC64: 79D819FD4D33C9ED
+
+SHA256: 3c92fa1cd7d8ad869122f8729d7f3d1da9557975b4b6b81dffd6085916a20e33
+
+SHA1: ea597dbefc8f804524606af3c1c4fe6ba55e86e9
+
+BLAKE2sp: 9c1022d16ba883f5c119cce7c56655f4d0fea888ee1639965085abe560b4e537
 
 // This takes to original (U) region game and creates: Pirates! Gold (W).gen
 
 ## Pitfall - The Mayan Adventure (U)
 
+Name: Pitfall - The Mayan Adventure (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: F917E34F
+
+CRC64: 45402F1B0B468A36
+
+SHA256: e9b1cea140798a4c080e62e921a68a5ed03be6d82610c3466d46e28bbe9626cc
+
+SHA1: f2067e7d974f03bf922286241119dac7c0ecabff
+
+BLAKE2sp: f5c42c82ae05c08061f4f6ac5b095bf038e829b73c0d2e6adb540fabe679f6e1
 
 // This takes to original (U) region game and creates: Pitfall - The Mayan Adventure (W).gen
 
 ## Pocahontas (U)
 
+Name: Pocahontas (U) [!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: 6DDD1C6D
+
+CRC64: 59E4D7BF97700511
+
+SHA256: abc41905b5c46e9e9a2440b2b23ffcbdf3fcf8da98c1afe159bf28f9e0721587
+
+SHA1: b57ae70f1d735c8052991053297a0c878f8a9417
+
+BLAKE2sp: 05b8201530b614f343aee050bcf249672137a080564fcab1595974a7b733e4b7
 
 // This takes to original (U) region game and creates: Pocahontas (W).gen
 
 ## Prince of Persia (U)
 
+Name: Prince of Persia (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 13C181A4
+
+CRC64: 9C21C59289F657C9
+
+SHA256: 42a28e7d88db6bb7fcfc4ddb63fab45328e7c328029da148d6ce653a7ecc0712
+
+SHA1: 30080c7a8617ba3aaf67587970f32cd846234611
+
+BLAKE2sp: 72909669a687778aae86e6bc399a81709decd226b551fa16b6ad718d6485ecb6
 
 // This takes to original (U) region game and creates: Prince of Persia (W).gen
 
 ## Punisher, The (U)
 
+Name: Punisher, The (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 695CD8B8
+
+CRC64: D41B8B2CCF8AC03C
+
+SHA256: 4b84bd9e6813233e97bae16e3fb5924aa2c459710131e9be9f1aa025787ccf27
+
+SHA1: 4ef2675e728903925a7b865daa75ed66bbe24829
+
+BLAKE2sp: 3871ebd26dd09195aa080649f451bf1a634433c1f2045ba6ebd9b4dd88e97b9b
 
 // This takes to original (U) region game and creates: Punisher, The (W).gen
 
