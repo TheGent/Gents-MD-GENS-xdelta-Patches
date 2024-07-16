@@ -1747,31 +1747,109 @@ BLAKE2sp: 3871ebd26dd09195aa080649f451bf1a634433c1f2045ba6ebd9b4dd88e97b9b
 
 ## Ranger-X (U)
 
+Name: Ranger-X (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 55915915
+
+CRC64: 917195EED05EBF3C
+
+SHA256: 2016cea7dbba18ed8b29007bc9c9e60b7996966cac3e6e1f2dac81909a5e4e35
+
+SHA1: 2611c818ecb53edc7d561fce1a349acad6abff4a
+
+BLAKE2sp: 951aba9666c19b4f44f0fb16c9429ab8678c990174fee3aef63571ce206468fa
 
 // This takes to original (U) region game and creates: Ranger-X (W).gen
 
 ## Ren and Stimpy Show, The - Stimpy's Invention (U)
 
+Name: Ren and Stimpy Show, The - Stimpy's Invention (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: D9503BA5
+
+CRC64: E4DA2981077EF3F9
+
+SHA256: f2fbd082633eee815a91e542cfeed8cdb206ab7cfdbe060a407a19d1e8665976
+
+SHA1: 29788359cc3311107e82f275868e908314d3d426
+
+BLAKE2sp: 3b02a4de10c8d29ec2af65d75d40779c2384c5654c478cd2a58d46072d3efbd4
 
 // This takes to original (U) region game and creates: Ren and Stimpy Show, The - Stimpy's Invention (W).gen
 
 ## Richard Scarry's Busytown (U)
 
+Name: Richard Scarry's Busytown (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 7BB60C3F
+
+CRC64: 5E06EF2725F767E5
+
+SHA256: 20c7adaec80b977e193f5365cffc00dfbd6c634b429bc590040e148b5ddeb76f
+
+SHA1: 42e5ac265e3bf82c44dca70deb71b0aa08acf1a9
+
+BLAKE2sp: 1df21d3b07c62db41ebcf3e05cda2f08f0ca5e763c6025b9b3716f225ee62a93
 
 // This takes to original (U) region game and creates: Richard Scarry's Busytown (W).gen
 
 ## Robocop Versus The Terminator (U)
 
+Name: Robocop Versus The Terminator (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: BBAD77A4
+
+CRC64: 77059AA6D75763FB
+
+SHA256: 9d2290fdd65f7fa7ea96af70abcff2fa1bb7c3f0b9f8ada0f03496d84e81a137
+
+SHA1: b67b708006145406f2a8dacb237517ededec359a
+
+BLAKE2sp: e43567ea7bf2298bafb158a0257cd6b4f223186889b37108161fb8220e20148e
 
 // This takes to original (U) region game and creates: Robocop Versus The Terminator (W).gen
 
 ## Rock n' Roll Racing (U)
 
+Name: Rock n' Roll Racing (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 6ABAB577
+
+CRC64: 9EEF7DD9AD217DE6
+
+SHA256: 1c434759c1ae2aa617dcc23a6a97b843874aba86e6b81a83fc3ee222c822e7d0
+
+SHA1: 9793572b6d64c85c1add0721c3be388ac18777d6
+
+BLAKE2sp: 1faefc77032c739f394c9a5b7f85070ab8a408e685faa334a0683920b0df7db2
 
 // This takes to original (U) region game and creates: Rock n' Roll Racing (W).gen
 
 ## Rocket Knight Adventures (U)
 
+Name: Rocket Knight Adventures (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: A6EFEC47
+
+CRC64: 4BDE31489939BFEB
+
+SHA256: 85831d4f7d35bf233b5581c3ed8c05bac64721f65713426bfa00d2f9a792a7aa
+
+SHA1: 49634bb09c38fa03549577f977e6afb6cebaac48
+
+BLAKE2sp: acfee33abf741dbd93668e9dc1428d3f200a71636d950f9fba57f47874afda79
 
 // This takes to original (U) region game and creates: Rocket Knight Adventures (W).gen
 
