@@ -1855,126 +1855,452 @@ BLAKE2sp: acfee33abf741dbd93668e9dc1428d3f200a71636d950f9fba57f47874afda79
 
 ## Samurai Shodown (U)
 
+Name: Samurai Shodown (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 5BB8B2D4
+
+CRC64: 9FEBA9719F598970
+
+SHA256: e57fbd0d52ed6cfad0638ff2c375a902b814600600be2e96e17677e7258ed99e
+
+SHA1: 504cc7a948f96ce1989f8e91ffb42acc6a956e47
+
+BLAKE2sp: d8ff7603e2510b25135894e84ae5ab43aab7b9f2abcbd7bd678d084847b4bc85
 
 // This takes to original (U) region game and creates: Samurai Shodown (W).gen
 
 ## Saturday Night Slam Masters (U)
 
+Name: Saturday Night Slam Masters (U) [!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: 2FB4EABA
+
+CRC64: D4D477948F4C6314
+
+SHA256: 57931d7ead3a222f9fbd49dc37422bc821b8c39c16489bbc4f28656e1b18f52f
+
+SHA1: 7252006bf41e41b92c6261c6722766a1352a6dca
+
+BLAKE2sp: 7bb71fe8d7ae5e456bf1c63c175421baf334e80e40f424102ebd936050a0e894
 
 // This takes to original (U) region game and creates: Saturday Night Slam Masters (W).gen
 
 ## Shadowrun (U)
 
+Name: Shadowrun (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: FBB92909
+
+CRC64: 06C223D1CBCA1756
+
+SHA256: 92a614491fc3ea12a6df32459cce08b48574b7b814e244c07eb860dc5c6edb7e
+
+SHA1: a06a281d39e845bff446a541b2ff48e1d93143c2
+
+BLAKE2sp: f924d01ccaf3b1e59deacfe2481e637008917158b85f450f651cc35f086ab2af
 
 // This takes to original (U) region game and creates: Shadowrun (W).gen
 
 ## Shanghai 2 - Dragon's Eye (U)
 
+Name: Shanghai 2 - Dragon's Eye (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: EBE9E840
+
+CRC64: 5780571DB2332491
+
+SHA256: e4ebb85bd51292818d14362c359de9c8c7c1d23e99b7af5a083663e6c656cd19
+
+SHA1: 7d6dc54b8943880a5fd26af10364eb943e9724c2
+
+BLAKE2sp: 377b291e9d8dc0c5afe968372e61fcf668811e7b3837c2898315eef00daa2ee6
 
 // This takes to original (U) region game and creates: Shanghai 2 - Dragon's Eye (W).gen
 
 ## Shining Force (U)
 
+Name: Shining Force (U) [!].gen
+
+Size: 1572864 bytes (1536 KiB)
+
+CRC32: E0594ABE
+
+CRC64: D7659A63D45CEFEA
+
+SHA256: 6c43b41b60ae8147945b4420caeb5eb266e1dd57a0d125b7496fa8fb6fde522d
+
+SHA1: 7cbb3ed31c982750d70a273b9561a9e1b2c04eea
+
+BLAKE2sp: ed91f0797abd3ce1aa7bcec64b614ad6a4be2858aa96894a659ee0e3d01de168
 
 // This takes to original (U) region game and creates: Shining Force (W).gen
 
 ## Shining Force II (U)
 
+Name: Shining Force II (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 4815E075
+
+CRC64: 2B281D11FCD20A1B
+
+SHA256: 9adf662d09881f58ec37d174ab01e87a7fcfb24700b5f84b26c0cd4f351509e9
+
+SHA1: 22defc2e8e6c1dbb20421b906796538725b3d893
+
+BLAKE2sp: 17305d339143cbe24e67fb14b94144c7387019fc81ba2724703806806c0abdf0
 
 // This takes to original (U) region game and creates: Shining Force II (W).gen
 
 ## Shinobi III - Return of the Ninja Master (U)
 
+Name: Shinobi III - Return of the Ninja Master (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 5381506F
+
+CRC64: 6EE16BB9AA201463
+
+SHA256: e0c50ed80fa1b75325344c2260a26841936d077e2ae1689c2522e3cc484739e3
+
+SHA1: 1e07d7998e3048fcfba4238ae96496460e91b3a5
+
+BLAKE2sp: 462df98c842d9a47f1f359a7217a2f7865d221f503663940f2762b581193666e
 
 // This takes to original (U) region game and creates: Shinobi III - Return of the Ninja Master (W).gen
 
 ## Skeleton Krew (U)
 
+Name: Skeleton Krew (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: C2E05ACB
+
+CRC64: 2AF8D50F6B8B16F5
+
+SHA256: f71900ac3c9e4e3d6980a9bf50f14c9f29f2da7831237d04bdb88b7561b12c74
+
+SHA1: 2a6f6ea7d2fc1f3a396269f9455011ef95266ffc
+
+BLAKE2sp: f877f3e7ccf12a37999564c6a8e92b8d203e54e64f8cf3b8a6bdc9b812ab9ad9
 
 // This takes to original (U) region game and creates: Skeleton Krew (W).gen
 
 ## Sonic Spinball (U) (alt music) (U)
 
+Name: Sonic Spinball (U) (alt music) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: E9960371
+
+CRC64: 8CEDD4F9B5270318
+
+SHA256: 4f516a92cb3f43fa84311b736c9152fed33a46afe0fc4812171330b49730fa0d
+
+SHA1: 8f372e3552e309d3462adeb700242b251f59def1
+
+BLAKE2sp: 5fdbe0d6b5da1ab9d3a1a6a45b34feaa9f7f07aeb7a80ee9d05ba5ddce25ab8c
 
 // This takes to original (U) region game and creates: Sonic Spinball (U) (alt music) (W).gen
 
 ## Sonic Spinball (U)
 
+Name: Sonic Spinball (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 677206CB
+
+CRC64: 2DAD25D3F99AAA33
+
+SHA256: d64c3c6c8439e5e5fb899122025321bb3f33c7d343facfc21b93f0c62ca2dc16
+
+SHA1: 24bf6342b98c09775089c9f39cfb2f6fbe7806f7
+
+BLAKE2sp: 647055d8a10da7e93abd9907732753b8ccc18a8477b53ed61e07d54f361901a2
 
 // This takes to original (U) region game and creates: Sonic Spinball (W).gen
 
 ## Sonic The Hedgehog 3 (U)
 
+Name: Sonic The Hedgehog 3 (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 9BC192CE
+
+CRC64: E70B66BA19EFA172
+
+SHA256: d6404843c5ba32486f4c8c744acb7e1932069376960d886b1de37969787d3f9c
+
+SHA1: 75e9c4705259d84112b3e697a6c00a0813d47d71
+
+BLAKE2sp: 3e02ca1c9b28a797d84cce253f4e0047f5b4e841c20311b2dcb8e6ece93e2b58
 
 // This takes to original (U) region game and creates: Sonic The Hedgehog 3 (W).gen
 
 ## Sparkster (U)
 
+Name: Sparkster (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 6BDB14ED
+
+CRC64: 1EFE55170ADE402B
+
+SHA256: 294a86923ca3aaeabcd8edcf27e428b7ace30d6774937e6db83563d80932b654
+
+SHA1: d6e2f4aa87633aeea2ec1c05a6100b8905549095
+
+BLAKE2sp: b0929217b14fd1ed24ed2e34223af1cf407eebe4dd61fbe344e5ee4e51db90a7
 
 // This takes to original (U) region game and creates: Sparkster (W).gen
 
 ## Speed Ball 2 - Brutal Deluxe (U)
 
+Name: Speed Ball 2 - Brutal Deluxe (U) [c][!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: 655F5CE8
+
+CRC64: A3A5C44C14632D35
+
+SHA256: d908689a979350b5bc80e869ef7f13fbc69ddfd971bde1cfbd3e1edc0f3bf64a
+
+SHA1: b28512fb62c6f44cfab85edbaaafcef0f072e08c
+
+BLAKE2sp: 57bfed53cb7b5b91bea2b2496e1f8456d98819567ceca24e96d9035f3a772d33
 
 // This takes to original (U) region game and creates: Speed Ball 2 - Brutal Deluxe (W).gen
 
 ## Spot Goes to Hollywood (U) (REV01)
 
+Name: Spot Goes to Hollywood (U) (REV01) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: BDAD1CBC
+
+CRC64: D98AAE077AFD5962
+
+SHA256: 39d87a624067000c8c84e08d88d29f6e9acd70a5ddfd52b7981ab98a9977c5d2
+
+SHA1: 064a384f745eeffee3621d55a0278c133abdbc11
+
+BLAKE2sp: ae2bf5e526400a91814aac2fcd4f2841ffa6513bc26eb8b33a7d2afdf2ed21d7
 
 // This takes to original (U) region game and creates: Spot Goes to Hollywood (W) (REV01).gen
 
 ## Star Trek - Deep Space 9 - Crossroads of Time (U)
 
+Name: Star Trek - Deep Space 9 - Crossroads of Time (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: A771E1A4
+
+CRC64: A0AE5CC6144F7940
+
+SHA256: fb5be05fdbcc1916d7dd1303db02a42be1dff7b0634d9d2786ae4a5ee038b864
+
+SHA1: 3918dcf48d99d075a6062d967a0f27fb56f89ad2
+
+BLAKE2sp: 3e12a1681ce4d96379ae9bffc84e35f9bc03c527edb3e5f38f87861dd04cb927
 
 // This takes to original (U) region game and creates: Star Trek - Deep Space 9 - Crossroads of Time (W).gen
 
 ## Star Trek - The Next Generation (U) (REV00)
 
+Name: Star Trek - The Next Generation (U) (REV00) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 272153FB
+
+CRC64: AD2B98F685034C9D
+
+SHA256: 2b9e15db3153a7da4c017ed5d7222dfc953396f658a855cf4d66d814f9f0afc6
+
+SHA1: ca0cf81784262fe6c00502cb495ede7daf3685c0
+
+BLAKE2sp: 523b1a50e70626bf3ada6ac10cb60ae9f00eae4d0deadb4f2ef9e8d35264e947
 
 // This takes to original (U) region game and creates: Star Trek - The Next Generation (W) (REV00).gen
 
 ## Star Trek - The Next Generation (U) (REV01)
 
+Name: Star Trek - The Next Generation (U) (REV01) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: EF840EF2
+
+CRC64: 3FFA034C3B859FFA
+
+SHA256: 7cced8f9ca02f10344c9b752ce395c95c05b7ffa2acb069522eb3dc3f5f512ac
+
+SHA1: fe72aff307182dc6970048e88eaa5f03348781f5
+
+BLAKE2sp: c430bb2281a9b656dfaa781c72569f6a7b0ee7e0f5fd7fbfc23cbedd8e124128
 
 // This takes to original (U) region game and creates: Star Trek - The Next Generation (W) (REV01).gen
 
 ## Street Fighter II' - Special Champion Edition (U)
 
+Name: Street Fighter II' - Special Champion Edition (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 13FE08A1
+
+CRC64: FAC09A47F55BB319
+
+SHA256: d9224423c80754a4ee945f7348d7478d56a134654a9389e02cd82caab76dddef
+
+SHA1: a5aad1d108046d9388e33247610dafb4c6516e0b
+
+BLAKE2sp: 2a2351f885e5055d25ac73a148e02a2ac63ecd77ee7ca29a4362a39e3a72982a
 
 // This takes to original (U) region game and creates: Street Fighter II' - Special Champion Edition (W).gen
 
 ## Streets of Rage 2 (U)
 
+Name: Streets of Rage 2 (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: E01FA526
+
+CRC64: 48D67948564F2A8E
+
+SHA256: 4a314edbfee92282850fe95c4c764921916efd9d3c2277fdec2581279b1369b1
+
+SHA1: 8b656eec9692d88bbbb84787142aa732b44ce0be
+
+BLAKE2sp: 69072ded26e44c906cd5bef10d576cc6b113233ad8ad1eaa05ff12600d5bab08
 
 // This takes to original (U) region game and creates: Streets of Rage 2 (W).gen
 
 ## Streets of Rage 3 (U)
 
+Name: Streets of Rage 3 (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: D5BB15D9
+
+CRC64: 20795FD8616F3702
+
+SHA256: c29f54a1f4aa65e5d2494b9e0b7da66a298fdc35e09e604acac315b5e9aaed7b
+
+SHA1: 40a33dd6f9dab0aff26c7525c9b8f342482c7af6
+
+BLAKE2sp: db9d29e1a2f92d502dfa2f15da7b1b4249d5d9a5948fbd48f625ea13cc5be248
 
 // This takes to original (U) region game and creates: Streets of Rage 3 (W).gen
 
 ## Sub-Terrania (U)
 
+Name: Sub-Terrania (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: DC3C6C45
+
+CRC64: FB7D230D60C3767F
+
+SHA256: 2cd1ae8c3fa18654a3f6f8274a6abd1ffcac1242cf6e47cdc08c58105a8e99ab
+
+SHA1: 70a5d4da311dd8a92492d01676bf9170fa4bd095
+
+BLAKE2sp: fb4ce305392c6e69d5167b59e956f864f6a8c85199ed926992deef7aad1b5aeb
 
 // This takes to original (U) region game and creates: Sub-Terrania (W).gen
 
 ## Sunset Riders (U)
 
+Name: Sunset Riders (U) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: AC30C297
+
+CRC64: A109BE507E38C94A
+
+SHA256: 37b3254d63b73d81341069e49909fd8a020cc8fbdb936de34364e19d6722f140
+
+SHA1: b40ea5b00f477d7b7448447f15b4c571f5e8ff0d
+
+BLAKE2sp: 9a9822dba168f2d5dd30322233b3c46df922bc9876860a350393fd1b07d18b11
 
 // This takes to original (U) region game and creates: Sunset Riders (W).gen
 
 ## Super Monaco Grand Prix (U) (M2) (REV03)
 
+Name: Super Monaco Grand Prix (U) (M2) (REV03) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: 725018EE
+
+CRC64: 52F1D3F68B1AED94
+
+SHA256: d3c60d34571c5684b0cff5196c7c6db7364bee7d8b91048f0f3ae19d8f1a1db6
+
+SHA1: 1947d41598daa3880ecb826303abae2accd1857f
+
+BLAKE2sp: 71dddadff7bc631b526b3cb2272b9dbf1a25f2a9d7208f1625c3b5fa50d86ff4
 
 // This takes to original (U) region game and creates: Super Monaco Grand Prix (W) (M2) (REV03)).gen
 
 
 ## Super Street Fighter II - The New Challengers (U)
 
+Name: Super Street Fighter II - The New Challengers (U) [c][!].gen
+
+Size: 5242880 bytes (5120 KiB)
+
+CRC32: 165DEFBF
+
+CRC64: B75EADCE7C299E5C
+
+SHA256: a409ea5b53bdb64051b98257d8b64af432bfcf98d6fb8a95dc2c66d5ebd71926
+
+SHA1: 9ce6e69db9d28386f7542dacd3e3ead28eacf2a4
+
+BLAKE2sp: e29b367c0e8c41d263d7b9d79dc0ed6396b5949e07a9df624de100c470fa4b7e
+
 // This takes to original (U) region game and creates: Super Street Fighter II - The New Challengers (W).gen
 
 ## Superman (U)
 
+Name: Superman (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 543A5869
+
+CRC64: C54E09B688F4A71C
+
+SHA256: 49eb06f0e7bf1f797b8950fd353aebb654d0809cefec407f11e75ef015e98c89
+
+SHA1: ca14653589fd36e6394ec99f223ed9b18f70fd6a
+
+BLAKE2sp: 92922edd2bc51676f3adde518090bbd78d42a23f2b8dc46242fe9046c851e42b
 
 // This takes to original (U) region game and creates: Superman (W).gen
 
