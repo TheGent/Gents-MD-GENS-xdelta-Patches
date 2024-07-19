@@ -2576,6 +2576,19 @@ BLAKE2sp: d178874313201efcb9e3104f120cfc9d9a634e9e289a194d3fd7754aed051a18
 
 ## Ultimate Mortal Kombat 3 (U)
 
+Name: Ultimate Mortal Kombat 3 (U) [!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: 7290770D
+
+CRC64: 24D1AAEB972C6FB6
+
+SHA256: 75dd7e0c182a759a7e5beabbca7581ff11336c416fa4711804cf6f148fbc45c0
+
+SHA1: bf2da4a7ae7aa428b0b316581f65b280dc3ba356
+
+BLAKE2sp: ca8f8f8b1f8c9074249b272ec77fc4c40473ae6986d26dada70b2140356f0e58
 
 // This takes to original (U) region game and creates: Ultimate Mortal Kombat 3 (W).gen
 
