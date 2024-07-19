@@ -2306,76 +2306,271 @@ BLAKE2sp: 92922edd2bc51676f3adde518090bbd78d42a23f2b8dc46242fe9046c851e42b
 
 ## Tecmo Super Baseball (U)
 
+Name: Tecmo Super Baseball (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 227A1178
+
+CRC64: 5BEA0860AA8C2DC0
+
+SHA256: 938895e38546901657cd5755bc1a63e6f4e2d5edeed687598f8997efc22fe843
+
+SHA1: f2ecc7b32cef29f22eb4a21a22be122bd4bad212
+
+BLAKE2sp: bb52c4e96e561821166c8d9974ddcd0f74f2a257b9f475bc833e1ac554896d1b
 
 // This takes to original (U) region game and creates: Tecmo Super Baseball (W).gen
 
 ## Tecmo Super Hockey (U)
 
+Name: Tecmo Super Hockey (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 5F86DDC9
+
+CRC64: 4A608914CB6071E8
+
+SHA256: 2894d057d38ec5d2fd7775b318871103cc22b4bde4608aa053d2c401f10bbac0
+
+SHA1: 4d4fd22d2fafd7e56790029be9b02e61995df11c
+
+BLAKE2sp: cb473c16e1c7c89c4e4070b3ec7cb557b1ba1e63a6047ec5661afc6d224d93bb
 
 // This takes to original (U) region game and creates: Tecmo Super Hockey (W).gen
 
 ## Teenage Mutant Ninja Turtles - The Hyperstone Heist (U)
 
+Name: Teenage Mutant Ninja Turtles - The Hyperstone Heist (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 679C41DE
+
+CRC64: 9F3FD14C3E667103
+
+SHA256: 1b0b84f78b43a2ede61ab0ebea094768f86d64660002f1fe67ff0ceaa4a7ae0d
+
+SHA1: f440dfa689f65e782a150c1686ab90d7e5cc6355
+
+BLAKE2sp: c92d70a7f37a3114b7dffaf048edbad26dd3f4e6e1d267a2dc0e21ada5d29d2c
 
 // This takes to original (U) region game and creates: Teenage Mutant Ninja Turtles - The Hyperstone Heist (W).gen
 
 ## Teenage Mutant Ninja Turtles - Tournament Fighters (U)
 
+Name: Teenage Mutant Ninja Turtles - Tournament Fighters (U) [c][!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 95B5484D
+
+CRC64: 0AD744096E2CD4DA
+
+SHA256: f5e51ff6e03d79337cf45b08c18a35bd420da8cca83a8ee0fbb7118f692895d6
+
+SHA1: 1a27be1e7f8f47eb539b874eaa48586fe2dab9c0
+
+BLAKE2sp: b5b042461795fa9c1086e705e6a7265d6a0cd64ee1782d9a2efa048894d76cfe
 
 // This takes to original (U) region game and creates: Teenage Mutant Ninja Turtles - Tournament Fighters (W).gen
 
 ## Tick, The (U)
 
+Name: Tick, The (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 425132F0
+
+CRC64: 3F0037BC93FCCEA7
+
+SHA256: e5a2bb06b7b179b445f18d1475169e26417d986b0f67ff84a378799a18c1463c
+
+SHA1: e0fe77f1d512a753938ce4c5c7c0badb5edfc407
+
+BLAKE2sp: 29b800e988d203ff1cef41721ebf4331073cee02d7ec628d1e74c22e5c918d00
 
 // This takes to original (U) region game and creates: Tick, The (W).gen
 
 ## Tinhead (U)
 
+Name: Tinhead (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: D6724B84
+
+CRC64: 7C60266F1C452A3F
+
+SHA256: a2b7a7d159c9b085ef85e5ec146892afa225632fd19f4c0a27e5e7472e2a8e69
+
+SHA1: e5acf758e76c95017a6ad50ab0f6ae2db5c9e8bc
+
+BLAKE2sp: 41f06c057c8ef4776cce4fd44f15c9bafe746afa8a6e7c3eedecd71b821b0f9f
 
 // This takes to original (U) region game and creates: Tinhead (W).gen
 
 ## Tiny Toon Adventures - Acme All-Stars (U)
 
+Name: Tiny Toon Adventures - Acme All-Stars (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 2F9FAA1D
+
+CRC64: 8F77C0576C65D2CC
+
+SHA256: 796c0297bbd6053372e8aa030f4203e113567309f3f6ac4f6a1b6edae2657339
+
+SHA1: d64736a69fca430fc6a84a60335add0c765feb71
+
+BLAKE2sp: 36af84f0eb49f22ee580a4c9d9c6659ca256394b4cb81f8be8fadb5e0ae28081
 
 // This takes to original (U) region game and creates: Tiny Toon Adventures - Acme All-Stars (W).gen
 
 ## Tiny Toon Adventures - Buster's Hidden Treasure (U)
 
+Name: Tiny Toon Adventures - Buster's Hidden Treasure (U) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: A26D3AE0
+
+CRC64: BDB5EA845EE63C36
+
+SHA256: de4aae332898cad6977e2965bcff43285d4c03553a50b0ecb7c5ad7e1072280b
+
+SHA1: d8d159c7c5a365242f989cc3aad2352fb27e3af3
+
+BLAKE2sp: 779296782d739afdb66504d93ff8739a9e59b6ebe833fa5255c82cf468a04df0
 
 // This takes to original (U) region game and creates: Tiny Toon Adventures - Buster's Hidden Treasure (W).gen
 
 ## TNN Bass Tournament of Champions (U) (REV01)
 
+Name: TNN Bass Tournament of Champions (U) (REV01) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: C83FFA1B
+
+CRC64: 975A4D542331656F
+
+SHA256: 93357867cf7afdc13360309b6d843b908c7bda59a439a6736dc97a6c87da0003
+
+SHA1: f76acb6d5da07377685d42daf1ce4ca53be5d6b9
+
+BLAKE2sp: dd72cb24a7a29b2b814a937ec18718ac1370158e244503fd74a9e8d7a4e910a2
 
 // This takes to original (U) region game and creates: TNN Bass Tournament of Champions (W) (REV01).gen
 
 ## TNN Outdoors Bass Tournament '96 (U)
 
+Name: TNN Outdoors Bass Tournament '96 (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 5C523C0B
+
+CRC64: EE0489AC83E26518
+
+SHA256: ec4015602eebcf3e2826f81f2a640a1d04ceac640e15a370755b5b3dde128f4d
+
+SHA1: 0ca72f28e88675066c466246977143599240b09f
+
+BLAKE2sp: 55a9eeeb5961fe32985b9423275c2917544f56e782ba212d3f4934ae43b467d5
 
 // This takes to original (U) region game and creates: TNN Outdoors Bass Tournament '96 (W).gen
 
 ## Toejam & Earl in Panic on Funkotron (U)
 
+Name: Toejam & Earl in Panic on Funkotron (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: AA021BDD
+
+CRC64: 658A95E580CC5180
+
+SHA256: 4e75cc188cf8d8be1f82db60a094453aa2299caeea461cc6a7f2b1ae6fc524e6
+
+SHA1: 0ea0da09183eb01d030515beeb40c1427c6e1f07
+
+BLAKE2sp: aa8e197966ba820c9255f7504b8638c9a1aef52d1ceac3ac5b2b32694cb9161e
 
 // This takes to original (U) region game and creates: Toejam & Earl in Panic on Funkotron (W).gen
 
 ## Toy Story (U)
 
+Name: Toy Story (U) [!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: 829FE313
+
+CRC64: 09E95484B621EE80
+
+SHA256: 6f6557ad20811d377606264a9c616a88ffc72e0299b18dac1cb1f3388566d587
+
+SHA1: 49be571cd943fd594949c318a0bdbe6263fdd512
+
+BLAKE2sp: ab174af73d57766483ed317591c48bb0c76cd53627f0b7ecf8208fdc9bcd038d
 
 // This takes to original (U) region game and creates: Toy Story (W).gen
 
 ## Triple Play Gold (U)
 
+Name: Triple Play Gold (U) [c][!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: BBE69017
+
+CRC64: 09B99ACC54DA890C
+
+SHA256: 8f98a245db4a5c710469c168a5f2afe1c2f9309ef89b40942258494c61d23c68
+
+SHA1: 007bee242384db1887c5831657470584ff77a163
+
+BLAKE2sp: 67f551eaf968341cbae99801c7d52e58395b2e854acb4427a1b48206b80a9c28
 
 // This takes to original (U) region game and creates: Triple Play Gold (W).gen
 
 ## Troy Aikman NFL Football (U)
 
+Name: Troy Aikman NFL Football (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 015F2713
+
+CRC64: 4F0F93E9E5A923C3
+
+SHA256: 22470ec7295acbabd44899610578a557cbbc2250c79b7a336f9faaa6f7877616
+
+SHA1: 820efb4a4d3d29036911d9077bb6c0a4ce7f36d4
+
+BLAKE2sp: eba1cef4d6f0f7e00647046093496baf4b0f4ef0ee4c3d5160c83a2d67a63eeb
 
 // This takes to original (U) region game and creates: Troy Aikman NFL Football (W).gen
 
 ## Tyrants - Fight Through Time (U)
 
+Name: Tyrants - Fight Through Time (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: A744921E
+
+CRC64: 3CCA0F591079328C
+
+SHA256: d2e20631f3353fcd6a9d2521e9e753546741e7aeeec76ec48114978ad01c9051
+
+SHA1: 99ae974fccebfbf6f5a4738e953ad55181144a99
+
+BLAKE2sp: d178874313201efcb9e3104f120cfc9d9a634e9e289a194d3fd7754aed051a18
 
 // This takes to original (U) region game and creates: Tyrants - Fight Through Time (W).gen
 
