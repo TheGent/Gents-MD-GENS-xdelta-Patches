@@ -2594,6 +2594,19 @@ BLAKE2sp: ca8f8f8b1f8c9074249b272ec77fc4c40473ae6986d26dada70b2140356f0e58
 
 ## Virtua Racing (U)
 
+Name: Virtua Racing (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 7E1A324A
+
+CRC64: 6CEB2679122489C2
+
+SHA256: 291e74f9b4d5a2c0f2b7cbf6f2e0fbf72c16cb6d83b1f58dda78209f9a64c486
+
+SHA1: ff969ae53120cc4e7cb1a8a7e47458f2eb8a2165
+
+BLAKE2sp: 8b01261434f3c9a62c550a36efe68d875a80ef052350b80581c908a805c92a84
 
 // This takes to original (U) region game and creates: Virtua Racing (W).gen
 
