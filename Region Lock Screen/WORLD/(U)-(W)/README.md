@@ -2792,6 +2792,19 @@ BLAKE2sp: b9363840ff86c792a5fd80b3f0c798c32ff4bcda745ef403ed6799c1dd210b9a
 
 ## X-Men (U)
 
+Name: X-Men (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: F71B21B4
+
+CRC64: 9C96CB8BC9E2D26A
+
+SHA256: 49f601abfa61f23f70420a2cc0c4cc90273540b4d199fb61d516f6344e9067ef
+
+SHA1: 2f2b5d018c98b78faf9ab6b172947f5cd65d5cf0
+
+BLAKE2sp: 2c67d6b586493fb6d60ad104fd96a1d0aeae8c4291e2c08b84f3514dee2bbefb
 
 // This takes to original (U) region game and creates: X-Men (W).gen
 
