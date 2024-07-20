@@ -2612,51 +2612,181 @@ BLAKE2sp: 8b01261434f3c9a62c550a36efe68d875a80ef052350b80581c908a805c92a84
 
 ## We're Back! - A Dinosaur's Tale (U)
 
+Name: Weaponlord (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: B9895365
+
+CRC64: F01E807BDF077093
+
+SHA256: b89164fb2115096f3f428a36beddb39536256866e847be7e265fd9ceea35c6d9
+
+SHA1: 04128e3859d6eca6e044f456f8b0d06b63e3fb0c
+
+BLAKE2sp: f77c4df835397e1964a281e8d48aa572efee948727dee8728f1005d27a0ce940
 
 // This takes to original (U) region game and creates: We're Back! - A Dinosaur's Tale (W).gen
 
 ## Weaponlord (U)
 
+Name: We're Back! - A Dinosaur's Tale (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 70155B5B
+
+CRC64: D8DC0D729B76A85A
+
+SHA256: 1d1b8dcc3f7c26b58a0929a55d0f137516f1112bb5349c67a3c06163e6b79c3b
+
+SHA1: b1f8e741399fd2c28dfb1c3340af868d222b1c14
+
+BLAKE2sp: 4d88091b1db02d98e111ee9eae48d1f22046675841a59631e442f29025db5cab
 
 // This takes to original (U) region game and creates: Weaponlord (W).gen
 
 ## Wild Snake (U) (Prototype)
 
+Name: Wild Snake (U) (Prototype) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: 0C1A49E5
+
+CRC64: 74AB18EBE2E6FA8B
+
+SHA256: 5888ab12cdf63bff4cbc4403253cba78546adb1b6fc839c2f7bd1b648e416e72
+
+SHA1: 68241498209c5e1f09ca335aee1b0f55ce19ff6e
+
+BLAKE2sp: 377227f105f65dde3af26eb8a189afa171f6c0d4b0d53f58aaaca50a747d568c
 
 // This takes to original (U) region game and creates: Wild Snake (W) (Prototype).gen
 
 ## Wimbledon Championship Tennis (U) (Prototype)
 
+Name: Wimbledon Championship Tennis (U) (Prototype) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 9FEBC760
+
+CRC64: A7EFDE67092C4C5C
+
+SHA256: 78a32401823744ea3eaf2062d9fcb8a5740252ee37c3550c9d92d04220b57a3a
+
+SHA1: 402bdc507647d861ee7bb80599f528d3d5aeaf0f
+
+BLAKE2sp: a40a3a6efc118eb69680e83f087bf8f48f1a3563721144b8b277b5772f978fc0
 
 // This takes to original (U) region game and creates: Wimbledon Championship Tennis (W) (Prototype).gen
 
 ## Wimbledon Championship Tennis (U)
 
+Name: Wimbledon Championship Tennis (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: F9142AEE
+
+CRC64: 8CBDE6F1F324861C
+
+SHA256: 817f94373b8be4c5a924ac43c719d2e2442ad09cb760cd7061674647ceb86c12
+
+SHA1: db9083fd257d7cb718a010bdc525980f254e2c66
+
+BLAKE2sp: e521c8ff5c9bab39c286f85438aa4ee365d8055d528324fbe9dc560c48366558
 
 // This takes to original (U) region game and creates: Wimbledon Championship Tennis (W).gen
 
 ## World Championship Soccer II (U)
 
+Name: World Championship Soccer II (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: C1DD1C8E
+
+CRC64: B8719BDCF413E5FF
+
+SHA256: 2a465e87c5e8690d6f43d71120af4d9f36f18d1cbc29eb1fa22fc702d991ed63
+
+SHA1: f6ce0b826e028599942957729d72c7a8955c5e35
+
+BLAKE2sp: 214cf0b62a3aa459eb66e15ddf22494c52a6c4fa4c893b0a381881e1e5917064
 
 // This takes to original (U) region game and creates: World Championship Soccer II (W).gen
 
 ## World Heroes (U)
 
+Name: World Heroes (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 0F4D22EC
+
+CRC64: EDB7A6732ED5CCCE
+
+SHA256: 0f07c0ad81fb957afa8887f8b9b4b92c2bb3d55c1807d2d6b70022cc972145c6
+
+SHA1: 5a563f441c3013ac4b3f9e08d5e5a6e05efc5de0
+
+BLAKE2sp: 8d9cf465952e44b266e1a8a1db1798e2acda7617a20262931899005879df1264
 
 // This takes to original (U) region game and creates: World Heroes (W).gen
 
 ## World of Illusion Starring Mickey Mouse & Donald Duck (U)
 
+Name: World of Illusion Starring Mickey Mouse & Donald Duck (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 921EBD1C
+
+CRC64: 942C9E1DEBFC1828
+
+SHA256: 51e48f9ff8d94ddc9aa6f6d744b3227dc7c4d640ba827e8bfe240d1a31b8b498
+
+SHA1: adb0a2edebb6f978c3217075a2f29003a8b025c6
+
+BLAKE2sp: 950bc9105a6ada304c66aef51071611b932fed58041878cbddda45d273f184df
 
 // This takes to original (U) region game and creates: World of Illusion Starring Mickey Mouse & Donald Duck (W).gen
 
 ## World Series Baseball '95 (U)
 
+Name: World Series Baseball (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 57C1D5EC
+
+CRC64: AC8E9899D0A0F3E4
+
+SHA256: 9261e12b4fb3d0db2e43eeac0300f3b2770aeadc613464ee6a8430608cbe4144
+
+SHA1: e63cbd1f00eac2ccd2ee0290e7bf1bb47c1288e4
+
+BLAKE2sp: e30f82813c6ac3677e01a46192175b23186668371b236804383f7a8380dc63f4
 
 // This takes to original (U) region game and creates: World Series Baseball '95 (W).gen
 
 ## World Series Baseball (U)
 
+Name: World Series Baseball '95 (U) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 25130077
+
+CRC64: 1A623A024BE48A67
+
+SHA256: d402509eb17735a7fa6a08defcf89f7be2b4afd7d35c01a7d439df69d14f9639
+
+SHA1: 878e9fdbbc0b20b27f25d56e4087efbde1e8979a
+
+BLAKE2sp: b9363840ff86c792a5fd80b3f0c798c32ff4bcda745ef403ed6799c1dd210b9a
 
 // This takes to original (U) region game and creates: World Series Baseball (W).gen
 
