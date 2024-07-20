@@ -2810,6 +2810,19 @@ BLAKE2sp: 2c67d6b586493fb6d60ad104fd96a1d0aeae8c4291e2c08b84f3514dee2bbefb
 
 ## Young Indiana Jones - Instrument of Chaos (U)
 
+Name: Young Indiana Jones - Instrument of Chaos (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 4E384EF0
+
+CRC64: 9F4CC659D6232B98
+
+SHA256: f3bf9219dbdcf749943dfc00b9213ffdb19feef1b9a69e98a85deef88fadd03b
+
+SHA1: 7ffd31a8fd0f2111ef3dcce1b8493e6ea6e24deb
+
+BLAKE2sp: 7c95d25953cf88da6bb73a7d09fe89dae6305c23245eb2a9e4ddd7aa6a96f1bf
 
 // This takes to original (U) region game and creates: Young Indiana Jones - Instrument of Chaos (W).gen
 
