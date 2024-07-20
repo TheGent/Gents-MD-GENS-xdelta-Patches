@@ -2828,16 +2828,55 @@ BLAKE2sp: 7c95d25953cf88da6bb73a7d09fe89dae6305c23245eb2a9e4ddd7aa6a96f1bf
 
 ## Zero the Kamikaze Squirrel (U)
 
+Name: Zero the Kamikaze Squirrel (U) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 423968DF
+
+CRC64: 7558305F82236AC0
+
+SHA256: b9d0036f767e07b9587513223c55c0e99f2888be747d79046b30f799249d6225
+
+SHA1: db110fa33c185a7da4c80e92dbe4c7f23ccec0d6
+
+BLAKE2sp: 5baf3d31897eff4ca3cf5cb0cfaca6a4b0919544112ccacdf971995e7716fe11
 
 // This takes to original (U) region game and creates: Zero the Kamikaze Squirrel (W).gen
 
 ## Zombies Ate My Neighbors (U)
 
+Name: Zombies Ate My Neighbors (U) [c][!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 2BF3626F
+
+CRC64: C7BCE9FC1C03A477
+
+SHA256: b575e4e13d04c20e2be5aeeceb189f51a7a913ddb02d7b8f14d89c4ba2850845
+
+SHA1: 57090434ee3ffb060b33a1dcce91d1108bf60c47
+
+BLAKE2sp: ef1f14124c51f148a6342a590a3f10c4045c49493bf8bd8b9c69b310b83c2c5f
 
 // This takes to original (U) region game and creates: Zombies Ate My Neighbors (W).gen
 
 ## Zoop (U)
 
+Name: Zoop (U) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: A899BEFA
+
+CRC64: BB6DD68223FAF3FB
+
+SHA256: 29730cb509e5c648560a4afaaa72be481e3b3fcc97440e175dc32a598ab3d914
+
+SHA1: e6669f16902caf35337de60027ed2013deed0d40
+
+BLAKE2sp: 117b2f913bc196b809aab8ccc775068839dfe0f135c1f9c33b034129a1575ea8
 
 // This takes to original (U) region game and creates: Zoop (W).gen
 
