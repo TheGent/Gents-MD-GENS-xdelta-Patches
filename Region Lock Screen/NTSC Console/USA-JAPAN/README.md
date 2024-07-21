@@ -6,24 +6,6 @@ Make sure your Games are the correct name and file type before patching!
 
 The following patches are (J) compatible, In other words: Created to work on a Mega Drive "Japanese Console" But still with original language.
 
-## Gods(J)
-
-Name: Gods (U) [!].gen
-
-Size: 1048576 bytes (1024 KiB)
-
-CRC32: FD234CCD
-
-CRC64: C8FC5AB97B43FE5C
-
-SHA256: f7e577a66ed4d9901cb44ed0620e61439527cfbd854bc4626173b17e30fa6be0
-
-SHA1: bfc84beba074c7dc58b0b4fcac73fffcf0c6b585
-
-BLAKE2sp: cca7c8fbe3febd2634e6673ae0005541ca6adbe48a7ff4edd306ae5975c5487b
-
-// This takes to original (J) region game and creates: Gods (J) [ENG].gen
-
 ## Soldiers of Fortune (U)
 
 Name: Soldiers of Fortune (U) [c][!].gen

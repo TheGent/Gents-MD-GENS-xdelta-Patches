@@ -936,6 +936,24 @@ BLAKE2sp: 4043b0a329652be78f385e5086a91e8cc15e4244d66257225dd6a82fc58c410b
 
 // This takes to original (U) region game and creates: Genesis 6-Pak (W).gen
 
+## Gods(U)
+
+Name: Gods (U).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: FD234CCD
+
+CRC64: C8FC5AB97B43FE5C
+
+SHA256: f7e577a66ed4d9901cb44ed0620e61439527cfbd854bc4626173b17e30fa6be0
+
+SHA1: bfc84beba074c7dc58b0b4fcac73fffcf0c6b585
+
+BLAKE2sp: cca7c8fbe3febd2634e6673ae0005541ca6adbe48a7ff4edd306ae5975c5487b
+
+// This takes to original (U) region game and creates: Gods (W) [USA].gen
+
 ## Goofy's Hysterical History Tour (U)
 
 Name: Goofy's Hysterical History Tour (U) [!].gen

@@ -6,24 +6,6 @@ Make sure your Games are the correct name and file type before patching!
 
 The following patches are (U) compatible, In other words: Created to work on a Seaga Genesis "North American Console".
 
-## Gods(U)
-
-Name: Gods (U).gen
-
-Size: 1048576 bytes (1024 KiB)
-
-CRC32: FD234CCD
-
-CRC64: C8FC5AB97B43FE5C
-
-SHA256: f7e577a66ed4d9901cb44ed0620e61439527cfbd854bc4626173b17e30fa6be0
-
-SHA1: bfc84beba074c7dc58b0b4fcac73fffcf0c6b585
-
-BLAKE2sp: cca7c8fbe3febd2634e6673ae0005541ca6adbe48a7ff4edd306ae5975c5487b
-
-// This takes to original (U) region game and creates: Gods (E) [USA].gen
-
 ## OutRunners (U)
 
 Name: OutRunners (U) [!].gen
