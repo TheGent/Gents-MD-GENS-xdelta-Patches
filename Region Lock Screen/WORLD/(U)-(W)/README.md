@@ -1727,6 +1727,24 @@ BLAKE2sp: 05b8201530b614f343aee050bcf249672137a080564fcab1595974a7b733e4b7
 
 // This takes to original (U) region game and creates: Pocahontas (W).gen
 
+## Populous 2 - Wrath of the Gods (U)
+
+Name: Populous 2 - Wrath of the Gods (U).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 12FB60FA
+
+CRC64: 3567DEBCC7572D96
+
+SHA256: 094d373e438b00b84bd3031918b6a551bf5806b5a0efcab84963094b0cd1788f
+
+SHA1: 799179e27ec654603c1881c02b60ff9d1a8b1841
+
+BLAKE2sp: fa50edfd8fbd2b849f01d58c416a57e06e50615e7f85a8ea7a9d5fb60d32ed4b
+
+// This takes to original (U) region game and creates: Populous 2 - Wrath of the Gods (W).gen
+
 ## Prince of Persia (U)
 
 Name: Prince of Persia (U) [!].gen
