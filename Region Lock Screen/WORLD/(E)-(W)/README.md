@@ -548,11 +548,37 @@ BLAKE2sp: 7d4583dc4a03bb32a9b66b3340d44825ddac6af65cc71b91a4728e8cf40942aa
 
 ## Jungle Book, The (E)
 
+Name: Jungle Book, The (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: B9709A99
+
+CRC64: C7E254DD1AFDACBD
+
+SHA256: 65f28fd832b8ca2efa86d9c686a883389806ab9d21d22673fae92f994d5cb97e
+
+SHA1: b96dcaf595a713eeec54257e8cee6306d7748baf
+
+BLAKE2sp: 264edaf3bede8267d19dc590c774c9db6dc9827269aab0d87394c16bafc587a5
 
 // This takes to original (E) region game and creates: Jungle Book, The (W) [Europe].gen
 
 ## Jurassic Park (E)
 
+Name: Jurassic Park (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 448341F6
+
+CRC64: E901B051EB2ECA57
+
+SHA256: 87993d177b1f2d70e1df38b7009173b33ce834ffdf4f0062e80a8d65013f50ee
+
+SHA1: 2dca183ddb79805b6300d8fcca1163fce88dd9db
+
+BLAKE2sp: 3588ecd8d49781bb716197dd083934cca0485f4add28e11dce6e8381d08153e9
 
 // This takes to original (E) region game and creates: Jurassic Park (W) [Europe].gen
 
