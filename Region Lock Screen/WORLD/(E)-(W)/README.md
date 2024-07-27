@@ -296,26 +296,91 @@ BLAKE2sp: 96a5cf1f62bcea0f61552220ba785d9959e2fb3ecb6bb5e95a8b8f63e5357c39
 
 ## Castlevania - The New Generation (E)
 
+Name: Castlevania - The New Generation (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 4DD4E4A5
+
+CRC64: 190DF81832A24041
+
+SHA256: b434be854a3709c502bc0744a786f08ba7f022241b443cc3e502b3f15af55e3b
+
+SHA1: 61aabb1053f090fb6c13968c86170357c5df4eba
+
+BLAKE2sp: cb2b0333a9a4915b43a19f63cab9aa392a882859da6d0718c5a9e24e1702acfd
 
 // This takes to original (E) region game and creates: (W) [Europe].gen
 
 ## Chaos Engine, The (E)
 
+Name: Chaos Engine, The (E) [!].gen
+
+Size: 1572864 bytes (1536 KiB)
+
+CRC32: BD9EECF4
+
+CRC64: 0E296DD5663B8331
+
+SHA256: 7885647d76a7bc03b9993328720ffa49d43d7c2e265b8a6f714375491c7f0dcc
+
+SHA1: b72d36565e13ab04dc20c547e0dcee1f67bcdb42
+
+BLAKE2sp: 260edfd7042cd6a9411bd0e449a7ab925b8d20d6302b59ac9107179b4cecbc5b
 
 // This takes to original (E) region game and creates: Castlevania - The New Generation (W) [Europe].gen
 
 ## Cheese Cat-Astrophe Starring Speedy Gonzales (E) (M4)
 
+Name: Cheese Cat-Astrophe Starring Speedy Gonzales (E) (M4) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: FF634B28
+
+CRC64: 66FDD83731648326
+
+SHA256: 175439ebc546af15432ba4bb3af3e35d33f3c952d64cfb78fad24ee7a49731c7
+
+SHA1: 12bb0d838c675b34cecc9041d3560fe35145ec39
+
+BLAKE2sp: 881754a96c299db7c3aeef2fed6a8a46048c3febde269b9759a3edecfa11d26d
 
 // This takes to original (E) region game and creates: Cheese Cat-Astrophe Starring Speedy Gonzales (M4) (W) [Europe].gen
 
 ## Comix Zone (E) (M4)
 
+Name: Comix Zone (E) (M4) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 1318E923
+
+CRC64: 72120C0A68D69F31
+
+SHA256: 6dc7fabf1f99c4bce47f50c34938e8252e245690c024e8a5a90d0a6b71d8dcd0
+
+SHA1: 9523cf8e485a3246027f5a02ecbcee3c5ba690f0
+
+BLAKE2sp: 4e27872d4855936b5cf12d31083fef81edbaea8e868c6618388ff2382b7c2e51
 
 // This takes to original (E) region game and creates: Comix Zone (M4)(W) [Europe].gen
 
 ## Cool Spot (E)
 
+Name: Cool Spot (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 5F09FA41
+
+CRC64: 1124CB03BC8FBB5B
+
+SHA256: 4e9d937bf654a32fe8507c57d63ff1bd2e6c0313c9c32a050659f2e621ac926e
+
+SHA1: b6dc5d4c29b2161f7252828cf267117e726d8e82
+
+BLAKE2sp: d2511ad7738bfcb7b8dfbacfe2ffa4fcdf2eca668eec46941bb405ebed64f9a6
 
 // This takes to original (E) region game and creates: Cool Spot (W) [Europe].gen
 
