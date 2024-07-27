@@ -188,6 +188,19 @@ BLAKE2sp: 5ced9df9f0967de937312ff0825f47554c6a05a673958a5519de811d8bebda1a
 
 ## Back to the Future Part III (E)
 
+Name: Back to the Future Part III (E) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: 2737F92E
+
+CRC64: 08F892F4B529405B
+
+SHA256: 0b8ba22efa9a0e5a0e92a000c748ab9abbf3385decd426c3c027706a96ac97b7
+
+SHA1: c808ee7f6f61c096ab73b68dd181e25fdcfde243
+
+BLAKE2sp: 8939b0b93af489b56fdf160ff102bb4bf3950af0fab4a4989010d03d3fbec740
 
 // This takes to original (E) region game and creates: Back to the Future Part III (W) [Europe].gen
 
@@ -209,18 +222,75 @@ BLAKE2sp: cba746fd891f85a60e63b95ed0ef7fae465d2aeb76a1e510b087143d2c9499fc
 
 // This takes to original (E) region game and creates: Body Count (Beta) (M5) (W).gen
 
+## Body Count (M5) (W) [Europe].gen
+
+Name: Body Count (E) (M5) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 3575A030
+
+CRC64: 8B8BC0E26AE44F30
+
+SHA256: 7911ee1a7cd9c36d3d2d69e5eb9394aff0927c50d12b9dd1bc6a40ce823f2fa4
+
+SHA1: 3098f3c7ea9e25bf86219d7ed0795bf363338714
+
+BLAKE2sp: b56afd1fd555698f79a40a9af0acd088e28721fce64a7f2f389c991f506eb2f5
+
+// This takes to original (E) region game and creates: body Count (M5) (W) [Europe].gen
+
 ## Boogerman (E)
 
+Name: Boogerman (E) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: DBC4340C
+
+CRC64: 4001334C5CD34996
+
+SHA256: 17ab05924cca35495bbb67d9f748f44cc47bf4bddfd0640ebad72f9188f56c38
+
+SHA1: 4fd33eeaf1e804d005793a6e1185122fd7e9a751
+
+BLAKE2sp: d3048e095f675ec761ea0c4caa9e5f21659507946d8e118837013f864e3a2135
 
 // This takes to original (E) region game and creates: Boogerman (W) [Europe].gen
 
 ## Brutal - Paws of Fury (E)
 
+Name: Brutal - Paws of Fury (E).gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 7E9A8D32
+
+CRC64: BFFED857064A20EF
+
+SHA256: a8a28c77560c2fdf5456804114ddaed63f664ef189b8dd2d2b77ca1163811d71
+
+SHA1: 8667fa820e90911f12b682fcd1ac870b84b6b60b
+
+BLAKE2sp: d4eda4346facc1f933e0f49e014ba563bcc1ea6da4f90fc1573f0ab0c2f4ff52
 
 // This takes to original (E) region game and creates: Brutal - Paws of Fury (W) [Europe].gen
 
 ## Bubba N Stix (E)
 
+Name: Bubba N Stix (E) [c][!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: B467432E
+
+CRC64: 8137FF06E737722F
+
+SHA256: 87c81c01750b84616a868ff54d18e689e7715ae875d49780a6bbb19fa9d15f05
+
+SHA1: 4039dfb41c08d17047d2acf90d0ab8bb7932cabd
+
+BLAKE2sp: 96a5cf1f62bcea0f61552220ba785d9959e2fb3ecb6bb5e95a8b8f63e5357c39
 
 // This takes to original (E) region game and creates: Bubba N Stix (W) [Europe].gen
 
