@@ -512,6 +512,19 @@ BLAKE2sp: 0ce04080a6c207965c965528500c9675c9e5ac7b9f71d1888f02ac09cbdad8e3
 
 ## Gunstar Heroes (E)
 
+Name: Gunstar Heroes (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 866ED9D0
+
+CRC64: 85603A9132AF29EA
+
+SHA256: 467ec3865b183df6895ea28fc71676eece34b20bfdf9150ebf73b8ec3b070e25
+
+SHA1: a7b265f49ec74f7febb8463c64535ceda15c8398
+
+BLAKE2sp: a1b137765f7f7991cc8afe866e4985a308229d84ee721debae00ea17e41786bd
 
 // This takes to original (E) region game and creates: Gunstar Heroes (W) [Europe].gen
 
