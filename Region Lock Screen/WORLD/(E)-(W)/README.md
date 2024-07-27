@@ -584,6 +584,19 @@ BLAKE2sp: 3588ecd8d49781bb716197dd083934cca0485f4add28e11dce6e8381d08153e9
 
 ## Kick Off 3 - European Challenge (E)
 
+Name: Kick Off 3 - European Challenge (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: BC37401A
+
+CRC64: 4D3028D0298292C5
+
+SHA256: 79a6f656c774357828c19827d429d7135b5881360df8fd2b0fda4f735d90a6b5
+
+SHA1: e449cfd4f9d59cf28b4842d465022a399964d0d6
+
+BLAKE2sp: 6dda70c44671c64b4082fa0d701afc9721e711a96584dc3193e53d0641588432
 
 // This takes to original (E) region game and creates: Kick Off 3 - European Challenge (W) [Europe].gen
 
