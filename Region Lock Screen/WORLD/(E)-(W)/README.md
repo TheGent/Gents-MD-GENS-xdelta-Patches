@@ -530,6 +530,19 @@ BLAKE2sp: a1b137765f7f7991cc8afe866e4985a308229d84ee721debae00ea17e41786bd
 
 ## Hyper Dunk - The Playoff Edition (E)
 
+Name: Hyper Dunk - The Playoff Edition (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: F27C576A
+
+CRC64: 70C3A67B5D2A679B
+
+SHA256: aed1c34f69973bf0548924eb28512c9c4729784847a50887b296967bb6b38d82
+
+SHA1: 91560ddf53f50bb5b9f4b48be906ce27e9c05742
+
+BLAKE2sp: 7d4583dc4a03bb32a9b66b3340d44825ddac6af65cc71b91a4728e8cf40942aa
 
 // This takes to original (E) region game and creates: Hyper Dunk - The Playoff Edition (W) [Europe].gen
 
