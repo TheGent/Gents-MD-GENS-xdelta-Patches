@@ -602,31 +602,109 @@ BLAKE2sp: 6dda70c44671c64b4082fa0d701afc9721e711a96584dc3193e53d0641588432
 
 ## Landstalker - The Treasures of King Nole (E)
 
+Name: Landstalker - The Treasures of King Nole (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: E3C65277
+
+CRC64: 3B071ABC6D1F08D9
+
+SHA256: 1db4914301afc14beb1f66090cda12be943355d5083d61056492aeb18e8d581f
+
+SHA1: 9fbadc86319936855831ecd096d82d716b304215
+
+BLAKE2sp: 11b962b2900440e539b047749e1826cbfe66650f9e21c98d5c7524e0cd715a72
 
 // This takes to original (E) region game and creates: Landstalker - The Treasures of King Nole (W) [Europe].gen
 
 ## Lemmings 2 - The Tribes (E)
 
+Name: Lemmings 2 - The Tribes (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 741EB624
+
+CRC64: 05947620A60F6C27
+
+SHA256: afdcc69e3630c4a395bc1c2cf026fd2af53d59006c789d2b23105fc34dbd5165
+
+SHA1: b56f9e78dee0186c8f8103c7d125e8b497eb0196
+
+BLAKE2sp: c0f49b2ab2b19b2524e7b453f030e32a7712816c245a9041096b6a52a64ddd87
 
 // This takes to original (E) region game and creates: Lemmings 2 - The Tribes (W) [Europe].gen
 
 ## Lethal Enforcers (E)
 
+Name: Lethal Enforcers (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: CA2BF99D
+
+CRC64: 6D6C7A0FD7B2DBAD
+
+SHA256: afb7db0900395cdfdc95f8efb577a9aa815a83f95e36b03f5c702640e36360aa
+
+SHA1: b9cc7ff3c6a50b2624358785bcadd1451e23993e
+
+BLAKE2sp: 16c655c8f7f327011d556d643584cb3f1c062207951882fc1766b960ce7f8f6e
 
 // This takes to original (E) region game and creates: Lethal Enforcers (W) [Europe].gen
 
 ## Lethal Enforcers II - Gun Fighters (E)
 
+Name: Lethal Enforcers II - Gun Fighters (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 4BFE045C
+
+CRC64: B32742C740160634
+
+SHA256: 1e2786f1757efd8ff0674a90cf33bfc5a16395de698105db2ef04e425d756e7d
+
+SHA1: 0c99f93ef90d6242b198c99a1e940be432ec861f
+
+BLAKE2sp: af57d378cddec4171f3bc68ea0e2bb8121b407e731848797de1118d4bd7ea72d
 
 // This takes to original (E) region game and creates: Lethal Enforcers II - Gun Fighters (W) [Europe].gen
 
 ## Light Crusader (E) (M4)
 
+Name: Light Crusader (E) (M4) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 52C7252B
+
+CRC64: 639F52D952DEF5FE
+
+SHA256: a2da1515880bbd2be5e836f0c66e938c1e156add0146ee40ec6228e7e79a3f7c
+
+SHA1: 4352ae7ba1316e4384c4632be80f2fe277443f51
+
+BLAKE2sp: b5695a0c6845793055e899efae390a3c24a3149d14126d9f784f19e4e5868cce
 
 // This takes to original (E) region game and creates: Light Crusader (M4)(W) [Europe].gen
 
 ## Lost Vikings, The (E)
 
+Name: Lost Vikings, The (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 1F14EFC6
+
+CRC64: 281A87B542069BD8
+
+SHA256: 3257917cf1a854ec57888c4a499501811585abd7a929c37acdcd0a4869428562
+
+SHA1: c977a21d287187c3931202b3501063d71fcaf714
+
+BLAKE2sp: 99bc71fa1d0feb800fbd2ad298dcd638c59fbec2c82a5e02e50643b9f20031bf
 
 // This takes to original (E) region game and creates: Lost Vikings, The (W) [Europe].gen
 
