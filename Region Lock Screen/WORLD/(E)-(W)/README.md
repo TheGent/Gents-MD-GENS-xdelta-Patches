@@ -386,31 +386,109 @@ BLAKE2sp: d2511ad7738bfcb7b8dfbacfe2ffa4fcdf2eca668eec46941bb405ebed64f9a6
 
 ## Daze Before Christmas, The (E)
 
+Name: Daze Before Christmas, The (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: B95E25C9
+
+CRC64: 366AC4A9F1EDAC50
+
+SHA256: 64dea0166f4cc0511da2db040df6b02c16c905cded3872d5674691d2bf7b862c
+
+SHA1: 240c0d9487d7659a4b2999e0394d552ab17bee8a
+
+BLAKE2sp: f1a34b381b6325dbac0348cdc73acbcc6e3f0243006f75d1792f6a73eb1ffdbc
 
 // This takes to original (E) region game and creates: Daze Before Christmas, The (W) [Europe].gen
 
 ## Disney's Aladdin (E)
 
+Name: Disney's Aladdin (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: D1845E8F
+
+CRC64: 5FCB233FB9B73D3A
+
+SHA256: 3fbaee79d52b426f554e817e70397fa51279aca0705fe6df304e7f61bfe8ec5f
+
+SHA1: 42debba01ba3555f61d1e9b445542a05d01451dd
+
+BLAKE2sp: 107bd5f94ebdc7fb5b6892a61d7533023e609dd480f0d79ac3e2613ab0392af1
 
 // This takes to original (E) region game and creates: Disney's Aladdin (W) [Europe].gen
 
 ## Donald in Maui Mallard (E)
 
+Name: Donald in Maui Mallard (E) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: B2DD857F
+
+CRC64: 436E6F363521738B
+
+SHA256: 815d941a2da3842058972f517f78cbaa238aef6efbd90e6cabc4ba01f4364dda
+
+SHA1: cd3c50b7f9c2f97d7bb0042e4239a05066ae72e0
+
+BLAKE2sp: 2f1937c947b95c0850f7f618065885b47db641486073f2ca9a504065e878a335
 
 // This takes to original (E) region game and creates: Donald in Maui Mallard (W) [Europe].gen
 
 ## Dr. Robotnik's Mean Bean Machine (E)
 
+Name: Dr. Robotnik's Mean Bean Machine (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 70680706
+
+CRC64: FEDF527712FC094D
+
+SHA256: 23914cbdc4c33526281ef28c24c46fd6b3f3cdc68656842fe14d527ac46934af
+
+SHA1: 8cdaca024585aab557e9a09732a298e5112ee15b
+
+BLAKE2sp: ba314eb5d8e3117ec9eba20c7faf4212bdcc2ed4c266305213b3466a579ca5d0
 
 // This takes to original (E) region game and creates: Dr. Robotnik's Mean Bean Machine (W) [Europe].gen
 
 ## Dragon - The Bruce Lee Story (E)
 
+Name: Dragon - The Bruce Lee Story (E).gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: FDEED51D
+
+CRC64: F9FF0E6B82F64E87
+
+SHA256: 39d53da6984fed311400b319af5724b93059300ef76c5a1ec872d1a8083801e3
+
+SHA1: d6fb86d73e1abc7b7f1aecf77a52fa3f759aedb1
+
+BLAKE2sp: fc70d1cbe64ac6dbc5499c130f3a45ab15ae4595654eb4ace991299ca0afb4b0
 
 // This takes to original (E) region game and creates: Dragon - The Bruce Lee Story (W) [Europe].gen
 
 ## Dune - The Battle for Arrakis (E)
 
+Name: Dune - The Battle for Arrakis (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: B58AE71D
+
+CRC64: EB07D23A2C27BB01
+
+SHA256: 31979d1d9a5d6fe5c9ae95f3cfc1dd6f9f51e9e075268bb8a9f9ca57da847547
+
+SHA1: 133cc86b43afe133fc9c9142b448340c17fa668e
+
+BLAKE2sp: 3464954e712c2ec3d05853c97b1d8dc5e21857d1a2f72717482d29b4fc0e05bf
 
 // This takes to original (E) region game and creates: Dune - The Battle for Arrakis (W) [Europe].gen
 
