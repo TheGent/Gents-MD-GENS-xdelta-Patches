@@ -9,8 +9,8 @@ The following patches are World (W) "Universal" (Region-Free) and compatible wit
 Please check the ReadMe in that section for further information.
 
 - World
-   - (J)-(W)
    - (E)-(W)
+   - (J)-(W)
    - (JU)-(W)
    - (U)-(W)
    - (UE)-(W)
