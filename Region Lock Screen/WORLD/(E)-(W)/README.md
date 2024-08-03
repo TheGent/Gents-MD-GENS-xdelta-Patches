@@ -980,16 +980,55 @@ BLAKE2sp: f4e36a286596cc87b3382bd4aad2e583b012599fc2fe402186c6080ef1aa66bc
 
 ## Ooze, The (E)
 
+Name: Ooze, The (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: E16B102C
+
+CRC64: 4F0FA62A23096657
+
+SHA256: 22922e97745235115dd0198891bcc1847bcc48223840cba91625403171b20b5e
+
+SHA1: 0e45b84e875aa4e27bf003cbc0f857f2e5659625
+
+BLAKE2sp: af9f6aa66ce3ccb040d8ac75e74c5e92d9394216dc35a63b6abdc351e49e2005
 
 // This takes to original (E) region game and creates: Ooze, The (W) [Europe].gen
 
 ## Ottifants, The (E) (M5)
 
+Name: Ottifants, The (E) (M5) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 41AC8003
+
+CRC64: 63E768067A207242
+
+SHA256: 64efb1d013f5fcd8616dcc0b9d1cca245053b9b85988a8ae9112804211706cbe
+
+SHA1: 4bb7cfc41ea7eaaed79ec402ec0d551c1e5c5bb6
+
+BLAKE2sp: c5a15f1a37cc2541629678d64fb57f3186d50ebc2c5008abf86d3785b777148e
 
 // This takes to original (E) region game and creates: Ottifants, The (M5)(W) [Europe].gen
 
 ## OutRun 2019 (E)
 
+Name: OutRun 2019 (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 5CB3536A
+
+CRC64: 697BAE8DB366DED9
+
+SHA256: 10c526f40d04ea25d755e9c49a8ca611d78dd16a2ffda376c2b42927ea565e55
+
+SHA1: f1a26bd827e9a674cf1dde74dc2c36f61c827c76
+
+BLAKE2sp: ee58d602693e632a8d0bebebe36e8cce78ea7bf98e598e819f560f0d82754488
 
 // This takes to original (E) region game and creates: OutRun 2019 (W) [Europe].gen
 
