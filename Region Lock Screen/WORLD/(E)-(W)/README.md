@@ -710,56 +710,199 @@ BLAKE2sp: 99bc71fa1d0feb800fbd2ad298dcd638c59fbec2c82a5e02e50643b9f20031bf
 
 ## Marsupilami (E) (M5)
 
+Name: Marsupilami (E) (M5) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: E09BBD70
+
+CRC64: 6C8573E910333220
+
+SHA256: 6bfd8f32dcd425fbb97e90a8ab1037a1f2cba7c8be2690d9822028b2012fd9b4
+
+SHA1: d2b8358ef261f8b5ad54a58e89f3999312d0cec9
+
+BLAKE2sp: 6b476235d340c261e4d8b73f632479a660af02f190ee564f398ceff455c104e9
 
 // This takes to original (E) region game and creates: Marsupilami (M5)(W) [Europe].gen
 
 ## Mazin Wars (E)
 
+Name: Mazin Wars (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 4B07A105
+
+CRC64: D8391A958709FBC4
+
+SHA256: 95ebab07907e27094d0f5a4e60b337c28a52cb5dd867abef55b800f7e95ef560
+
+SHA1: 40e48ce531ed013d5a4a6f689e70781df3e0095c
+
+BLAKE2sp: 2f180cc6f9896e4a4e5909f7a1271003c805c00d7923223c8a3138df5f8f88ec
 
 // This takes to original (E) region game and creates: Mazin Wars (W) [Europe].gen
 
 ## McDonald's Treasure Land Adventure (E)
 
+Name: McDonald's Treasure Land Adventure (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 6AB6A8DA
+
+CRC64: 9FBA232CDA798BEC
+
+SHA256: 7bcac61d94339df73cd62568bcadf83ca196f677c3511ac621d59f3e8ce1ab70
+
+SHA1: f6178018102df3c92d05a48ff5949db9416acd5c
+
+BLAKE2sp: 2927684e7d5c5fb6e07ce88194a18afa812e051c59ba34257c30f16d6b75f868
 
 // This takes to original (E) region game and creates: McDonald's Treasure Land Adventure (W) [Europe].gen
 
 ## Mega Lo Mania (E) (REV00)
 
+Name: Mega Lo Mania (E) (REV00) [c][!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 2148D56D
+
+CRC64: AF99408765935FEF
+
+SHA256: 6248a695a4ebf00115ef8f979016263ce6123ee66bf09316a1541f875a023c07
+
+SHA1: e861551edabe55181ed1b7260169e953af903b5e
+
+BLAKE2sp: 6f932ed7d6670099398556665a50ccf3d4af0975fa83cb86264d54812ba71db2
 
 // This takes to original (E) region game and creates: Mega Lo Mania (REV00)(W) [Europe].gen
 
 ## Mega SWIV (E)
 
+Name: Mega SWIV (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 78C2F046
+
+CRC64: 1271472EF21E8900
+
+SHA256: f9d38a4de596aa86f4d6288f05635c873a4e306ee9ba05f439e174aa8363b20e
+
+SHA1: 6396fb0f204c9f23d0af0b39d069ff0883e191aa
+
+BLAKE2sp: fbedcb7579dda8828c81dd6e3f04c032f24d3a0e7a9723674da5e98a87dddb18
 
 // This takes to original (E) region game and creates: Mega SWIV (W) [Europe].gen
 
 ## Mega Turrican (E)
 
+Name: Mega Turrican (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: B1D15D0F
+
+CRC64: 286C0F0A349627E0
+
+SHA256: 1670385ef9b737cc4c8e034e5d654f3db02fde9ffa8f7d6cb4b94bcede8c2146
+
+SHA1: 00ad2cf231bedbd373253b169e170e8b0db4c86a
+
+BLAKE2sp: fffa9bb657ceaccbec6c4ef6d76e2dcbc2cafa113c95c9f799a323fe5b67e7c2
 
 // This takes to original (E) region game and creates: Mega Turrican (W) [Europe].gen
 
 ## Mick & Mack as the Global Gladiators (E)
 
+Name: Mick & Mack as the Global Gladiators (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 5C218C6A
+
+CRC64: 5EF9FF2D82F69EDB
+
+SHA256: ecd8511021c82206411f0ddfc77dfcc281abe202bd3093014b7851d39afb6bd8
+
+SHA1: daf1ded2439c626c0fd227550be6563cd1b09612
+
+BLAKE2sp: 54b7c90bd4f4452e561c19a766d4d3631ed27860d246f6962dd6114c0120282f
 
 // This takes to original (E) region game and creates: Mick & Mack as the Global Gladiators (W) [Europe].gen
 
-## Mighty Morphin Power Rangers (E)
-
-
-// This takes to original (E) region game and creates: Mighty Morphin Power Rangers (W) [Europe].gen
-
 ## Mighty Morphin Power Rangers - The Movie (E)
 
+Name: Mighty Morphin Power Rangers - The Movie (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 254A4972
+
+CRC64: 9BD8189A06B29FFF
+
+SHA256: aedc494ffa0e4f4b7b22a35599e3820171bc7670d958d89ed7f9dedca80407fd
+
+SHA1: b3d105d9f7a8d2fd92015e1ac98d13a4094de5ef
+
+BLAKE2sp: 37d1273504dc1213ff4591e4b6a82042e4fb7ffa825f712ebc7aadd03f4a583c
 
 // This takes to original (E) region game and creates: Mighty Morphin Power Rangers - The Movie (W) [Europe].gen
 
+## Mighty Morphin Power Rangers (E)
+
+Name: Mighty Morphin Power Rangers (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 7F96E663
+
+CRC64: 55FB0164256B3146
+
+SHA256: 1701e6cf9a76694b3ca41df1e06434250476c45dde6c94cb593ae460a40f1c1c
+
+SHA1: 7bad0db9a96eafa413562b6631487ca847b02466
+
+BLAKE2sp: bcc19ae956d209ea62fd5eac4567843bc0e60483839c46b4f4912dbb713b1f92
+
+// This takes to original (E) region game and creates: Mighty Morphin Power Rangers (W) [Europe].gen
+
 ## Mortal Kombat 3 (E)
 
+Name: Mortal Kombat 3 (E) [!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: AF6DE3E8
+
+CRC64: F6218878BA49A3BD
+
+SHA256: c5ff1167b04d9b0908aafcbe1f233a6611bb92846aa5fde9e532347be2547a3d
+
+SHA1: 7f555d647972fee4e86b66e840848e91082f9c2d
+
+BLAKE2sp: 029a5616aabfc21273c1692fc90a6c38389f24df7951da60681fe1111eb961a1
 
 // This takes to original (E) region game and creates: Mortal Kombat 3 (W) [Europe].gen
 
 ## Muhammad Ali Heavyweight Boxing (E)
 
+Name: Muhammad Ali Heavyweight Boxing (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 8EA4717B
+
+CRC64: 7EB0892536FCA206
+
+SHA256: 3885c2438bcfce0c8df2cb1fd836292cff1449bee5a456904245a1e54df903db
+
+SHA1: d79218ef96d2f1d9763dec2a9e6ad7c2907d024b
+
+BLAKE2sp: 06e3f496abf98338b85d9babe6fee6bc2c39fdd21aecdedc3fa54407b8776bd5
 
 // This takes to original (E) region game and creates: Muhammad Ali Heavyweight Boxing (W) [Europe].gen
 
