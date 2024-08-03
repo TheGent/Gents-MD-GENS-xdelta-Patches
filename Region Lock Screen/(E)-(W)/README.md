@@ -1970,16 +1970,55 @@ BLAKE2sp: cd72e7f67662458caccad296e3cbb78a4e5d0d6cac44c606097db72666e7222f
 
 ## Wimbledon Championship Tennis (E)
 
+Name: Wimbledon Championship Tennis (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: B791A435
+
+CRC64: D58DB12E124D5E56
+
+SHA256: 3c93c5a61d76e6a627530d9327fc861d9efaec48adec6f7da71826be7c44db91
+
+SHA1: 6b7d8aa9d4b9d10c26dc079ab78e11766982cef2
+
+BLAKE2sp: b792d1cad48372be851e4af8f7c9286a11ec5f2de3d956cc49f8c0c06828db46
 
 // This takes to original (E) region game and creates: Wimbledon Championship Tennis (W) [Europe].gen
 
 ## Worms (E) (Prototype)
 
+Name: Worms (E) (Prototype) [c][!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 1D191694
+
+CRC64: 1BDA920305B3A374
+
+SHA256: cf1559556dd56a51a1d121d83d3ddfb6f7b12cbae182ec359f78c8c280a8801c
+
+SHA1: 23127e9b3a98eea13fb97bed2d8e206adb495d97
+
+BLAKE2sp: 2544da35ce6fa69d0df9d4ec787d59ed31a0bed7e708bbdd00d1b157b024236d
 
 // This takes to original (E) region game and creates: Worms (Prototype) (W) [Europe].gen
 
 ## Worms (E)
 
+Name: Worms (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: B9A8B299
+
+CRC64: 5DCE1498F1BE7196
+
+SHA256: 996f9bbdbb576c131023c64e5b242f5d85c81731e5c9c254151be4da2799b050
+
+SHA1: 1a15447a4a791c02b6ad0a609f788d39fe6c3aa6
+
+BLAKE2sp: f925e809f98cf14196563bc1173024b3d3a7acb7adfa8fb8eaa935ae6f64f481
 
 // This takes to original (E) region game and creates: Worms (W) [Europe].gen
 
