@@ -1304,126 +1304,451 @@ BLAKE2sp: 2ab65b773324c5d1853d3bc34d12daee2a9427a4be83c5090b49535da183c5e4
 
 ## Samurai Shodown (E)
 
+Name: Samurai Shodown (E) [c][!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: C972014F
+
+CRC64: C73C9AD7BBF2FC66
+
+SHA256: b9db982f4fccf9b93f51edc777256eac4b5ab2ed98e585a9e8886562e106cd42
+
+SHA1: 86384123c49c05b6f90cffd7327c11882f01e9c0
+
+BLAKE2sp: 5602c99dab7f70db925ecfe7942912f6532c75a9463f27946b8688d5443ee599
 
 // This takes to original (E) region game and creates: Samurai Shodown (W) [Europe].gen
 
 ## Saturday Night Slam Masters (E)
 
+Name: Saturday Night Slam Masters (E).gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: 08FA5A3F
+
+CRC64: 5A01A5365137DB57
+
+SHA256: 6c1d2906fcbfb7b67499c7b2007f50dbe4380c2c1c2662755a1ddbbeb2595173
+
+SHA1: f67f324165abdf148f80aabb319375dc3a504e17
+
+BLAKE2sp: e38afb5cfa64baf094219897510976a6e08d7010e06a86414b82919a60fa5ce1
 
 // This takes to original (E) region game and creates: Saturday Night Slam Masters (W) [Europe].gen
 
 ## Sega Sports 1 (Wimbledon, Ult.Soccer, Super Monaco) (E)
+Name: Sega Sports 1 (Wimbledon, Ult.Soccer, Super Monaco) (E) [!].gen
+
+Size: 2621440 bytes (2560 KiB)
+
+CRC32: 07FEDAF1
+
+CRC64: 2F0BA098113CBD78
+
+SHA256: 61698bb2959a68a590c52408f0edfc4bfe8b6bc817808a64d3914a827e1317c6
+
+SHA1: ff03bb2aced48c82de0ddfb048b114ec84daf16a
+
+BLAKE2sp: c459d29225c595a0c52430863e6594df7c455507b35c3c4277fbca7abe6c652d
 
 
 // This takes to original (E) region game and creates: Sega Sports 1 (Wimbledon, Ult.Soccer, Super Monaco) (W) [Europe].gen
 
 ## Shining Force II (E)
 
+Name: Shining Force II (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 83CB46D1
+
+CRC64: 3967E61FAEC07508
+
+SHA256: 3802900c87d0c62cfd0f75f9922f16713f30c7616843af6c946995451040234c
+
+SHA1: a2ba86f4d756f98886f8f9a56f20cbf8c3b2945e
+
+BLAKE2sp: 1a9cfbae120c14b4f03fdb48a27a2e1ecddbf34638577c080f5dc1b46281c5c4
 
 // This takes to original (E) region game and creates: Shining Force II (W) [Europe].gen
 
 ## Shinobi III - Return of the Ninja Master (E)
 
+Name: Shinobi III - Return of the Ninja Master (E) [c][!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 0B6D3EB5
+
+CRC64: 76011DA28C505163
+
+SHA256: 77355d3be6055c3ea0d8c58d6c682e6edb8514545dfa312e1e555dc79cecc054
+
+SHA1: 23579c8f7e2396080b478b113aff36d2382395a3
+
+BLAKE2sp: aab70f83be224c39a96f885d446bb48df4f40880cfb4633c65995d499978317a
 
 // This takes to original (E) region game and creates: Shinobi III - Return of the Ninja Master (W) [Europe].gen
 
 ## Skeleton Krew (E)
 
+Name: Skeleton Krew (E).gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 5F872737
+
+CRC64: C92351330C6553CD
+
+SHA256: ee02b6b68801fc2785abe3561d7e35c52ec10b12f2fb0ec1a113dd7af36553e3
+
+SHA1: 9752fbd8508492dae252ae749393281ed9527de0
+
+BLAKE2sp: 583a7c92a7076e5527c353f7faef13703575a2543848206e704b61c82ad6d6fa
 
 // This takes to original (E) region game and creates: Skeleton Krew (W) [Europe].gen
 
 ## Smurfs 2, The (E) (M4)
 
+Name: Smurfs 2, The (E) (M4) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: B28BDD69
+
+CRC64: 8BFB821992B5254F
+
+SHA256: a87c5833e34b248a35e77da9b5abae506bc7e5d9eacd47aa4562d6f25b97d0a2
+
+SHA1: b4368369e1d5b9a60bc565fe09a9c5fff6b79fd4
+
+BLAKE2sp: f64583bc054f03bd04a763cdbb0387138dc4e63aa98aab6cf790923a0548aaad
 
 // This takes to original (E) region game and creates: Smurfs 2, The (M4)(W) [Europe].gen
 
 ## Smurfs, The (E) (M5)
 
+Name: Smurfs, The (E) (M5) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 88B30EFF
+
+CRC64: 5A3EA029E0E2905E
+
+SHA256: bed0d911d36cb19ab17e950ca5e18d02a36c299e9c93ff038551aa9934b84a28
+
+SHA1: 0da7e621e05dc9160122d728e1fca645ff11e670
+
+BLAKE2sp: bc2b7b3bb136058b1b66412f2bc578110470171a3f3df55e85a501b657f8cab7
 
 // This takes to original (E) region game and creates: Smurfs, The (M5)(W) [Europe].gen
 
 ## Soleil (E)
 
+Name: Soleil (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: A30EBDB1
+
+CRC64: A07E4FD7D10ADB04
+
+SHA256: 68f738232cf01df97237c71e9a079caac24337379c688718727f30978bf68589
+
+SHA1: 110a61671b83fe17fba768ab85b535ca1cc6d7ea
+
+BLAKE2sp: 8e9651dd255051e1917e83af41d85016964fd039f93e474806b1fdb2d899e828
 
 // This takes to original (E) region game and creates: Soleil (W) [Europe].gen
 
 ## Sonic Classics (Compilation) (E) (REV00)
 
+Name: Sonic Classics (Compilation) (E) (REV00) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 8C70B84E
+
+CRC64: A85EAB096ECDC1B2
+
+SHA256: 78bd9a48bc2c4a4ef09c8a0e1814dfde9013d4e6fe42c1e6ce9b94bdc142def2
+
+SHA1: 109e6d7b31d00fbdb9d4ecb304d4ea19e96c8607
+
+BLAKE2sp: 87325017a723d85b0f92afd5670d174da8a20d45a0e98a51a59b4e74afd6af93
 
 // This takes to original (E) region game and creates: Sonic Classics (Compilation) (REV00)(W) [Europe].gen
 
 ## Sonic Spinball (E)
 
+Name: Sonic Spinball (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: AEA0786D
+
+CRC64: C36DE4564C49E613
+
+SHA256: 85e08b7f61a89be3ea2987ca54ba91b92e51a3875ffabd459cce28fa1b2d47d6
+
+SHA1: f61a568314133b60de82ac162b5b52473adc9e1c
+
+BLAKE2sp: c3cea78e04d80bc6555252a9c0e965c33e9b5e9d15d07b3d7fa4088f833ca2dd
 
 // This takes to original (E) region game and creates: Sonic Spinball (W) [Europe].gen
 
 ## Sonic The Hedgehog 3 (E)
 
+Name: Sonic The Hedgehog 3 (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 6A632503
+
+CRC64: 425D995791B3DC5D
+
+SHA256: 9a2a9a93cdb906628a9dafe6e0e16b2f5505498be12de46b43e69a60d291fc69
+
+SHA1: 2ff45bb056ede0f745e52f8d02c54b4ca724ca4c
+
+BLAKE2sp: 12a1f7402c292639927b375793b7ad28eb30ebf7ed1a6ebb564a406d9904403f
 
 // This takes to original (E) region game and creates: Sonic The Hedgehog 3 (W) [Europe].gen
 
 ## Sparkster (E)
 
+Name: Sparkster (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: D63E9F2D
+
+CRC64: 409461DDBEF49337
+
+SHA256: 26a070561645e7c7e08bbf5819f5670e7e2fe2bc0de858a25f88a12e14c250cd
+
+SHA1: 91057f22c5cea9bf08edf62862c56b939d570770
+
+BLAKE2sp: 118a7e79cde650285ea1048f790df1c40dea55c89ded57fc5397990347f32883
 
 // This takes to original (E) region game and creates: Sparkster (W) [Europe].gen
 
 ## Speed Ball 2 - Brutal Deluxe (E)
 
+Name: Speed Ball 2 - Brutal Deluxe (E) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: 056A6E03
+
+CRC64: 44E24B2F6559D9A1
+
+SHA256: 3179ba680038bc1231f42271531030216e836f93b96bd330ef96ba587405e6dd
+
+SHA1: 9c989b31de7de38bc488f825575b7f6c1db9dbee
+
+BLAKE2sp: 518afef6b92919c110405a05773381be9227bd9de6081b01ae6b56bf210d57a1
 
 // This takes to original (E) region game and creates: Speed Ball 2 - Brutal Deluxe (W) [Europe].gen
 
 ## Spirou (E)
 
+Name: Spirou (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 6634B130
+
+CRC64: 5EE5CAF4F6EC3B67
+
+SHA256: 329c4eab7d2dc782883aec4ec5a357ceb38b7e210083f06f3f18c7fa837fd3ba
+
+SHA1: 5f18db9c85df4eaf4647a0519c9dc966aee583fa
+
+BLAKE2sp: 0e72358f8b44cce897899529c030179e1af35fee4078fdc59d3759b2e680b7b8
 
 // This takes to original (E) region game and creates: Spirou (W) [Europe].gen
 
 ## Spot Goes to Hollywood (E)
 
+Name: Spot Goes to Hollywood (E) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: FBE254EA
+
+CRC64: A4CE35EB4952AE1F
+
+SHA256: 1a0d12cffa2f92e41b9a3aeef2f0ea63516d446a9ad7e466350b076ca28fa22c
+
+SHA1: be1144c3d9d49dce2d5e1ab598ef0e2b730950b7
+
+BLAKE2sp: a2e7cf1b36c631c8b106c89fcc65fff443759e8d8a3807ed890f057c9384ee98
 
 // This takes to original (E) region game and creates: Spot Goes to Hollywood (W) [Europe].gen
 
 ## Star Trek - Deep Space 9 - Crossroads of Time (E)
 
+Name: Star Trek - Deep Space 9 - Crossroads of Time (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: D4B122F9
+
+CRC64: E55F1E0B2AD27ED3
+
+SHA256: f36db4f0d8b4375b8c682b24dc8d088520b33798864d7da3b65b2230e896b083
+
+SHA1: efc96336ccd83c31ab48ab48fe1e262c3ebcf0be
+
+BLAKE2sp: ffc4a9976972e13a5dc103936fc170a23d39466ecc01bd6d6a413ae3bc469bec
 
 // This takes to original (E) region game and creates: Star Trek - Deep Space 9 - Crossroads of Time (W) [Europe].gen
 
 ## Story of Thor, The - A Successor of The Light (E)
 
+Name: Story of Thor, The - A Successor of The Light (E) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 1110B0DB
+
+CRC64: C0E8F35A452280E1
+
+SHA256: 4fede08b01d73ee82aa2ba6fdb32352fb03f2eab1abc2bb032e51a93dd7e94b7
+
+SHA1: 178ef742dad227d4128fa81dddb116bad0cabe1d
+
+BLAKE2sp: 1b1de52a5ec535dce8f886fd6bf03f4b3821fe023c1e85b844639b74b201b87e
 
 // This takes to original (E) region game and creates: Story of Thor, The - A Successor of The Light (W) [Europe].gen
 
 ## Street Fighter II' - Special Champion Edition (E)
 
+Name: Street Fighter II' - Special Champion Edition (E) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 56D41136
+
+CRC64: 9F5F06468163133A
+
+SHA256: f7723402758d54f9df17cb2f0b2671404aa2d0acbc1479afdec16ae302aaf2a2
+
+SHA1: 2a406e2e4743de98785c85322f858abfb8221ae0
+
+BLAKE2sp: 84a2072d2b41a2e98b743f90082b8890e533be2bbc32b684f20c2886f34f6060
 
 // This takes to original (E) region game and creates: Street Fighter II' - Special Champion Edition (W) [Europe].gen
 
 ## Streets of Rage 3 (E) (Apr 1994)
 
+Name: Streets of Rage 3 (E) (Apr 1994) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 3B78135F
+
+CRC64: 50892CD412C65EA2
+
+SHA256: e9ab569b114ff1e58fc2fdc44d266858770a5b7a58f6cdd6cb491d3f71cd7a82
+
+SHA1: 5419f5eaf12201a662f03a79298a1b661005f73a
+
+BLAKE2sp: 83810c7fbe3db464c20b135c77dd5fe05692cdba5ebeda813ef8f5d480ed6069
 
 // This takes to original (E) region game and creates: Streets of Rage 3 (Apr 1994)(W) [Europe].gen
 
 ## Streets of Rage 3 (E) (May 1994)
 
+Name: Streets of Rage 3 (E) (May 1994) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 90EF991E
+
+CRC64: B2F53D78ED26B933
+
+SHA256: 971b7c1eeddda08b7772d3e673ffc6687721007b908738e27ee53e01864ef602
+
+SHA1: 8c0bc5b66703efbdeef2d6ede5745aad89bd8a44
+
+BLAKE2sp: 5bba3cac7125cdccf562965c204a0d1fe4865fd8de937812ae5982ea8d5dae76
 
 // This takes to original (E) region game and creates: Streets of Rage 3 (May 1994)(W) [Europe].gen
 
 ## Striker (E) (M5)
 
+Name: Striker (E) (M5) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: CC5D7AB2
+
+CRC64: 09CCB80799BF38C8
+
+SHA256: 581b22dfaf7fb57f8a968bb59e1690c2edf414cf44266795c72e6089fc77723a
+
+SHA1: 9917c35a263cc9bd922d55bf59d01bc2733b4e24
+
+BLAKE2sp: 080237204a4efdcc6650c920a1883b3693f5064988d748c2071dc54afc4831c7
 
 // This takes to original (E) region game and creates: Striker (M5)(W) [Europe].gen
 
 ## Sub-Terrania (E)
 
+Name: Sub-Terrania (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: E8CED28D
+
+CRC64: D2AD4811C638BF73
+
+SHA256: be28e603c9e3fbe85680f710001d13e90d9404fc6d5a4a7508e16c77a4539ece
+
+SHA1: 23c6a0616f170f6616bc8214f3d45f1f293bba9f
+
+BLAKE2sp: 601c062d3244c4fac08db3a3f476bbdd6b653cd0eaff09289e845c5f1451b82b
 
 // This takes to original (E) region game and creates: Sub-Terrania (W) [Europe].gen
 
 ## Sunset Riders (E)
 
+Name: Sunset Riders (E) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: 0FF33054
+
+CRC64: DD4534AA987E784C
+
+SHA256: 1283be0cd816324bac672e3ffc7e80c7f75973da8a08c24909fcc29e1ae01a42
+
+SHA1: 4a4f2cf397ade091e83e07bb3ffc7aa5862aeedd
+
+BLAKE2sp: 0d8ec6436016d394f3f713aaf94216220163bcd17b27bd9bc3222458198adbbd
 
 // This takes to original (E) region game and creates: Sunset Riders (W) [Europe].gen
 
 ## Super Street Fighter II - The New Challengers (E)
 
+Name: Super Street Fighter II - The New Challengers (E) [c][!].gen
+
+Size: 5242880 bytes (5120 KiB)
+
+CRC32: 682C192F
+
+CRC64: 3C5DBCE9D2C3BFAD
+
+SHA256: d3700c90ba971d0904d6391129ac169ba9b343d73537cde2f818f044ed0c5631
+
+SHA1: 56768a0524fa13fcd76474c8bb89b995bb471847
+
+BLAKE2sp: 3e369979dec95524d02ce771b68a5e6895a6859d221d3199ce6c98cd5d56641c
 
 // This takes to original (E) region game and creates: Super Street Fighter II - The New Challengers (W) [Europe].gen
 
