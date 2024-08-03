@@ -1754,46 +1754,163 @@ BLAKE2sp: 3e369979dec95524d02ce771b68a5e6895a6859d221d3199ce6c98cd5d56641c
 
 ## Teenage Mutant Hero Turtles - The Hyperstone Heist (E)
 
+Name: Teenage Mutant Hero Turtles - The Hyperstone Heist (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 966D5286
+
+CRC64: 6A791E70CC78C980
+
+SHA256: 2c7321cf17f905f722376c505fe2a1bf60d4abd82193a9e4f677783152415b47
+
+SHA1: ed6c32cae0813cbcf590fad715fa045fbeab6d78
+
+BLAKE2sp: b2750886a1a85c35a956df5a3912f738e9929a84b108090728ae87bf9a3b753f
 
 // This takes to original (E) region game and creates: Teenage Mutant Hero Turtles - The Hyperstone Heist (W) [Europe].gen
 
 ## Teenage Mutant Hero Turtles - Tournament Fighters (E)
 
+Name: Teenage Mutant Hero Turtles - Tournament Fighters (E).gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 3CD2B7E6
+
+CRC64: 70DCBA39EF59D660
+
+SHA256: d5f2e9e20ad15595648ab5e609ceb7c9088f7e65332ec0ca609697823213198c
+
+SHA1: 6a6c4ae9d944ad1d459d46ae40d3af09e60b5d7d
+
+BLAKE2sp: e820b0f0ab6b823ef811b0e155c030aea71bd16662c11226ebf904bd00f10d8d
 
 // This takes to original (E) region game and creates: Teenage Mutant Hero Turtles - Tournament Fighters (W) [Europe].gen
 
 ## Thunder Force IV (E)
 
+Name: Thunder Force IV (E) [c][!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: E7E3C05B
+
+CRC64: 4DAB269945319204
+
+SHA256: fb40409520abb5226e0ab58c3b13211d6941631b378c5179a57b3449814a10e4
+
+SHA1: ecbc2bfc4f3d8bbd46b398274ed2f5cc3db68454
+
+BLAKE2sp: 126cfea0a3eb93e601b895e81f780098c52844b763d0bd0222e24784b374de62
 
 // This takes to original (E) region game and creates: Thunder Force IV (W) [Europe].gen
 
 ## Tintin Au Tibet (E) (M6)
 
+Name: Tintin Au Tibet (E) (M6) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 4243CAF3
+
+CRC64: 240526626832C495
+
+SHA256: 7081d4f203911c06acb293f96691c02a997fa5251e39b9d069d75385be63b9be
+
+SHA1: 54fb11f601be37418b5bba3e0762d8b87068177a
+
+BLAKE2sp: 9249d305431f98915af01bba5c385c161b81deb9cca197af7c28d4b7df9becda
 
 // This takes to original (E) region game and creates: Tintin Au Tibet (M6)(W) [Europe].gen
 
 ## Tiny Toon Adventures - Acme All-Stars (E)
 
+Name: Tiny Toon Adventures - Acme All-Stars (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 1227B2B2
+
+CRC64: 828E5AC61F4451E5
+
+SHA256: e38113ee5d8279e06d10c5d0def574d1ac9a68d436f782d1dc11d79283298d9d
+
+SHA1: 2672018d9e005a9a3b5006fa8f61e08f2d1909aa
+
+BLAKE2sp: bbed4cfb49f033c3450199a5d6eda963aced9748c65dd9f155502c41598b989d
 
 // This takes to original (E) region game and creates: Tiny Toon Adventures - Acme All-Stars (W) [Europe].gen
 
 ## Tiny Toon Adventures - Buster's Hidden Treasure (E)
 
+Name: Tiny Toon Adventures - Buster's Hidden Treasure (E) [!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: D10FBA51
+
+CRC64: 2A0A4F4AF81A52C4
+
+SHA256: 6c6609860b95bbdbb90febd86b024731d8161a63ad1bb819d1a1a483aebfb6a9
+
+SHA1: 9e63b150cc2ec0ef141e68ffda862aa8db604441
+
+BLAKE2sp: 18285e421f07328517b0d3ce4ebc55bfcb5c4fa02a124946cb84501869a59a12
 
 // This takes to original (E) region game and creates: Tiny Toon Adventures - Buster's Hidden Treasure (W) [Europe].gen
 
 ## Toejam & Earl in Panic on Funkotron (E)
 
+Name: Toejam & Earl in Panic on Funkotron (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 47B0A871
+
+CRC64: 50545A55A5BE0D94
+
+SHA256: 0dd4944a7d580c9a98c672435585bf383ad6411b98bd4caf556e79d5bbf747a6
+
+SHA1: ac05701d86ba8957adb8fe0b67d8b4bb51328d98
+
+BLAKE2sp: b555a3284a19bc0a84019956ebaa7e8f750fa760a104de914552c15a03ff5d94
 
 // This takes to original (E) region game and creates: Toejam & Earl in Panic on Funkotron (W) [Europe].gen
 
 ## Total Football (E)
 
+Name: Total Football (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 8360B66A
+
+CRC64: 79817DCAA71F58C6
+
+SHA256: cc5852310bb786fc00b2e018069eeafeb111b264634664f8d6b1b0852ee949be
+
+SHA1: 271b13e1c0697d17ad702e97297ed1ea09ddb53b
+
+BLAKE2sp: 2f7f60aefd5f6c2490241cf62a46f189a10ec67c42e20415c4fcc422fa9837a6
 
 // This takes to original (E) region game and creates: Total Football (W) [Europe].gen
 
 ## Toy Story (E)
 
+Name: Toy Story (E) [!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: 8E89A9F3
+
+CRC64: 7916D3D55810C0C6
+
+SHA256: f00027cdbedb4bcf9baa2444347e5548e6765cba10fcdd62c730f8364fce87dc
+
+SHA1: 6e7bb9b191389973922a5ab9978205bb9d2664cc
+
+BLAKE2sp: e88fcd3f55e132608128c4e9eb50b5344240ef1d111c6c16d8f37c30daa2f0c3
 
 // This takes to original (E) region game and creates: Toy Story (W) [Europe].gen
 
