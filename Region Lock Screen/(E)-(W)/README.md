@@ -2060,11 +2060,37 @@ BLAKE2sp: dd5fd591f506a9fbeadb355453468add1f54426482218c78d4253c9902eb2dda
 
 ## Zero the Kamikaze Squirrel (E)
 
+Name: Zero the Kamikaze Squirrel (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 45FF0B4B
+
+CRC64: 7C09F218F7F37472
+
+SHA256: ff42dd3a2fd6710a5cea25acb01b9b189b9b7321f7642492389c8a32c5e5be83
+
+SHA1: 11a501f5dbde889edcc14e366b67bb75b0c5bc13
+
+BLAKE2sp: 75228ea6502c719444a764c6670b79ca3b53a58881875a13ddc421deac864eef
 
 // This takes to original (E) region game and creates: Zero the Kamikaze Squirrel (W) [Europe].gen
 
 ## Zombies (E)
 
+Name: Zombies (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 179A1AA2
+
+CRC64: 98287BAB0A800D46
+
+SHA256: d2d25b6102c9766248e37eab852107d15ac7c87e3325470130e7fe626ee8046f
+
+SHA1: f0b447196d648b282050a52bdfdd9bf0d8f3d57e
+
+BLAKE2sp: 374a1953a78791f0008d430cf20f78a11985e31e9471e92ea964c8c7e570136e
 
 // This takes to original (E) region game and creates: Zombies (W) [Europe].gen
 
