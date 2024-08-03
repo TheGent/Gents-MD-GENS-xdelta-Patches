@@ -1214,26 +1214,91 @@ BLAKE2sp: 44f6f478c6bd65a2d975521b88e0b48f59552b78857a11983b1d9c74f93d56c3
 
 ## Radical Rex (E)
 
+Name: Radical Rex (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: D02D3282
+
+CRC64: E3C173760B0E3BC3
+
+SHA256: 13224763af87a8849594281b14ec689635f2da41284a22f274d6c17d6f4f9c13
+
+SHA1: c8dc73b7cabf43813f9cf09370a4437af4f1573f
+
+BLAKE2sp: 39098eba8c64261dddd1fa0a1dd10b730fbc95f13930f691cfab555ddf0c73df
 
 // This takes to original (E) region game and creates: Radical Rex (W) [Europe].gen
 
 ## Ranger-X (E)
 
+Name: Ranger-X (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: B8C04804
+
+CRC64: E6191BC0F6847190
+
+SHA256: 26b7a153121f0d090e2f2e98c9d8752ecfbd6d6aa0cabe556617ba5367329eaf
+
+SHA1: 53908ee1c47f0d9d49e81fc295379552e2198948
+
+BLAKE2sp: 4ba8c55caeeb09308ca70bef792031afa7964f7f6321a59a788dfd07f0d8d3ba
 
 // This takes to original (E) region game and creates: Ranger-X (W) [Europe].gen
 
 ## Robocop Versus The Terminator (E)
 
+Name: Robocop Versus The Terminator (E).gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 85A93F8D
+
+CRC64: 7DAC6466698637D9
+
+SHA256: c740ccf2a228eca0bed7ed17ed89320697008d29fca5594a4ae388a133dc8776
+
+SHA1: 21348f50ccb0031108ce3fb999026688e9bef4ed
+
+BLAKE2sp: b04e15135b988f417666ff1e248651bdde6749010c3e37e756d3b4ce32332239
 
 // This takes to original (E) region game and creates: Robocop Versus The Terminator (W) [Europe].gen
 
 ## Rock n' Roll Racing (E)
 
+Name: Rock n' Roll Racing (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: BC5A0562
+
+CRC64: 79D514A63ECE3055
+
+SHA256: b65b7de45420e7618fef1b9bef13076389fdf7e0da8dfec1de23f528dcd170cb
+
+SHA1: c4d84425c007711f006a67d6577fd90f421605e5
+
+BLAKE2sp: aa7575717198b23c0be7a95ce566018f000cb3021f9f39161d8968508721e404
 
 // This takes to original (E) region game and creates: Rock n' Roll Racing (W) [Europe].gen
 
 ## Rocket Knight Adventures (E)
 
+Name: Rocket Knight Adventures (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 8EEDFD51
+
+CRC64: 05652032FA7ABD21
+
+SHA256: 5a8ca27c0cdd1f198e0e61bbd15dafc7238376f627757bb57d1d40d31115381f
+
+SHA1: cb741f868b0eba17819a27e37cda96f33674c342
+
+BLAKE2sp: 2ab65b773324c5d1853d3bc34d12daee2a9427a4be83c5090b49535da183c5e4
 
 // This takes to original (E) region game and creates: Rocket Knight Adventures (W) [Europe].gen
 
