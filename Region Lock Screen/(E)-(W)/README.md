@@ -1916,11 +1916,37 @@ BLAKE2sp: e88fcd3f55e132608128c4e9eb50b5344240ef1d111c6c16d8f37c30daa2f0c3
 
 ## Ultimate Mortal Kombat 3 (E)
 
+Name: Ultimate Mortal Kombat 3 (E) [!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: ECFB5CB4
+
+CRC64: 106A80D05A132C89
+
+SHA256: 0739bb2b01698b6ae3b9c5a65d5e81aab0a125ee4f0ac8d848eef4d5116cc4fc
+
+SHA1: 044bfdb3761df7c4d54a25898353fabcd3f604a3
+
+BLAKE2sp: de3da04b1918bdaac4f06cce0056f3b381703432c62d9a7c51e0bbf7daf39bf0
 
 // This takes to original (E) region game and creates: Ultimate Mortal Kombat 3 (W) [Europe].gen
 
 ## Ultimate Soccer (E)
 
+Name: Ultimate Soccer (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 83DB6E58
+
+CRC64: AD47A908F4129F45
+
+SHA256: 4d117e4aff64f5c1b248e2f547bf7c9ffc597177ee183894c3415695ae2f5cc0
+
+SHA1: 91781d0561f84de0d304221bbc26f4035f62010f
+
+BLAKE2sp: a232bde52721442179f23d25340dedca3b6ae49dac8837061c3fe99b6349e33e
 
 // This takes to original (E) region game and creates: Ultimate Soccer (W) [Europe].gen
 
