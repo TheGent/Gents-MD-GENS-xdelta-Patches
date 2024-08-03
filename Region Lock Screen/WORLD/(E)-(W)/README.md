@@ -1034,51 +1034,181 @@ BLAKE2sp: ee58d602693e632a8d0bebebe36e8cce78ea7bf98e598e819f560f0d82754488
 
 ## Pagemaster, The (E)
 
+Name: Pagemaster, The (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 79A180E2
+
+CRC64: CFDD0D42A7877A82
+
+SHA256: c33e3a48bb3fde11cd879aa66a1ea7dd2c666d97fd1294e7aeba95ea7d18298d
+
+SHA1: c4cf7695127b7ec5e003b5e7e15fdbfb172d1fcb
+
+BLAKE2sp: 7489e432a8579f02d154199b1b1eb8a622df4c807a925538602cb69b5646d241
 
 // This takes to original (E) region game and creates: Pagemaster, The (W) [Europe].gen
 
 ## Pebble Beach Golf Links (E)
 
+Name: Pebble Beach Golf Links (E).gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 6CFC7297
+
+CRC64: 57B3CFC1A665B4AD
+
+SHA256: dcbd2407aef78b37145e32e3f37ee9564ba8815794e59e007ea461e40d0b1a7b
+
+SHA1: 53e8e8f11fb9950732409b770b7d9c8dabe85a19
+
+BLAKE2sp: 3ba66bb2ec665c930250c34bae8d6e3cda5e48ce61b4a5d6efc2b0df4e5a5cd4
 
 // This takes to original (E) region game and creates: Pebble Beach Golf Links (W) [Europe].gen
 
 ## Phantom 2040 (E)
 
+Name: Phantom 2040 (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: B024882E
+
+CRC64: 7266E6AEAE13CDFE
+
+SHA256: afd44a84d70d099f2060d6307fd58ca5afda7c0d5964f59933f3e9088faef516
+
+SHA1: 6d588fac0fed0e2303082e29cde12d94719cca32
+
+BLAKE2sp: 957392776074ede9fd4be395632d372c6624e646a84536600e751815c0b5931d
 
 // This takes to original (E) region game and creates: Phantom 2040 (W) [Europe].gen
 
 ## Pinocchio (E)
 
+Name: Pinocchio (E).gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: 28014BDC
+
+CRC64: C88CF72E6DC98087
+
+SHA256: 030531d52218d5e19f7b0b1a5f29da345d75c47ccf0f25c7362a7bfe12f40142
+
+SHA1: 7b6c9fdd201341f5319be85b5042870a84e82ae0
+
+BLAKE2sp: 523c9b93e40bbb6f5b02f45f1b9b97dbca4c96e5b4a4a0e2814988b13e8b39f0
 
 // This takes to original (E) region game and creates: Pinocchio (W) [Europe].gen
 
 ## Pocahontas (E)
 
+Name: Pocahontas (E) [!].gen
+
+Size: 4194304 bytes (4096 KiB)
+
+CRC32: 165E7987
+
+CRC64: 4DF0AE007A17EBEB
+
+SHA256: 7370a7ea7735add38db7aee6a8cfe401d8327a12f0bb51e22c0e4fcf02cbeeef
+
+SHA1: 5ffcdc3e01151837e707ae225a3a845a8b6d3394
+
+BLAKE2sp: 6e9f4067bfe35092441b419f55312cf03f6c51fa9d3de7b088311c8da7b8ad26
 
 // This takes to original (E) region game and creates: Pocahontas (W) [Europe].gen
 
 ## Populous II - Two Tribes (E)
 
+Name: Populous II - Two Tribes (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: EE988BD9
+
+CRC64: 670F69B2B33228C3
+
+SHA256: f06923767cc4e5e473e9b4260dd006fdbc76d090360ce3a3c21aa486555ecf44
+
+SHA1: 556a79febff1fe4beb41e4e8a2629ff02b20c38f
+
+BLAKE2sp: 643cbabf543a8d9608a81b580e797d0c85c801190296d247817148ac064a4083
 
 // This takes to original (E) region game and creates: Populous II - Two Tribes (W) [Europe].gen
 
 ## Premier Manager 97 (E)
 
+Name: Premier Manager 97 (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: FCCBF69B
+
+CRC64: 2A491F988A889E19
+
+SHA256: c8327869bb987a03512c5a72a0586ca8eab25e8ee2c19afe1b542fdc56050f2d
+
+SHA1: e2df3b48170e1a7bde46af2adbf939803e267e13
+
+BLAKE2sp: 2be605811570d4fbd48d3852605223b07b689fb6621c8d0c49b9e5231d1180b4
 
 // This takes to original (E) region game and creates: Premier Manager 97 (W) [Europe].gen
 
 ## Prince of Persia (E)
 
+Name: Prince of Persia (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 61DE6FE0
+
+CRC64: DE1D8123680B6510
+
+SHA256: d4ab0b0a7b1ade490ed5329bb5508878cef9c0d9b60bb37a908dd3658a506bde
+
+SHA1: 6e645b791e6e2b84a206dca6cf47e8f955e60a72
+
+BLAKE2sp: c391b645b48e83337f8d99b4044e07fa515c818bf81af4302c1d56f7db29f833
 
 // This takes to original (E) region game and creates: Prince of Persia (W) [Europe].gen
 
 ## Probotector (E)
 
+Name: Probotector (E) [!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: BC597D48
+
+CRC64: 2452012914C67DFF
+
+SHA256: 4b4a09723b8eab0d7b8ef9ff3f004f125a4a33031beb60ad1e4e5abd881c923f
+
+SHA1: 69d905751ffa6a921586767263e45ddeb73333c2
+
+BLAKE2sp: 4526f7d44c6a2c8c1dd9f5ab0fad3adc70fb97b4969ac12dba5343932d1ff517
 
 // This takes to original (E) region game and creates: Probotector (W) [Europe].gen
 
 ## Punisher, The (E)
 
+Name: Punisher, The (E).gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 729EDD17
+
+CRC64: 8C73C42C95612E3F
+
+SHA256: 39bcecfbe293bc44e60c52fdf39851f23c177b7cb00c66a14d9996da0171c414
+
+SHA1: d11ec72726498e4608eefc1ef2b8a3cadb025394
+
+BLAKE2sp: 44f6f478c6bd65a2d975521b88e0b48f59552b78857a11983b1d9c74f93d56c3
 
 // This takes to original (E) region game and creates: Punisher, The (W) [Europe].gen
 
