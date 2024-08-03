@@ -2022,15 +2022,41 @@ BLAKE2sp: f925e809f98cf14196563bc1173024b3d3a7acb7adfa8fb8eaa935ae6f64f481
 
 // This takes to original (E) region game and creates: Worms (W) [Europe].gen
 
-## X-Men (E)
-
-
-// This takes to original (E) region game and creates: X-Men (W) [Europe].gen
-
 ## Xenon 2 - Megablast (E)
 
+Name: Xenon 2 - Megablast (E) [c][!].gen
+
+Size: 524288 bytes (512 KiB)
+
+CRC32: 59ABE7F9
+
+CRC64: 52AADDF947ADC316
+
+SHA256: e24bf25101c0240aab31c3e45c26ae157d78ffbf4afc1009172ac4d6efa60040
+
+SHA1: 055b554f7d61ed671eddc385bce950b2baa32249
+
+BLAKE2sp: 1d44d50fea55445f839fe608319092a77af44bf186ef934257a615cfee572515
 
 // This takes to original (E) region game and creates: Xenon 2 - Megablast (W) [Europe].gen
+
+## X-Men (E)
+
+Name: X-Men (E) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 0B78CA97
+
+CRC64: CEFE7C85BD87D73F
+
+SHA256: d1a3ee5bd3f3fc5205e8d259572ff9c7b245c3d051c295a5539c1654006976e1
+
+SHA1: 111d696b317ad5b57bc66e037a935d3f123d41c2
+
+BLAKE2sp: dd5fd591f506a9fbeadb355453468add1f54426482218c78d4253c9902eb2dda
+
+// This takes to original (E) region game and creates: X-Men (W) [Europe].gen
 
 ## Zero the Kamikaze Squirrel (E)
 
