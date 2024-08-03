@@ -1,27 +1,16 @@
-# Gents-MD-GENS-Region-Lock-Screen-xdelta-Patches 
+# Gents-MD-GENS-Region-Lock-Screen-WORLD-xdelta-Patches 
 
 Here are Patches for use with [xdelta](http://xdelta.org/) command-line tool and for ease of use [xdeltaUI](https://www.romhacking.net/utilities/598/) The Windows FrontEnd.
 
 Make sure your Games are the correct name and file type before patching!
 
-Here you will find three main sections:
-
-- NTSC Console
-   - EUROPE-JAPAN
-   - EUROPE-USA
-   - JAPAN-USA  
-- PAL Console
-   - JAPAN-EUROPE
-   - USA-EUROPE
-- World
-   - (J)-(W)
-   - (E)-(W)
-   - (JU)-(W)
-   - (U)-(W)
-   - (UE)-(W)
-     
-World (W) is Universal (Region-Free) and compatible with "All Region Consoles"
-
+The following patches are World (W) "Universal" (Region-Free) and compatible with "All Region Consoles"
 
 Please check the ReadMe in that section for further information.
 
+- World
+   - (E)-(W)
+   - (J)-(W)
+   - (JU)-(W)
+   - (U)-(W)
+   - (UE)-(W)

@@ -2033,6 +2033,24 @@ BLAKE2sp: f877f3e7ccf12a37999564c6a8e92b8d203e54e64f8cf3b8a6bdc9b812ab9ad9
 
 // This takes to original (U) region game and creates: Skeleton Krew (W).gen
 
+## Soldiers of Fortune (U)
+
+Name: Soldiers of Fortune (U) [c][!].gen
+
+Size: 1572864 bytes (1536 KiB)
+
+CRC32: A84D28A1
+
+CRC64: 40B7F0F06564F463
+
+SHA256: 6566228d5f6b51d51d25ba3ee53ab4be2a273d424508b7a93cdad68b8f4ba54e
+
+SHA1: 619faee3d78532478aad405db335d00fb93e6850
+
+BLAKE2sp: ea7afaaf49883f72bff46f49c4933a6c2e9ff67fbc7a0b9d41678765addb6c3a
+
+// This takes to original (J) region game and creates: Soldiers of Fortune (W).gen
+
 ## Sonic Spinball (U) (alt music) (U)
 
 Name: Sonic Spinball (U) (alt music) [!].gen
@@ -2049,7 +2067,7 @@ SHA1: 8f372e3552e309d3462adeb700242b251f59def1
 
 BLAKE2sp: 5fdbe0d6b5da1ab9d3a1a6a45b34feaa9f7f07aeb7a80ee9d05ba5ddce25ab8c
 
-// This takes to original (U) region game and creates: Sonic Spinball (U) (alt music) (W).gen
+// This takes to original (U) region game and creates: Sonic Spinball (alt music) (W).gen
 
 ## Sonic Spinball (U)
 
@@ -2483,6 +2501,24 @@ SHA1: d8d159c7c5a365242f989cc3aad2352fb27e3af3
 BLAKE2sp: 779296782d739afdb66504d93ff8739a9e59b6ebe833fa5255c82cf468a04df0
 
 // This takes to original (U) region game and creates: Tiny Toon Adventures - Buster's Hidden Treasure (W).gen
+
+## Top Gear 2 (U)
+
+Name: Top Gear 2 (U) [!].gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: BD3074D2
+
+CRC64: 2726A8605BE81790
+
+SHA256: b41909d53090e28c1d1e50941dad01676dd3d19caf26c75f66aac6a3ad689ba6
+
+SHA1: e548e2ed4f69c32dd601a2b90bcf4eeb34d36c49
+
+BLAKE2sp: 288cc5f4ef9ef8b683687261896188ba81cc451b68174f99a90a1740612dd1e3
+
+// This takes to original (J) region game and creates: Top Gear 2 (W).gen
 
 ## TNN Bass Tournament of Champions (U) (REV01)
 
