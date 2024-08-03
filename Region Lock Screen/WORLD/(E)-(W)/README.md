@@ -908,21 +908,73 @@ BLAKE2sp: 06e3f496abf98338b85d9babe6fee6bc2c39fdd21aecdedc3fa54407b8776bd5
 
 ## NBA Hang Time (E)
 
+Name: NBA Hang Time (E) [!].gen
+
+Size: 3145728 bytes (3072 KiB)
+
+CRC32: EDB4D4AA
+
+CRC64: 07A6048CC1D60830
+
+SHA256: dc04b6b70edbd68af3204f76d7f54726dd4395320baf8adbb37e7976fe19cfdd
+
+SHA1: 4594ba338a07dd79639c11b5b96c7f1a6e283d0c
+
+BLAKE2sp: befafdb37885ef44701d7e4d1e42e90516bb470393e7dbf212425702d71c226d
 
 // This takes to original (E) region game and creates: NBA Hang Time (W) [Europe].gen
 
 ## NHL 95 Elitserien (E)
 
+Name: NHL 95 Elitserien (E) [c][!].gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: E10A25C0
+
+CRC64: D47E862E805C0194
+
+SHA256: 066fb34c670d2fd6263f53a273721cf4321762e9bad8b031ede8be50876d8663
+
+SHA1: 5f2c8303099ce13fe1e5760b7ef598a2967bfa8d
+
+BLAKE2sp: 2bdf8ea5fbdb1c90b8938045c098e6b7ba4778621d7d743f53a80fb870cc057d
 
 // This takes to original (E) region game and creates: NHL 95 Elitserien (W) [Europe].gen
 
 ## NHL 96 Elitserien (E)
 
+Name: NHL 96 Elitserien (E).gen
+
+Size: 2097152 bytes (2048 KiB)
+
+CRC32: 9821D0A3
+
+CRC64: 32E612D519170BEE
+
+SHA256: f6aa13c269dab69df0eeacae64a199f85836a7775638e167d0fae1be190855ca
+
+SHA1: 085fb8e6f0d2ff0f399de5c57eb13d9c9325dbae
+
+BLAKE2sp: f6407fb65b7aa5ef3d31a11d835d09fca9400ec39919aa49254b60ac85b9f3d1
 
 // This takes to original (E) region game and creates: NHL 96 Elitserien (W) [Europe].gen
 
 ## Nigel Mansell's World Championship (E)
 
+Name: Nigel Mansell's World Championship (E).gen
+
+Size: 1048576 bytes (1024 KiB)
+
+CRC32: 3FE3D63B
+
+CRC64: 90107A8D76C80D6F
+
+SHA256: 987a0e5a7691c3852eb121cc303880ec841d43668dda32b3868aec2fc2ae35ec
+
+-SHA1: 81b6d231998c0dd90caa9325b9cc6e50c6e622bb
+
+BLAKE2sp: f4e36a286596cc87b3382bd4aad2e583b012599fc2fe402186c6080ef1aa66bc
 
 // This takes to original (E) region game and creates: Nigel Mansell's World Championship (W) [Europe].gen
 
