@@ -11,6 +11,7 @@ Please check the ReadMe in that section for further information.
 - World
    - (E)-(W)
    - (J)-(W)
+   - (JE)-(W)
    - (JU)-(W)
    - (U)-(W)
    - (UE)-(W)
